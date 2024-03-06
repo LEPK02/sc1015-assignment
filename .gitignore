@@ -1,0 +1,3 @@
+# Ignore TensorFlow event files
+*.tfevents
+logs
