@@ -1,0 +1,309 @@
+time,home_team,home_score,away_team,away_score,season_start_year,season_end_year,correct_year
+2019-06-01 00:00:00,Paderborn,1,Dortmund,6,2019,2020,2019
+2019-06-02 02:30:00,FC Koln,2,RB Leipzig,4,2019,2020,2019
+2019-06-04 02:30:00,Werder Bremen,0,Eintracht Frankfurt,3,2019,2020,2019
+2019-06-06 02:30:00,Freiburg,1,B. Monchengladbach,0,2019,2020,2019
+2019-06-06 21:30:00,RB Leipzig,1,Paderborn,1,2019,2020,2019
+2019-06-06 21:30:00,Eintracht Frankfurt,0,Mainz,2,2019,2020,2019
+2019-06-06 21:30:00,Dusseldorf,2,Hoffenheim,2,2019,2020,2019
+2019-06-06 21:30:00,Bayer Leverkusen,2,Bayern Munich,4,2019,2020,2019
+2019-06-07 00:30:00,Dortmund,1,Hertha Berlin,0,2019,2020,2019
+2019-06-07 19:30:00,Werder Bremen,0,Wolfsburg,1,2019,2020,2019
+2019-06-07 21:30:00,Union Berlin,1,Schalke,1,2019,2020,2019
+2019-06-08 00:00:00,Augsburg,1,FC Koln,1,2019,2020,2019
+2019-06-13 02:30:00,Hoffenheim,0,RB Leipzig,2,2019,2020,2019
+2019-06-13 21:30:00,Dusseldorf,0,Dortmund,1,2019,2020,2019
+2019-06-13 21:30:00,FC Koln,1,Union Berlin,2,2019,2020,2019
+2019-06-13 21:30:00,Paderborn,1,Werder Bremen,5,2019,2020,2019
+2019-06-13 21:30:00,Hertha Berlin,1,Eintracht Frankfurt,4,2019,2020,2019
+2019-06-13 21:30:00,Wolfsburg,2,Freiburg,2,2019,2020,2019
+2019-06-14 00:30:00,Bayern Munich,2,B. Monchengladbach,1,2019,2020,2019
+2019-06-14 21:30:00,Mainz,0,Augsburg,1,2019,2020,2019
+2019-06-15 00:00:00,Schalke,1,Bayer Leverkusen,1,2019,2020,2019
+2019-06-17 00:30:00,B. Monchengladbach,3,Wolfsburg,0,2019,2020,2019
+2019-06-17 02:30:00,Freiburg,2,Hertha Berlin,1,2019,2020,2019
+2019-06-17 02:30:00,Werder Bremen,0,Bayern Munich,1,2019,2020,2019
+2019-06-17 02:30:00,Union Berlin,1,Paderborn,0,2019,2020,2019
+2019-06-18 00:30:00,Eintracht Frankfurt,2,Schalke,1,2019,2020,2019
+2019-06-18 02:30:00,Dortmund,0,Mainz,2,2019,2020,2019
+2019-06-18 02:30:00,Bayer Leverkusen,3,FC Koln,1,2019,2020,2019
+2019-06-18 02:30:00,Augsburg,1,Hoffenheim,3,2019,2020,2019
+2019-06-18 02:30:00,RB Leipzig,2,Dusseldorf,2,2019,2020,2019
+2019-06-20 21:30:00,Dusseldorf,1,Augsburg,1,2019,2020,2019
+2019-06-20 21:30:00,FC Koln,1,Eintracht Frankfurt,1,2019,2020,2019
+2019-06-20 21:30:00,Hertha Berlin,2,Bayer Leverkusen,0,2019,2020,2019
+2019-06-20 21:30:00,Bayern Munich,3,Freiburg,1,2019,2020,2019
+2019-06-20 21:30:00,Mainz,3,Werder Bremen,1,2019,2020,2019
+2019-06-20 21:30:00,Paderborn,1,B. Monchengladbach,3,2019,2020,2019
+2019-06-20 21:30:00,RB Leipzig,0,Dortmund,2,2019,2020,2019
+2019-06-20 21:30:00,Schalke,1,Wolfsburg,4,2019,2020,2019
+2019-06-20 21:30:00,Hoffenheim,4,Union Berlin,0,2019,2020,2019
+2019-06-27 21:30:00,Wolfsburg,0,Bayern Munich,4,2019,2020,2019
+2019-06-27 21:30:00,Werder Bremen,6,FC Koln,1,2019,2020,2019
+2019-06-27 21:30:00,Union Berlin,3,Dusseldorf,0,2019,2020,2019
+2019-06-27 21:30:00,Freiburg,4,Schalke,0,2019,2020,2019
+2019-06-27 21:30:00,Eintracht Frankfurt,3,Paderborn,2,2019,2020,2019
+2019-06-27 21:30:00,Dortmund,0,Hoffenheim,4,2019,2020,2019
+2019-06-27 21:30:00,Bayer Leverkusen,1,Mainz,0,2019,2020,2019
+2019-06-27 21:30:00,B. Monchengladbach,2,Hertha Berlin,1,2019,2020,2019
+2019-06-27 21:30:00,Augsburg,1,RB Leipzig,2,2019,2020,2019
+2019-07-03 02:30:00,Werder Bremen,0,Heidenheim,0,2019,2020,2019
+2019-07-07 02:30:00,Heidenheim,2,Werder Bremen,2,2019,2020,2019
+2019-08-17 02:30:00,Bayern Munich,2,Hertha Berlin,2,2019,2020,2019
+2019-08-17 21:30:00,Werder Bremen,1,Dusseldorf,3,2019,2020,2019
+2019-08-17 21:30:00,Freiburg,3,Mainz,0,2019,2020,2019
+2019-08-17 21:30:00,Dortmund,5,Augsburg,1,2019,2020,2019
+2019-08-17 21:30:00,Bayer Leverkusen,3,Paderborn,2,2019,2020,2019
+2019-08-17 21:30:00,Wolfsburg,2,FC Koln,1,2019,2020,2019
+2019-08-18 00:30:00,B. Monchengladbach,0,Schalke,0,2019,2020,2019
+2019-08-18 21:30:00,Eintracht Frankfurt,1,Hoffenheim,0,2019,2020,2019
+2019-08-19 00:00:00,Union Berlin,0,RB Leipzig,4,2019,2020,2019
+2019-08-24 02:30:00,FC Koln,1,Dortmund,3,2019,2020,2019
+2019-08-24 21:30:00,Hoffenheim,3,Werder Bremen,2,2019,2020,2019
+2019-08-24 21:30:00,Augsburg,1,Union Berlin,1,2019,2020,2019
+2019-08-24 21:30:00,Dusseldorf,1,Bayer Leverkusen,3,2019,2020,2019
+2019-08-24 21:30:00,Paderborn,1,Freiburg,3,2019,2020,2019
+2019-08-24 21:30:00,Mainz,1,B. Monchengladbach,3,2019,2020,2019
+2019-08-25 00:30:00,Schalke,0,Bayern Munich,3,2019,2020,2019
+2019-08-25 21:30:00,RB Leipzig,2,Eintracht Frankfurt,1,2019,2020,2019
+2019-08-26 00:00:00,Hertha Berlin,0,Wolfsburg,3,2019,2020,2019
+2019-08-31 02:30:00,B. Monchengladbach,1,RB Leipzig,3,2019,2020,2019
+2019-08-31 21:30:00,Bayern Munich,6,Mainz,1,2019,2020,2019
+2019-08-31 21:30:00,Freiburg,1,FC Koln,2,2019,2020,2019
+2019-08-31 21:30:00,Wolfsburg,1,Paderborn,1,2019,2020,2019
+2019-08-31 21:30:00,Bayer Leverkusen,0,Hoffenheim,0,2019,2020,2019
+2019-08-31 21:30:00,Schalke,3,Hertha Berlin,0,2019,2020,2019
+2019-09-01 00:30:00,Union Berlin,3,Dortmund,1,2019,2020,2019
+2019-09-01 21:30:00,Werder Bremen,3,Augsburg,2,2019,2020,2019
+2019-09-02 00:00:00,Eintracht Frankfurt,2,Dusseldorf,1,2019,2020,2019
+2019-09-14 02:30:00,Dusseldorf,1,Wolfsburg,1,2019,2020,2019
+2019-09-14 21:30:00,Union Berlin,1,Werder Bremen,2,2019,2020,2019
+2019-09-14 21:30:00,Mainz,2,Hertha Berlin,1,2019,2020,2019
+2019-09-14 21:30:00,FC Koln,0,B. Monchengladbach,1,2019,2020,2019
+2019-09-14 21:30:00,Dortmund,4,Bayer Leverkusen,0,2019,2020,2019
+2019-09-14 21:30:00,Augsburg,2,Eintracht Frankfurt,1,2019,2020,2019
+2019-09-15 00:30:00,RB Leipzig,1,Bayern Munich,1,2019,2020,2019
+2019-09-15 21:30:00,Hoffenheim,0,Freiburg,3,2019,2020,2019
+2019-09-16 00:00:00,Paderborn,1,Schalke,5,2019,2020,2019
+2019-09-21 02:30:00,Schalke,2,Mainz,1,2019,2020,2019
+2019-09-21 21:30:00,Bayer Leverkusen,2,Union Berlin,0,2019,2020,2019
+2019-09-21 21:30:00,Bayern Munich,4,FC Koln,0,2019,2020,2019
+2019-09-21 21:30:00,Hertha Berlin,2,Paderborn,1,2019,2020,2019
+2019-09-21 21:30:00,Freiburg,1,Augsburg,1,2019,2020,2019
+2019-09-22 00:30:00,Werder Bremen,0,RB Leipzig,3,2019,2020,2019
+2019-09-22 21:30:00,B. Monchengladbach,2,Dusseldorf,1,2019,2020,2019
+2019-09-23 00:00:00,Eintracht Frankfurt,2,Dortmund,2,2019,2020,2019
+2019-09-24 02:30:00,Wolfsburg,1,Hoffenheim,1,2019,2020,2019
+2019-09-28 02:30:00,Union Berlin,1,Eintracht Frankfurt,2,2019,2020,2019
+2019-09-28 21:30:00,Hoffenheim,0,B. Monchengladbach,3,2019,2020,2019
+2019-09-28 21:30:00,RB Leipzig,1,Schalke,3,2019,2020,2019
+2019-09-28 21:30:00,Paderborn,2,Bayern Munich,3,2019,2020,2019
+2019-09-28 21:30:00,Mainz,0,Wolfsburg,1,2019,2020,2019
+2019-09-28 21:30:00,Augsburg,0,Bayer Leverkusen,3,2019,2020,2019
+2019-09-29 00:30:00,Dortmund,2,Werder Bremen,2,2019,2020,2019
+2019-09-29 21:30:00,Dusseldorf,1,Freiburg,2,2019,2020,2019
+2019-09-30 00:00:00,FC Koln,0,Hertha Berlin,4,2019,2020,2019
+2019-10-05 02:30:00,Hertha Berlin,3,Dusseldorf,1,2019,2020,2019
+2019-10-05 21:30:00,Paderborn,1,Mainz,2,2019,2020,2019
+2019-10-05 21:30:00,Freiburg,2,Dortmund,2,2019,2020,2019
+2019-10-05 21:30:00,Bayern Munich,1,Hoffenheim,2,2019,2020,2019
+2019-10-05 21:30:00,Bayer Leverkusen,1,RB Leipzig,1,2019,2020,2019
+2019-10-06 00:30:00,Schalke,1,FC Koln,1,2019,2020,2019
+2019-10-06 19:30:00,B. Monchengladbach,5,Augsburg,1,2019,2020,2019
+2019-10-06 21:30:00,Wolfsburg,1,Union Berlin,0,2019,2020,2019
+2019-10-07 00:00:00,Eintracht Frankfurt,2,Werder Bremen,2,2019,2020,2019
+2019-10-19 02:30:00,Eintracht Frankfurt,3,Bayer Leverkusen,0,2019,2020,2019
+2019-10-19 21:30:00,Werder Bremen,1,Hertha Berlin,1,2019,2020,2019
+2019-10-19 21:30:00,Union Berlin,2,Freiburg,0,2019,2020,2019
+2019-10-19 21:30:00,RB Leipzig,1,Wolfsburg,1,2019,2020,2019
+2019-10-19 21:30:00,Dusseldorf,1,Mainz,0,2019,2020,2019
+2019-10-19 21:30:00,Augsburg,2,Bayern Munich,2,2019,2020,2019
+2019-10-20 00:30:00,Dortmund,1,B. Monchengladbach,0,2019,2020,2019
+2019-10-20 21:30:00,FC Koln,3,Paderborn,0,2019,2020,2019
+2019-10-21 00:00:00,Hoffenheim,2,Schalke,0,2019,2020,2019
+2019-10-26 02:30:00,Mainz,3,FC Koln,1,2019,2020,2019
+2019-10-26 21:30:00,Freiburg,2,RB Leipzig,1,2019,2020,2019
+2019-10-26 21:30:00,Hertha Berlin,2,Hoffenheim,3,2019,2020,2019
+2019-10-26 21:30:00,Bayern Munich,2,Union Berlin,1,2019,2020,2019
+2019-10-26 21:30:00,Schalke,0,Dortmund,0,2019,2020,2019
+2019-10-26 21:30:00,Paderborn,2,Dusseldorf,0,2019,2020,2019
+2019-10-27 00:30:00,Bayer Leverkusen,2,Werder Bremen,2,2019,2020,2019
+2019-10-27 22:30:00,Wolfsburg,0,Augsburg,0,2019,2020,2019
+2019-10-28 01:00:00,B. Monchengladbach,4,Eintracht Frankfurt,2,2019,2020,2019
+2019-11-02 03:30:00,Hoffenheim,3,Paderborn,0,2019,2020,2019
+2019-11-02 22:30:00,Werder Bremen,2,Freiburg,2,2019,2020,2019
+2019-11-02 22:30:00,RB Leipzig,8,Mainz,0,2019,2020,2019
+2019-11-02 22:30:00,Eintracht Frankfurt,5,Bayern Munich,1,2019,2020,2019
+2019-11-02 22:30:00,Dortmund,3,Wolfsburg,0,2019,2020,2019
+2019-11-02 22:30:00,Bayer Leverkusen,1,B. Monchengladbach,2,2019,2020,2019
+2019-11-03 01:30:00,Union Berlin,1,Hertha Berlin,0,2019,2020,2019
+2019-11-03 22:30:00,Dusseldorf,2,FC Koln,0,2019,2020,2019
+2019-11-04 01:00:00,Augsburg,2,Schalke,3,2019,2020,2019
+2019-11-09 03:30:00,FC Koln,1,Hoffenheim,2,2019,2020,2019
+2019-11-09 22:30:00,Schalke,3,Dusseldorf,3,2019,2020,2019
+2019-11-09 22:30:00,Paderborn,0,Augsburg,1,2019,2020,2019
+2019-11-09 22:30:00,Mainz,2,Union Berlin,3,2019,2020,2019
+2019-11-09 22:30:00,Hertha Berlin,2,RB Leipzig,4,2019,2020,2019
+2019-11-10 01:30:00,Bayern Munich,4,Dortmund,0,2019,2020,2019
+2019-11-10 20:30:00,B. Monchengladbach,3,Werder Bremen,1,2019,2020,2019
+2019-11-10 22:30:00,Wolfsburg,0,Bayer Leverkusen,2,2019,2020,2019
+2019-11-11 01:00:00,Freiburg,1,Eintracht Frankfurt,0,2019,2020,2019
+2019-11-23 03:30:00,Dortmund,3,Paderborn,3,2019,2020,2019
+2019-11-23 22:30:00,Dusseldorf,0,Bayern Munich,4,2019,2020,2019
+2019-11-23 22:30:00,Eintracht Frankfurt,0,Wolfsburg,2,2019,2020,2019
+2019-11-23 22:30:00,Bayer Leverkusen,1,Freiburg,1,2019,2020,2019
+2019-11-23 22:30:00,Werder Bremen,1,Schalke,2,2019,2020,2019
+2019-11-23 22:30:00,Union Berlin,2,B. Monchengladbach,0,2019,2020,2019
+2019-11-24 01:30:00,RB Leipzig,4,FC Koln,1,2019,2020,2019
+2019-11-24 22:30:00,Augsburg,4,Hertha Berlin,0,2019,2020,2019
+2019-11-25 01:00:00,Hoffenheim,1,Mainz,5,2019,2020,2019
+2019-11-30 03:30:00,Schalke,2,Union Berlin,1,2019,2020,2019
+2019-11-30 22:30:00,Paderborn,2,RB Leipzig,3,2019,2020,2019
+2019-11-30 22:30:00,Hoffenheim,1,Dusseldorf,1,2019,2020,2019
+2019-11-30 22:30:00,Hertha Berlin,1,Dortmund,2,2019,2020,2019
+2019-11-30 22:30:00,FC Koln,1,Augsburg,1,2019,2020,2019
+2019-12-01 01:30:00,Bayern Munich,1,Bayer Leverkusen,2,2019,2020,2019
+2019-12-01 22:30:00,B. Monchengladbach,4,Freiburg,2,2019,2020,2019
+2019-12-02 01:00:00,Wolfsburg,2,Werder Bremen,3,2019,2020,2019
+2019-12-03 03:30:00,Mainz,2,Eintracht Frankfurt,1,2019,2020,2019
+2019-12-07 03:30:00,Eintracht Frankfurt,2,Hertha Berlin,2,2019,2020,2019
+2019-12-07 22:30:00,Dortmund,5,Dusseldorf,0,2019,2020,2019
+2019-12-07 22:30:00,B. Monchengladbach,2,Bayern Munich,1,2019,2020,2019
+2019-12-07 22:30:00,Augsburg,2,Mainz,1,2019,2020,2019
+2019-12-07 22:30:00,Freiburg,1,Wolfsburg,0,2019,2020,2019
+2019-12-07 22:30:00,RB Leipzig,3,Hoffenheim,1,2019,2020,2019
+2019-12-08 01:30:00,Bayer Leverkusen,2,Schalke,1,2019,2020,2019
+2019-12-08 22:30:00,Union Berlin,2,FC Koln,0,2019,2020,2019
+2019-12-09 01:00:00,Werder Bremen,0,Paderborn,1,2019,2020,2019
+2019-12-14 03:30:00,Hoffenheim,2,Augsburg,4,2019,2020,2019
+2019-12-14 22:30:00,Paderborn,1,Union Berlin,1,2019,2020,2019
+2019-12-14 22:30:00,Hertha Berlin,1,Freiburg,0,2019,2020,2019
+2019-12-14 22:30:00,Bayern Munich,6,Werder Bremen,1,2019,2020,2019
+2019-12-14 22:30:00,FC Koln,2,Bayer Leverkusen,0,2019,2020,2019
+2019-12-14 22:30:00,Mainz,0,Dortmund,4,2019,2020,2019
+2019-12-15 01:30:00,Dusseldorf,0,RB Leipzig,3,2019,2020,2019
+2019-12-15 22:30:00,Wolfsburg,2,B. Monchengladbach,1,2019,2020,2019
+2019-12-16 01:00:00,Schalke,1,Eintracht Frankfurt,0,2019,2020,2019
+2019-12-18 01:30:00,Werder Bremen,0,Mainz,5,2019,2020,2019
+2019-12-18 03:30:00,Union Berlin,0,Hoffenheim,2,2019,2020,2019
+2019-12-18 03:30:00,Dortmund,3,RB Leipzig,3,2019,2020,2019
+2019-12-18 03:30:00,Augsburg,3,Dusseldorf,0,2019,2020,2019
+2019-12-19 01:30:00,Bayer Leverkusen,0,Hertha Berlin,1,2019,2020,2019
+2019-12-19 03:30:00,B. Monchengladbach,2,Paderborn,0,2019,2020,2019
+2019-12-19 03:30:00,Freiburg,1,Bayern Munich,3,2019,2020,2019
+2019-12-19 03:30:00,Wolfsburg,1,Schalke,1,2019,2020,2019
+2019-12-19 03:30:00,Eintracht Frankfurt,2,FC Koln,4,2019,2020,2019
+2019-12-21 03:30:00,Hoffenheim,2,Dortmund,1,2019,2020,2019
+2019-12-21 22:30:00,Schalke,2,Freiburg,2,2019,2020,2019
+2019-12-21 22:30:00,RB Leipzig,3,Augsburg,1,2019,2020,2019
+2019-12-21 22:30:00,Mainz,0,Bayer Leverkusen,1,2019,2020,2019
+2019-12-21 22:30:00,FC Koln,1,Werder Bremen,0,2019,2020,2019
+2019-12-21 22:30:00,Bayern Munich,2,Wolfsburg,0,2019,2020,2019
+2019-12-22 01:30:00,Hertha Berlin,0,B. Monchengladbach,0,2019,2020,2019
+2019-12-22 22:30:00,Dusseldorf,2,Union Berlin,1,2019,2020,2019
+2019-12-23 01:00:00,Paderborn,2,Eintracht Frankfurt,1,2019,2020,2019
+2020-01-18 03:30:00,Schalke,2,B. Monchengladbach,0,2019,2020,2020
+2020-01-18 22:30:00,Mainz,1,Freiburg,2,2019,2020,2020
+2020-01-18 22:30:00,Hoffenheim,1,Eintracht Frankfurt,2,2019,2020,2020
+2020-01-18 22:30:00,FC Koln,3,Wolfsburg,1,2019,2020,2020
+2020-01-18 22:30:00,Dusseldorf,0,Werder Bremen,1,2019,2020,2020
+2020-01-18 22:30:00,Augsburg,3,Dortmund,5,2019,2020,2020
+2020-01-19 01:30:00,RB Leipzig,3,Union Berlin,1,2019,2020,2020
+2020-01-19 22:30:00,Hertha Berlin,0,Bayern Munich,4,2019,2020,2020
+2020-01-20 01:00:00,Paderborn,1,Bayer Leverkusen,4,2019,2020,2020
+2020-01-25 03:30:00,Dortmund,5,FC Koln,1,2019,2020,2020
+2020-01-25 22:30:00,Eintracht Frankfurt,2,RB Leipzig,0,2019,2020,2020
+2020-01-25 22:30:00,Freiburg,0,Paderborn,2,2019,2020,2020
+2020-01-25 22:30:00,B. Monchengladbach,3,Mainz,1,2019,2020,2020
+2020-01-25 22:30:00,Wolfsburg,1,Hertha Berlin,2,2019,2020,2020
+2020-01-25 22:30:00,Union Berlin,2,Augsburg,0,2019,2020,2020
+2020-01-26 01:30:00,Bayern Munich,5,Schalke,0,2019,2020,2020
+2020-01-26 22:30:00,Werder Bremen,0,Hoffenheim,3,2019,2020,2020
+2020-01-27 01:00:00,Bayer Leverkusen,3,Dusseldorf,0,2019,2020,2020
+2020-02-01 03:30:00,Hertha Berlin,0,Schalke,0,2019,2020,2020
+2020-02-01 22:30:00,Mainz,1,Bayern Munich,3,2019,2020,2020
+2020-02-01 22:30:00,Hoffenheim,2,Bayer Leverkusen,1,2019,2020,2020
+2020-02-01 22:30:00,Dusseldorf,1,Eintracht Frankfurt,1,2019,2020,2020
+2020-02-01 22:30:00,Dortmund,5,Union Berlin,0,2019,2020,2020
+2020-02-01 22:30:00,Augsburg,2,Werder Bremen,1,2019,2020,2020
+2020-02-02 01:30:00,RB Leipzig,2,B. Monchengladbach,2,2019,2020,2020
+2020-02-02 22:30:00,FC Koln,4,Freiburg,0,2019,2020,2020
+2020-02-03 01:00:00,Paderborn,2,Wolfsburg,4,2019,2020,2020
+2020-02-08 03:30:00,Eintracht Frankfurt,5,Augsburg,0,2019,2020,2020
+2020-02-08 22:30:00,Wolfsburg,1,Dusseldorf,1,2019,2020,2020
+2020-02-08 22:30:00,Werder Bremen,0,Union Berlin,2,2019,2020,2020
+2020-02-08 22:30:00,Schalke,1,Paderborn,1,2019,2020,2020
+2020-02-08 22:30:00,Hertha Berlin,1,Mainz,3,2019,2020,2020
+2020-02-08 22:30:00,Freiburg,1,Hoffenheim,0,2019,2020,2020
+2020-02-09 01:30:00,Bayer Leverkusen,4,Dortmund,3,2019,2020,2020
+2020-02-10 01:00:00,Bayern Munich,0,RB Leipzig,0,2019,2020,2020
+2020-02-15 03:30:00,Dortmund,4,Eintracht Frankfurt,0,2019,2020,2020
+2020-02-15 22:30:00,Hoffenheim,2,Wolfsburg,3,2019,2020,2020
+2020-02-15 22:30:00,Paderborn,1,Hertha Berlin,2,2019,2020,2020
+2020-02-15 22:30:00,Augsburg,1,Freiburg,1,2019,2020,2020
+2020-02-15 22:30:00,Union Berlin,2,Bayer Leverkusen,3,2019,2020,2020
+2020-02-15 22:30:00,RB Leipzig,3,Werder Bremen,0,2019,2020,2020
+2020-02-16 01:30:00,Dusseldorf,1,B. Monchengladbach,4,2019,2020,2020
+2020-02-16 22:30:00,FC Koln,1,Bayern Munich,4,2019,2020,2020
+2020-02-17 01:00:00,Mainz,0,Schalke,0,2019,2020,2020
+2020-02-22 03:30:00,Bayern Munich,3,Paderborn,2,2019,2020,2020
+2020-02-22 22:30:00,Werder Bremen,0,Dortmund,2,2019,2020,2020
+2020-02-22 22:30:00,Hertha Berlin,0,FC Koln,5,2019,2020,2020
+2020-02-22 22:30:00,Freiburg,0,Dusseldorf,2,2019,2020,2020
+2020-02-22 22:30:00,B. Monchengladbach,1,Hoffenheim,1,2019,2020,2020
+2020-02-23 01:30:00,Schalke,0,RB Leipzig,5,2019,2020,2020
+2020-02-23 22:30:00,Bayer Leverkusen,2,Augsburg,0,2019,2020,2020
+2020-02-24 01:00:00,Wolfsburg,4,Mainz,0,2019,2020,2020
+2020-02-25 03:30:00,Eintracht Frankfurt,1,Union Berlin,2,2019,2020,2020
+2020-02-29 03:30:00,Dusseldorf,3,Hertha Berlin,3,2019,2020,2020
+2020-02-29 22:30:00,Mainz,2,Paderborn,0,2019,2020,2020
+2020-02-29 22:30:00,Hoffenheim,0,Bayern Munich,6,2019,2020,2020
+2020-02-29 22:30:00,Dortmund,1,Freiburg,0,2019,2020,2020
+2020-02-29 22:30:00,Augsburg,2,B. Monchengladbach,3,2019,2020,2020
+2020-03-01 01:30:00,FC Koln,3,Schalke,0,2019,2020,2020
+2020-03-01 20:30:00,Union Berlin,2,Wolfsburg,2,2019,2020,2020
+2020-03-01 22:30:00,RB Leipzig,1,Bayer Leverkusen,1,2019,2020,2020
+2020-03-07 03:00:00,Paderborn,1,FC Koln,2,2019,2020,2020
+2020-03-07 22:30:00,Freiburg,3,Union Berlin,1,2019,2020,2020
+2020-03-07 22:30:00,Hertha Berlin,2,Werder Bremen,2,2019,2020,2020
+2020-03-07 22:30:00,Bayer Leverkusen,4,Eintracht Frankfurt,0,2019,2020,2020
+2020-03-07 22:30:00,Wolfsburg,0,RB Leipzig,0,2019,2020,2020
+2020-03-07 22:30:00,Schalke,1,Hoffenheim,1,2019,2020,2020
+2020-03-08 01:30:00,B. Monchengladbach,1,Dortmund,2,2019,2020,2020
+2020-03-08 22:30:00,Bayern Munich,2,Augsburg,0,2019,2020,2020
+2020-03-09 01:00:00,Mainz,1,Dusseldorf,1,2019,2020,2020
+2020-03-12 01:30:00,B. Monchengladbach,2,FC Koln,1,2019,2020,2020
+2020-05-16 21:30:00,RB Leipzig,1,Freiburg,1,2019,2020,2020
+2020-05-16 21:30:00,Hoffenheim,0,Hertha Berlin,3,2019,2020,2020
+2020-05-16 21:30:00,Dusseldorf,0,Paderborn,0,2019,2020,2020
+2020-05-16 21:30:00,Dortmund,4,Schalke,0,2019,2020,2020
+2020-05-16 21:30:00,Augsburg,1,Wolfsburg,2,2019,2020,2020
+2020-05-17 00:30:00,Eintracht Frankfurt,1,B. Monchengladbach,3,2019,2020,2020
+2020-05-17 21:30:00,FC Koln,2,Mainz,2,2019,2020,2020
+2020-05-18 00:00:00,Union Berlin,0,Bayern Munich,2,2019,2020,2020
+2020-05-19 02:30:00,Werder Bremen,1,Bayer Leverkusen,4,2019,2020,2020
+2020-05-23 02:30:00,Hertha Berlin,4,Union Berlin,0,2019,2020,2020
+2020-05-23 21:30:00,Wolfsburg,0,Dortmund,2,2019,2020,2020
+2020-05-23 21:30:00,Paderborn,1,Hoffenheim,1,2019,2020,2020
+2020-05-23 21:30:00,Freiburg,0,Werder Bremen,1,2019,2020,2020
+2020-05-23 21:30:00,B. Monchengladbach,1,Bayer Leverkusen,3,2019,2020,2020
+2020-05-24 00:30:00,Bayern Munich,5,Eintracht Frankfurt,2,2019,2020,2020
+2020-05-24 19:30:00,Schalke,0,Augsburg,3,2019,2020,2020
+2020-05-24 21:30:00,Mainz,0,RB Leipzig,5,2019,2020,2020
+2020-05-25 00:00:00,FC Koln,2,Dusseldorf,2,2019,2020,2020
+2020-05-27 00:30:00,Dortmund,0,Bayern Munich,1,2019,2020,2020
+2020-05-27 02:30:00,Eintracht Frankfurt,3,Freiburg,3,2019,2020,2020
+2020-05-27 02:30:00,Bayer Leverkusen,1,Wolfsburg,4,2019,2020,2020
+2020-05-27 02:30:00,Werder Bremen,0,B. Monchengladbach,0,2019,2020,2020
+2020-05-28 00:30:00,RB Leipzig,2,Hertha Berlin,2,2019,2020,2020
+2020-05-28 02:30:00,Union Berlin,1,Mainz,1,2019,2020,2020
+2020-05-28 02:30:00,Hoffenheim,3,FC Koln,1,2019,2020,2020
+2020-05-28 02:30:00,Dusseldorf,2,Schalke,1,2019,2020,2020
+2020-05-28 02:30:00,Augsburg,0,Paderborn,0,2019,2020,2020
+2020-05-30 02:30:00,Freiburg,0,Bayer Leverkusen,1,2019,2020,2020
+2020-05-30 21:30:00,Wolfsburg,1,Eintracht Frankfurt,2,2019,2020,2020
+2020-05-30 21:30:00,Schalke,0,Werder Bremen,1,2019,2020,2020
+2020-05-30 21:30:00,Mainz,0,Hoffenheim,1,2019,2020,2020
+2020-05-30 21:30:00,Hertha Berlin,2,Augsburg,0,2019,2020,2020
+2020-05-31 00:30:00,Bayern Munich,5,Dusseldorf,0,2019,2020,2020
+2020-05-31 21:30:00,B. Monchengladbach,4,Union Berlin,1,2019,2020,2020
