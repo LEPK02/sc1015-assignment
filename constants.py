@@ -110,10 +110,20 @@ CATEGORIES_LIST = [
 # list(teams_df.columns)
 # Data that is already averaged per game
 TEAM_COLUMNS_DICT = {
+    "meta": {
+        "aggregated": [
+            'squad',
+            "season_start_year",
+            "season_end_year",
+            'minutes_90s',
+        ],
+        "unaggregated": [],
+    },
     "squad": {
-        "aggregated": [],
-        "unaggregated": [
+        "aggregated": [
             'players_used',
+        ],
+        "unaggregated": [
             'pens_made',
             'pens_att',
             'cards_yellow',
