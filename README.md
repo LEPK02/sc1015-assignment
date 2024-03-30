@@ -1,7 +1,7 @@
 # Predicting EPL Results Using Machine Learning
 ## Workflow
-1. Data collection via webscraping (webscrape_fbref.ipynb, )
-- webscrape_fbref.ipynb (inspired by [Parth Athale](https://github.com/parth1902/Scrape-FBref-data)) -> pull season data from [FBRef](https://fbref.com/en/) using Beautiful Soup
+1. Data collection via webscraping (./webscraping)
+- teams_data_fbref.ipynb (inspired by [Parth Athale](https://github.com/parth1902/Scrape-FBref-data)) -> pull season data from [FBRef](https://fbref.com/en/) using Beautiful Soup
     - Gather season data from top 5 leagues
         - Find all teams
         - Find table using HTML tags
@@ -14,6 +14,12 @@
     - Gather match scores from top 5 leagues
         - Find div element holding data
         - Extract timestamp
+- squad_values_transfermarkt.ipynb -> pull season data from [FBRef](https://fbref.com/en/) using Beautiful Soup
+    - Gather season data from top 5 leagues
+        - Find all teams
+        - Find table using HTML tags
+        - Iterate through all tables and combine into one dataframe
+        - Save club icons as .jpg files
 - Save raw data as .csv
 2. Clean data (data_processing.ipynb)
 - Combine data across competitions and years using inner join (drop duplicate columns)
