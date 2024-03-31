@@ -19,7 +19,7 @@
         - Find all teams
         - Find table using HTML tags
         - Iterate through all tables and combine into one dataframe
-        - Save club icons as .jpg files
+        - Save club icons as .png files
 - Save raw data as .csv
 2. Clean data (data_processing.ipynb)
 - Combine data across competitions and years using inner join (drop duplicate columns)
@@ -27,8 +27,29 @@
     - Drop missing data
 - Remove promotion playoff results from scores dataframe
 - Combine score data to get season statistics
+- Combine squad value data into team dataframe (requires name mapping as data is pulled from different sources)
 - Save cleaned and combined data as .csv files
 3. Exploratory data analysis (exploratory_analysis.ipynb)
+- Methodology
+    - Examine correlations
+    - Observe trends/patterns
+    - Find extremes/outliers
+    - Visualise data
+    - Draw hypotheses
+- Summary
+    - Strong correlations
+        - Positive
+            - Points Per Game (PPG) & posession
+            - PPG & squad value
+            - PPG & goals scored
+        - Negative
+            - PPG & goals conceded
+    - Weak correlations
+        - Positive
+            - PPG & tackles in attacking third - high press is not always better
+            - PPG & goals per shot on target - more important to have more shots
+        - Negative
+            - PPG & tackles in defensive third, PPG & blocked shots - higher-volume of last-ditch defending may not always be indicative of wins because another way of defending is to prevent those chances from happening in the first place
 4. Conduct models and make predictions (machine_learning.ipynb)
 
 ## Telegram Workflow Bot
