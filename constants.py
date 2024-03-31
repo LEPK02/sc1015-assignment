@@ -105,7 +105,7 @@ CATEGORIES_LIST = [
     MISCELLANEOUS,
 ]
 
-# Data Analysis
+# FOR EDA - START
 # Manually remove similar columns
 # list(teams_df.columns)
 # Data that is already averaged per game
@@ -116,6 +116,11 @@ TEAM_COLUMNS_DICT = {
             "season_start_year",
             "season_end_year",
             'minutes_90s',
+            "country",
+            "squad_size",
+            "foreigners",
+            "squad_value_avg",
+            "squad_value",
         ],
         "unaggregated": [],
     },
@@ -330,19 +335,7 @@ TEAM_COLUMNS_DICT = {
 }
 
 TEAM_COLUMNS_DICT_COMBINED = dict((category, list(sum(vals.values(), []))) for category, vals in TEAM_COLUMNS_DICT.items())
-
-# Categorical data/data that does not need to be averaged per game
-TEAMS_ABSOLUTE_COLUMNS = [
-#     Squad stats
-    'squad', # team name
-    'avg_age',
-#     GK stats
-    'gk_wins',
-    'gk_ties',
-    'gk_losses',   
-    'season_start_year',
-    'season_end_year',
-]
+# FOR EDA - END
 
 SQUAD_NAME_MAPPING = {
     "final": [
