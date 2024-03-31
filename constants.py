@@ -526,7 +526,7 @@ SQUAD_NAME_MAPPING = {
         "SD Eibar",
         "Eintracht Frankfurt",
         "Elche CF",
-        "FC Empoli",
+        "(Empoli FC|FC Empoli)",
         "RCD Espanyol Barcelona",
         "Everton FC",
         "1.FC Köln",
