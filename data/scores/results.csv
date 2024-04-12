@@ -1,4 +1,4 @@
-team_name,season_start_year,season_end_year,points,goals_for,goals_against,points_home,goals_for_home,goals_against_home,points_away,goals_for_away,goals_against_away
+squad,season_start_year,season_end_year,points,goals_for,goals_against,points_home,goals_for_home,goals_against_home,points_away,goals_for_away,goals_against_away
 Aston Villa,2019,2020,35,41,67,24,22,30,11,19,37
 Sheffield Utd,2019,2020,54,39,39,33,24,15,21,15,24
 Manchester City,2019,2020,81,102,35,47,57,13,34,45,22

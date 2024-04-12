@@ -1,3 +1,5 @@
+import pickle
+
 # Columns pulled from team tables
 DROPPED = [
     'pass_xa', 'ball_recoveries', 'aerials_lost', 'progressive_passes', 'npxg_per_shot',
@@ -334,7 +336,63 @@ TEAM_COLUMNS_DICT = {
     },
 }
 
-TEAM_COLUMNS_DICT_COMBINED = dict((category, list(sum(vals.values(), []))) for category, vals in TEAM_COLUMNS_DICT.items())
+SCORES_COLUMNS_DICT = { # UPDATE THE TEAMS_DICT
+    'meta': {
+        'aggregated': [
+            'squad',
+            'season_start_year',
+            'season_end_year'
+        ],
+        'unaggregated': []
+    },
+    'squad': {
+        'aggregated': [],
+        'unaggregated': [
+            'points',
+            'points_home',
+            'points_away',
+        ]
+    },
+    'attack': {
+        'aggregated': [],
+        'unaggregated': [
+            'goals_for',
+            'goals_for_home',
+            'goals_for_away',
+        ]
+    },
+    'gk': {
+        'aggregated': [],
+        'unaggregated': [
+            'goals_against',
+            'goals_against_home',
+            'goals_against_away'
+        ]
+    }
+}
+
+FULL_COLUMNS_DICT = {}
+
+common_cats = list(set(TEAM_COLUMNS_DICT.keys()).intersection(SCORES_COLUMNS_DICT.keys()))
+all_cats = list(set(TEAM_COLUMNS_DICT.keys()).union(SCORES_COLUMNS_DICT.keys()))
+print(common_cats)
+for cat in all_cats:
+    FULL_COLUMNS_DICT[cat] = {}
+    for group in ['aggregated', 'unaggregated']:
+        if cat in common_cats:
+            FULL_COLUMNS_DICT[cat][group] = TEAM_COLUMNS_DICT[cat][group] + SCORES_COLUMNS_DICT[cat][group]
+        else:
+            FULL_COLUMNS_DICT[cat][group] = TEAM_COLUMNS_DICT.get(cat, SCORES_COLUMNS_DICT.get(cat, {})).get(group, [])
+
+
+# Pickle Files to store data
+FULL_COLUMNS_DICT_FILE = "pkl/FULL_COLUMNS_DICT.pkl"
+FULL_AGG_COLUMNS_DICT_FILE = "pkl/FULL_AGG_COLUMNS_DICT.pkl"
+AGG_COL_TO_CAT_DICT_FILE = "pkl/AGG_COL_TO_CAT_DICT.pkl"
+
+with open(FULL_COLUMNS_DICT_FILE, 'wb') as file:
+    pickle.dump(FULL_COLUMNS_DICT, file)
+
 # FOR EDA - END
 
 SQUAD_NAME_MAPPING = {

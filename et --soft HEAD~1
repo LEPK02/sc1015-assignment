@@ -1,0 +1,16 @@
+[33m78b7943[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m Cleaned Columns and saved them as pickle files
+[33mfc5e75e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m EDA
+[33mab1ce83[m image webscraping + EDA (GD)
+[33mbbea904[m get tier 2 competitions' squad values
+[33m5f1000f[m webscrape squad values from transfermarkt
+[33m9e67858[m Update README.md
+[33mcd68bc8[m results_df + win determinants EDA
+[33mc366e3a[m initial (cross-category) observations
+[33m808c4ba[m housekeeping
+[33m13a848d[m Cleaned data for scores and team performances
+[33m8faa32c[m Merge branch 'main' of https://github.com/LEPK02/sc1015-assignment Updating local code
+[33maa1500b[m Scraped Data for Top 5 Leagues from 2018 to 2023
+[33mb8ebdad[m Update README.md
+[33mabb2718[m config tele bot for notifs on github change
+[33mba60a6d[m Added ML model for LSTM
+[33mfc6af73[m initial commit

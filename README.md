@@ -52,6 +52,63 @@
             - PPG & tackles in defensive third, PPG & blocked shots - higher-volume of last-ditch defending may not always be indicative of wins because another way of defending is to prevent those chances from happening in the first place
 4. Conduct models and make predictions (machine_learning.ipynb)
 
+## Data Directory Structure
+
+The `data` directory contains several subdirectories. Below is the hierarchy and description of each subdirectory and its contents:
+
+data/
+├── club icons/
+├── country icons/
+├── exploratory analysis/ # currently idle
+│ ├── main.csv
+│ └── eda.csv
+├── feature optimization/
+│ └── normalized_data.csv
+├── scores/
+│ ├── raw/
+│ ├── scores.csv
+| └── results.csv
+├── squad values/
+│ ├── raw/
+│ └── squad_values.csv
+├── teams/
+│ ├── raw/
+│ └── teams.csv
+
+### Club Icons
+Contains icons for different clubs (used in EDA).
+
+### Country Icons
+Contains icons for different countries (used in EDA).
+
+### Exploratory Analysis (Currently idle)
+This folder is intended for storing datasets used in exploratory data analysis, but might be deleted as it uses teams_agg.csv :
+- `main.csv`: Main dataset.
+- `eda.csv`: Dataset exploratory analysis.
+
+### Feature Optimization
+Contains data prepared specifically for feeding into machine learning algorithms:
+- `normalized_data.csv`: Data that has been normalized.
+- `featured_data.csv`: Data that has underwent Feature Engineering and Feature Selection.
+
+### Scores
+Contains both raw and aggregated data for matches played over the seasons:
+- `raw/`: Match scores for each season.
+- `scores.csv`: Combined scores over the seasons.
+- `results.csv`: Combined results over the seasons, created from scores.csv.
+
+### Squad Values
+Contains data on the valuation of teams' squads:
+- `raw/`: Valuations for each season.
+- `squad_values.csv`: Combined valuations over the seasons.
+
+### Teams
+Data related to team details and performance:
+- `raw/`: Contains season-specific team performance data.
+- `teams.csv`: Combined team performance data over the seasons.
+- `complete.csv`: The most comprehensive dataset in this directory. It contains the original data and aggregated data for the teams over the seasons
+- `teams_agg.csv`: It contains only the aggregated data for the teams over the seasons. It is used for EDA and Feature Engineering
+
 ## Telegram Workflow Bot
 Sends notification on push/PR ([setup](https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/))
 
