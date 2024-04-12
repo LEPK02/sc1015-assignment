@@ -60,20 +60,20 @@ data/
 ├── club icons/
 ├── country icons/
 ├── exploratory analysis/ # currently idle
-│ ├── main.csv
-│ └── eda.csv
+│   ├── main.csv
+│   └── eda.csv
 ├── feature optimization/
-│ └── normalized_data.csv
+│   └── normalized_data.csv
 ├── scores/
-│ ├── raw/
-│ ├── scores.csv
-| └── results.csv
+│   ├── raw/
+│   ├── scores.csv
+│   └── results.csv
 ├── squad values/
-│ ├── raw/
-│ └── squad_values.csv
-├── teams/
-│ ├── raw/
-│ └── teams.csv
+│   ├── raw/
+│   └── squad_values.csv
+└── teams/
+    ├── raw/
+    └── teams.csv
 
 ### Club Icons
 Contains icons for different clubs (used in EDA).
