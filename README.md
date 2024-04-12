@@ -56,6 +56,7 @@
 
 The `data` directory contains several subdirectories. Below is the hierarchy and description of each subdirectory and its contents:
 
+```
 data/
 ├── club icons/
 ├── country icons/
@@ -74,6 +75,7 @@ data/
 └── teams/
     ├── raw/
     └── teams.csv
+```
 
 ### Club Icons
 Contains icons for different clubs (used in EDA).
