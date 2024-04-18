@@ -1,0 +1,3503 @@
+team,opponent,is_home,predicted_result
+Burnley,Manchester City,1,L
+Arsenal,Nottingham,1,W
+Bournemouth,West Ham,1,D
+Sheffield Utd,Crystal Palace,1,L
+Brighton,Luton,1,W
+Everton,Fulham,1,D
+Newcastle,Aston Villa,1,D
+Brentford,Tottenham,1,D
+Chelsea,Liverpool,1,D
+Manchester Utd,Wolves,1,D
+Nottingham,Sheffield Utd,1,W
+Liverpool,Bournemouth,1,W
+Fulham,Brentford,1,D
+Wolves,Brighton,1,D
+Tottenham,Manchester Utd,1,D
+Manchester City,Newcastle,1,W
+Aston Villa,Everton,1,D
+West Ham,Chelsea,1,D
+Crystal Palace,Arsenal,1,L
+Chelsea,Luton,1,W
+Bournemouth,Tottenham,1,L
+Arsenal,Fulham,1,W
+Manchester Utd,Nottingham,1,W
+Everton,Wolves,1,D
+Brentford,Crystal Palace,1,D
+Brighton,West Ham,1,D
+Sheffield Utd,Manchester City,1,L
+Burnley,Aston Villa,1,L
+Newcastle,Liverpool,1,D
+Luton,West Ham,1,L
+Sheffield Utd,Everton,1,L
+Manchester City,Fulham,1,W
+Chelsea,Nottingham,1,W
+Burnley,Tottenham,1,L
+Brentford,Bournemouth,1,D
+Brighton,Newcastle,1,D
+Crystal Palace,Wolves,1,D
+Liverpool,Aston Villa,1,D
+Arsenal,Manchester Utd,1,D
+Wolves,Liverpool,1,D
+Manchester Utd,Brighton,1,D
+Fulham,Luton,1,W
+Aston Villa,Crystal Palace,1,D
+West Ham,Manchester City,1,L
+Tottenham,Sheffield Utd,1,W
+Newcastle,Brentford,1,D
+Bournemouth,Chelsea,1,L
+Everton,Arsenal,1,L
+Nottingham,Burnley,1,D
+Manchester City,Nottingham,1,W
+Luton,Wolves,1,L
+Crystal Palace,Fulham,1,D
+Brentford,Everton,1,D
+Burnley,Manchester Utd,1,L
+Arsenal,Tottenham,1,D
+Chelsea,Aston Villa,1,W
+Brighton,Bournemouth,1,W
+Liverpool,West Ham,1,W
+Sheffield Utd,Newcastle,1,L
+Aston Villa,Brighton,1,D
+Wolves,Manchester City,1,L
+West Ham,Sheffield Utd,1,W
+Newcastle,Burnley,1,W
+Manchester Utd,Crystal Palace,1,W
+Everton,Luton,1,W
+Bournemouth,Arsenal,1,L
+Tottenham,Liverpool,1,D
+Nottingham,Brentford,1,D
+Fulham,Chelsea,1,L
+Luton,Burnley,1,L
+Luton,Tottenham,1,L
+Burnley,Chelsea,1,L
+Manchester Utd,Brentford,1,D
+Everton,Bournemouth,1,D
+Fulham,Sheffield Utd,1,W
+Crystal Palace,Nottingham,1,D
+Brighton,Liverpool,1,D
+Wolves,Aston Villa,1,D
+West Ham,Newcastle,1,D
+Arsenal,Manchester City,1,D
+Liverpool,Everton,1,W
+Nottingham,Luton,1,W
+Newcastle,Crystal Palace,1,D
+Manchester City,Brighton,1,W
+Brentford,Burnley,1,W
+Bournemouth,Wolves,1,D
+Chelsea,Arsenal,1,D
+Sheffield Utd,Manchester Utd,1,L
+Aston Villa,West Ham,1,D
+Tottenham,Fulham,1,W
+Crystal Palace,Tottenham,1,L
+Chelsea,Brentford,1,W
+Bournemouth,Burnley,1,D
+Arsenal,Sheffield Utd,1,W
+Wolves,Newcastle,1,D
+West Ham,Everton,1,D
+Liverpool,Nottingham,1,W
+Brighton,Fulham,1,W
+Aston Villa,Luton,1,W
+Manchester Utd,Manchester City,1,D
+Fulham,Manchester Utd,1,L
+Brentford,West Ham,1,D
+Burnley,Crystal Palace,1,D
+Sheffield Utd,Wolves,1,L
+Everton,Brighton,1,D
+Manchester City,Bournemouth,1,W
+Newcastle,Arsenal,1,D
+Nottingham,Aston Villa,1,D
+Luton,Liverpool,1,L
+Tottenham,Chelsea,1,D
+Wolves,Tottenham,1,D
+Manchester Utd,Luton,1,W
+Crystal Palace,Everton,1,D
+Arsenal,Burnley,1,W
+Bournemouth,Newcastle,1,L
+West Ham,Nottingham,1,D
+Liverpool,Brentford,1,W
+Brighton,Sheffield Utd,1,W
+Aston Villa,Fulham,1,D
+Chelsea,Manchester City,1,D
+Manchester City,Liverpool,1,D
+Nottingham,Brighton,1,D
+Newcastle,Chelsea,1,D
+Luton,Crystal Palace,1,L
+Burnley,West Ham,1,D
+Sheffield Utd,Bournemouth,1,D
+Brentford,Arsenal,1,L
+Tottenham,Aston Villa,1,D
+Everton,Manchester Utd,1,D
+Fulham,Wolves,1,D
+Burnley,Sheffield Utd,1,D
+Brentford,Luton,1,W
+Arsenal,Wolves,1,W
+Nottingham,Everton,1,D
+Newcastle,Manchester Utd,1,D
+Chelsea,Brighton,1,D
+Bournemouth,Aston Villa,1,D
+Liverpool,Fulham,1,W
+West Ham,Crystal Palace,1,D
+Manchester City,Tottenham,1,D
+Wolves,Burnley,1,W
+Luton,Arsenal,1,L
+Sheffield Utd,Liverpool,1,L
+Fulham,Nottingham,1,D
+Crystal Palace,Bournemouth,1,D
+Brighton,Brentford,1,D
+Aston Villa,Manchester City,1,L
+Manchester Utd,Chelsea,1,D
+Everton,Newcastle,1,D
+Tottenham,West Ham,1,D
+Crystal Palace,Liverpool,1,L
+Wolves,Nottingham,1,D
+Sheffield Utd,Brentford,1,L
+Manchester Utd,Bournemouth,1,W
+Brighton,Burnley,1,W
+Aston Villa,Arsenal,1,D
+Everton,Chelsea,1,D
+Luton,Manchester City,1,L
+Fulham,West Ham,1,D
+Tottenham,Newcastle,1,D
+Nottingham,Tottenham,1,L
+Manchester City,Crystal Palace,1,W
+Chelsea,Sheffield Utd,1,W
+Newcastle,Fulham,1,W
+Burnley,Everton,1,D
+West Ham,Wolves,1,D
+Brentford,Aston Villa,1,D
+Arsenal,Brighton,1,D
+Liverpool,Manchester Utd,1,D
+Crystal Palace,Brighton,1,D
+Aston Villa,Sheffield Utd,1,W
+West Ham,Manchester Utd,1,D
+Fulham,Burnley,1,D
+Luton,Newcastle,1,L
+Nottingham,Bournemouth,1,D
+Tottenham,Everton,1,D
+Liverpool,Arsenal,1,D
+Wolves,Chelsea,1,D
+Newcastle,Nottingham,1,D
+Bournemouth,Fulham,1,D
+Sheffield Utd,Luton,1,W
+Burnley,Liverpool,1,L
+Manchester Utd,Aston Villa,1,D
+Chelsea,Crystal Palace,1,W
+Brentford,Wolves,1,D
+Everton,Manchester City,1,L
+Brighton,Tottenham,1,D
+Arsenal,West Ham,1,W
+Luton,Chelsea,1,L
+Crystal Palace,Brentford,1,D
+Manchester City,Sheffield Utd,1,W
+Wolves,Everton,1,D
+Aston Villa,Burnley,1,W
+Nottingham,Manchester Utd,1,L
+Tottenham,Bournemouth,1,W
+Fulham,Arsenal,1,L
+Liverpool,Newcastle,1,D
+West Ham,Brighton,1,D
+Burnley,Luton,1,W
+Chelsea,Fulham,1,W
+Newcastle,Manchester City,1,L
+Everton,Aston Villa,1,D
+Manchester Utd,Tottenham,1,D
+Arsenal,Crystal Palace,1,W
+Brentford,Nottingham,1,D
+Sheffield Utd,West Ham,1,L
+Bournemouth,Liverpool,1,L
+Brighton,Wolves,1,D
+Nottingham,Arsenal,1,L
+Luton,Brighton,1,L
+Fulham,Everton,1,D
+Crystal Palace,Sheffield Utd,1,W
+Aston Villa,Newcastle,1,D
+Manchester City,Burnley,1,W
+Tottenham,Brentford,1,D
+Liverpool,Chelsea,1,D
+West Ham,Bournemouth,1,D
+Wolves,Manchester Utd,1,D
+Everton,Tottenham,1,D
+Newcastle,Luton,1,W
+Burnley,Fulham,1,D
+Brighton,Crystal Palace,1,D
+Sheffield Utd,Aston Villa,1,L
+Bournemouth,Nottingham,1,D
+Manchester Utd,West Ham,1,D
+Chelsea,Wolves,1,W
+Arsenal,Liverpool,1,D
+Brentford,Manchester City,1,L
+Manchester City,Everton,1,W
+Fulham,Bournemouth,1,D
+Wolves,Brentford,1,D
+Luton,Sheffield Utd,1,L
+Tottenham,Brighton,1,D
+Liverpool,Burnley,1,W
+Nottingham,Newcastle,1,D
+West Ham,Arsenal,1,D
+Aston Villa,Manchester Utd,1,D
+Crystal Palace,Chelsea,1,L
+Brentford,Liverpool,1,D
+Tottenham,Wolves,1,D
+Nottingham,West Ham,1,D
+Newcastle,Bournemouth,1,W
+Fulham,Aston Villa,1,D
+Burnley,Arsenal,1,L
+Manchester City,Chelsea,1,D
+Sheffield Utd,Brighton,1,L
+Luton,Manchester Utd,1,L
+Everton,Crystal Palace,1,D
+Manchester City,Brentford,1,W
+Liverpool,Luton,1,W
+Manchester Utd,Fulham,1,W
+Crystal Palace,Burnley,1,D
+Brighton,Everton,1,D
+Aston Villa,Nottingham,1,D
+Bournemouth,Manchester City,1,L
+Arsenal,Newcastle,1,D
+Wolves,Sheffield Utd,1,W
+West Ham,Brentford,1,D
+Newcastle,Wolves,1,D
+Tottenham,Crystal Palace,1,W
+Brentford,Chelsea,1,D
+Nottingham,Liverpool,1,L
+Fulham,Brighton,1,D
+Everton,West Ham,1,D
+Luton,Aston Villa,1,L
+Burnley,Bournemouth,1,D
+Manchester City,Manchester Utd,1,D
+Sheffield Utd,Arsenal,1,L
+Manchester Utd,Everton,1,D
+Crystal Palace,Luton,1,W
+Bournemouth,Sheffield Utd,1,D
+Wolves,Fulham,1,D
+Arsenal,Brentford,1,W
+Aston Villa,Tottenham,1,D
+West Ham,Burnley,1,W
+Brighton,Nottingham,1,D
+Liverpool,Manchester City,1,D
+Chelsea,Newcastle,1,D
+Bournemouth,Luton,1,W
+Luton,Nottingham,1,L
+Burnley,Brentford,1,D
+Fulham,Tottenham,1,L
+West Ham,Aston Villa,1,D
+Newcastle,West Ham,1,D
+Tottenham,Luton,1,W
+Sheffield Utd,Fulham,1,D
+Nottingham,Crystal Palace,1,D
+Chelsea,Burnley,1,W
+Bournemouth,Everton,1,D
+Aston Villa,Wolves,1,D
+Brentford,Manchester Utd,1,D
+Liverpool,Brighton,1,D
+Manchester City,Arsenal,1,D
+Newcastle,Everton,1,D
+Nottingham,Fulham,1,D
+Burnley,Wolves,1,L
+Bournemouth,Crystal Palace,1,D
+West Ham,Tottenham,1,D
+Brentford,Brighton,1,D
+Arsenal,Luton,1,W
+Manchester City,Aston Villa,1,W
+Liverpool,Sheffield Utd,1,W
+Chelsea,Manchester Utd,1,D
+Crystal Palace,Manchester City,1,L
+Luton,Bournemouth,1,L
+Wolves,West Ham,1,D
+Aston Villa,Brentford,1,D
+Fulham,Newcastle,1,L
+Everton,Burnley,1,W
+Brighton,Arsenal,1,D
+Manchester Utd,Liverpool,1,D
+Sheffield Utd,Chelsea,1,L
+Tottenham,Nottingham,1,W
+Newcastle,Tottenham,1,D
+Manchester City,Luton,1,W
+Burnley,Brighton,1,L
+Brentford,Sheffield Utd,1,W
+Nottingham,Wolves,1,D
+Bournemouth,Manchester Utd,1,L
+West Ham,Fulham,1,D
+Liverpool,Crystal Palace,1,W
+Arsenal,Aston Villa,1,W
+Chelsea,Everton,1,W
+Luton,Brentford,1,L
+Sheffield Utd,Burnley,1,D
+Wolves,Arsenal,1,D
+Everton,Nottingham,1,D
+Aston Villa,Bournemouth,1,D
+Crystal Palace,West Ham,1,D
+Fulham,Liverpool,1,L
+Arsenal,Chelsea,1,D
+Wolves,Bournemouth,1,D
+Crystal Palace,Newcastle,1,D
+Everton,Liverpool,1,D
+Manchester Utd,Sheffield Utd,1,W
+Brighton,Manchester City,1,L
+West Ham,Liverpool,1,D
+Fulham,Crystal Palace,1,D
+Manchester Utd,Burnley,1,W
+Newcastle,Sheffield Utd,1,W
+Wolves,Luton,1,W
+Everton,Brentford,1,D
+Aston Villa,Chelsea,1,D
+Bournemouth,Brighton,1,D
+Tottenham,Arsenal,1,D
+Nottingham,Manchester City,1,L
+Chelsea,Tottenham,1,D
+Luton,Everton,1,L
+Arsenal,Bournemouth,1,W
+Sheffield Utd,Nottingham,1,L
+Burnley,Newcastle,1,L
+Brentford,Fulham,1,D
+Brighton,Aston Villa,1,D
+Manchester City,Wolves,1,W
+Chelsea,West Ham,1,W
+Liverpool,Tottenham,1,D
+Crystal Palace,Manchester Utd,1,D
+Fulham,Manchester City,1,L
+West Ham,Luton,1,W
+Bournemouth,Brentford,1,D
+Everton,Sheffield Utd,1,W
+Newcastle,Brighton,1,D
+Tottenham,Burnley,1,W
+Wolves,Crystal Palace,1,D
+Nottingham,Chelsea,1,L
+Manchester Utd,Arsenal,1,D
+Aston Villa,Liverpool,1,D
+Tottenham,Manchester City,1,D
+Brighton,Chelsea,1,D
+Manchester Utd,Newcastle,1,D
+Luton,Fulham,1,L
+Liverpool,Wolves,1,D
+Crystal Palace,Aston Villa,1,D
+Chelsea,Bournemouth,1,W
+Manchester City,West Ham,1,W
+Brighton,Manchester Utd,1,D
+Brentford,Newcastle,1,D
+Arsenal,Everton,1,W
+Burnley,Nottingham,1,D
+Sheffield Utd,Tottenham,1,L
+Almeria,Rayo Vallecano,1,D
+Sevilla,Valencia,1,D
+Real Sociedad,Girona,1,W
+Las Palmas,Mallorca,1,L
+Ath Bilbao,Real Madrid,1,L
+Celta Vigo,Osasuna,1,D
+Villarreal,Betis,1,D
+Getafe,Barcelona,1,L
+Cadiz CF,Alaves,1,D
+Atl. Madrid,Granada CF,1,W
+Mallorca,Villarreal,1,L
+Valencia,Las Palmas,1,W
+Real Sociedad,Celta Vigo,1,W
+Almeria,Real Madrid,1,L
+Osasuna,Ath Bilbao,1,D
+Girona,Getafe,1,D
+Barcelona,Cadiz CF,1,W
+Betis,Atl. Madrid,1,D
+Alaves,Sevilla,1,L
+Granada CF,Rayo Vallecano,1,L
+Las Palmas,Real Sociedad,1,L
+Celta Vigo,Real Madrid,1,L
+Cadiz CF,Almeria,1,L
+Granada CF,Mallorca,1,D
+Sevilla,Girona,1,D
+Villarreal,Barcelona,1,L
+Valencia,Osasuna,1,D
+Ath Bilbao,Betis,1,D
+Getafe,Alaves,1,W
+Rayo Vallecano,Atl. Madrid,1,L
+Cadiz CF,Villarreal,1,L
+Almeria,Celta Vigo,1,D
+Real Sociedad,Granada CF,1,W
+Real Madrid,Getafe,1,W
+Alaves,Valencia,1,L
+Betis,Rayo Vallecano,1,D
+Girona,Las Palmas,1,W
+Mallorca,Ath Bilbao,1,L
+Osasuna,Barcelona,1,L
+Rayo Vallecano,Alaves,1,W
+Ath Bilbao,Cadiz CF,1,W
+Valencia,Atl. Madrid,1,D
+Celta Vigo,Mallorca,1,D
+Barcelona,Betis,1,W
+Getafe,Osasuna,1,D
+Villarreal,Almeria,1,W
+Sevilla,Las Palmas,1,W
+Real Madrid,Real Sociedad,1,W
+Granada CF,Girona,1,L
+Alaves,Ath Bilbao,1,L
+Girona,Mallorca,1,D
+Osasuna,Sevilla,1,D
+Barcelona,Celta Vigo,1,W
+Almeria,Valencia,1,D
+Real Sociedad,Getafe,1,W
+Rayo Vallecano,Villarreal,1,L
+Las Palmas,Granada CF,1,D
+Betis,Cadiz CF,1,W
+Atl. Madrid,Real Madrid,1,D
+Sevilla,Almeria,1,D
+Mallorca,Barcelona,1,L
+Ath Bilbao,Getafe,1,W
+Villarreal,Girona,1,W
+Real Madrid,Las Palmas,1,W
+Valencia,Real Sociedad,1,D
+Cadiz CF,Rayo Vallecano,1,L
+Celta Vigo,Alaves,1,W
+Granada CF,Betis,1,L
+Osasuna,Atl. Madrid,1,L
+Barcelona,Sevilla,1,W
+Getafe,Villarreal,1,L
+Rayo Vallecano,Mallorca,1,D
+Girona,Real Madrid,1,L
+Real Sociedad,Ath Bilbao,1,D
+Almeria,Granada CF,1,W
+Alaves,Osasuna,1,L
+Betis,Valencia,1,D
+Atl. Madrid,Cadiz CF,1,W
+Las Palmas,Celta Vigo,1,L
+Ath Bilbao,Almeria,1,W
+Cadiz CF,Girona,1,L
+Real Madrid,Osasuna,1,W
+Mallorca,Valencia,1,D
+Sevilla,Rayo Vallecano,1,D
+Villarreal,Las Palmas,1,W
+Atl. Madrid,Real Sociedad,1,D
+Celta Vigo,Getafe,1,D
+Alaves,Betis,1,L
+Granada CF,Barcelona,1,L
+Osasuna,Granada CF,1,W
+Real Sociedad,Mallorca,1,W
+Getafe,Betis,1,D
+Sevilla,Real Madrid,1,L
+Celta Vigo,Atl. Madrid,1,L
+Las Palmas,Rayo Vallecano,1,L
+Girona,Almeria,1,D
+Villarreal,Alaves,1,W
+Barcelona,Ath Bilbao,1,W
+Valencia,Cadiz CF,1,W
+Girona,Celta Vigo,1,D
+Almeria,Las Palmas,1,W
+Barcelona,Real Madrid,1,D
+Mallorca,Getafe,1,D
+Cadiz CF,Sevilla,1,L
+Betis,Osasuna,1,D
+Rayo Vallecano,Real Sociedad,1,L
+Ath Bilbao,Valencia,1,D
+Atl. Madrid,Alaves,1,W
+Granada CF,Villarreal,1,L
+Las Palmas,Atl. Madrid,1,L
+Osasuna,Girona,1,D
+Betis,Mallorca,1,W
+Celta Vigo,Sevilla,1,D
+Real Sociedad,Barcelona,1,D
+Alaves,Almeria,1,L
+Valencia,Granada CF,1,W
+Villarreal,Ath Bilbao,1,D
+Real Madrid,Rayo Vallecano,1,W
+Getafe,Cadiz CF,1,W
+Ath Bilbao,Celta Vigo,1,D
+Rayo Vallecano,Girona,1,D
+Almeria,Real Sociedad,1,L
+Granada CF,Getafe,1,L
+Osasuna,Las Palmas,1,W
+Real Madrid,Valencia,1,W
+Barcelona,Alaves,1,W
+Sevilla,Betis,1,D
+Atl. Madrid,Villarreal,1,D
+Alaves,Granada CF,1,D
+Rayo Vallecano,Barcelona,1,L
+Valencia,Celta Vigo,1,D
+Getafe,Almeria,1,D
+Atl. Madrid,Mallorca,1,W
+Villarreal,Osasuna,1,D
+Real Sociedad,Sevilla,1,W
+Cadiz CF,Real Madrid,1,L
+Betis,Las Palmas,1,W
+Girona,Ath Bilbao,1,D
+Mallorca,Cadiz CF,1,W
+Las Palmas,Getafe,1,L
+Girona,Valencia,1,D
+Ath Bilbao,Rayo Vallecano,1,W
+Real Madrid,Granada CF,1,W
+Osasuna,Real Sociedad,1,L
+Mallorca,Alaves,1,W
+Almeria,Betis,1,D
+Sevilla,Villarreal,1,D
+Barcelona,Atl. Madrid,1,D
+Celta Vigo,Cadiz CF,1,W
+Getafe,Valencia,1,D
+Alaves,Las Palmas,1,D
+Betis,Real Madrid,1,L
+Villarreal,Real Sociedad,1,D
+Mallorca,Sevilla,1,D
+Atl. Madrid,Almeria,1,W
+Cadiz CF,Osasuna,1,L
+Barcelona,Girona,1,W
+Rayo Vallecano,Celta Vigo,1,D
+Granada CF,Ath Bilbao,1,L
+Osasuna,Rayo Vallecano,1,D
+Celta Vigo,Granada CF,1,W
+Ath Bilbao,Atl. Madrid,1,D
+Sevilla,Getafe,1,D
+Valencia,Barcelona,1,L
+Almeria,Mallorca,1,D
+Real Sociedad,Betis,1,D
+Las Palmas,Cadiz CF,1,D
+Real Madrid,Villarreal,1,W
+Girona,Alaves,1,W
+Rayo Vallecano,Valencia,1,D
+Atl. Madrid,Getafe,1,W
+Granada CF,Sevilla,1,L
+Barcelona,Almeria,1,W
+Villarreal,Celta Vigo,1,W
+Ath Bilbao,Las Palmas,1,W
+Cadiz CF,Real Sociedad,1,L
+Betis,Girona,1,D
+Mallorca,Osasuna,1,D
+Alaves,Real Madrid,1,L
+Atl. Madrid,Sevilla,1,W
+Getafe,Rayo Vallecano,1,D
+Real Sociedad,Alaves,1,W
+Valencia,Villarreal,1,D
+Granada CF,Cadiz CF,1,D
+Real Madrid,Mallorca,1,W
+Celta Vigo,Betis,1,D
+Girona,Atl. Madrid,1,L
+Osasuna,Almeria,1,D
+Sevilla,Ath Bilbao,1,D
+Las Palmas,Barcelona,1,L
+Sevilla,Alaves,1,W
+Las Palmas,Villarreal,1,L
+Mallorca,Celta Vigo,1,D
+Ath Bilbao,Real Sociedad,1,D
+Betis,Granada CF,1,W
+Almeria,Girona,1,D
+Cadiz CF,Valencia,1,L
+Alaves,Cadiz CF,1,D
+Rayo Vallecano,Las Palmas,1,W
+Villarreal,Mallorca,1,W
+Valencia,Ath Bilbao,1,D
+Celta Vigo,Real Sociedad,1,L
+Osasuna,Getafe,1,D
+Real Madrid,Almeria,1,W
+Betis,Barcelona,1,L
+Girona,Sevilla,1,D
+Granada CF,Atl. Madrid,1,L
+Almeria,Alaves,1,W
+Real Sociedad,Rayo Vallecano,1,W
+Las Palmas,Real Madrid,1,L
+Barcelona,Villarreal,1,W
+Mallorca,Betis,1,L
+Celta Vigo,Girona,1,D
+Cadiz CF,Ath Bilbao,1,L
+Sevilla,Osasuna,1,D
+Atl. Madrid,Valencia,1,W
+Getafe,Granada CF,1,W
+Barcelona,Osasuna,1,W
+Atl. Madrid,Rayo Vallecano,1,W
+Getafe,Real Madrid,1,L
+Ath Bilbao,Mallorca,1,W
+Valencia,Almeria,1,W
+Granada CF,Las Palmas,1,D
+Alaves,Barcelona,1,L
+Girona,Real Sociedad,1,L
+Villarreal,Cadiz CF,1,W
+Osasuna,Celta Vigo,1,D
+Betis,Getafe,1,D
+Real Madrid,Atl. Madrid,1,D
+Rayo Vallecano,Sevilla,1,D
+Cadiz CF,Betis,1,L
+Alaves,Villarreal,1,L
+Real Sociedad,Osasuna,1,W
+Real Madrid,Girona,1,W
+Las Palmas,Valencia,1,L
+Getafe,Celta Vigo,1,D
+Mallorca,Rayo Vallecano,1,D
+Sevilla,Atl. Madrid,1,L
+Barcelona,Granada CF,1,W
+Almeria,Ath Bilbao,1,L
+Villarreal,Getafe,1,W
+Atl. Madrid,Las Palmas,1,W
+Osasuna,Cadiz CF,1,W
+Celta Vigo,Barcelona,1,L
+Valencia,Sevilla,1,D
+Rayo Vallecano,Real Madrid,1,L
+Granada CF,Almeria,1,D
+Mallorca,Real Sociedad,1,L
+Betis,Alaves,1,W
+Ath Bilbao,Girona,1,D
+Real Sociedad,Villarreal,1,D
+Barcelona,Getafe,1,W
+Alaves,Mallorca,1,L
+Almeria,Atl. Madrid,1,L
+Cadiz CF,Celta Vigo,1,L
+Betis,Ath Bilbao,1,D
+Las Palmas,Osasuna,1,L
+Real Madrid,Sevilla,1,W
+Girona,Rayo Vallecano,1,D
+Celta Vigo,Almeria,1,D
+Sevilla,Real Sociedad,1,D
+Rayo Vallecano,Cadiz CF,1,W
+Getafe,Las Palmas,1,W
+Valencia,Real Madrid,1,L
+Villarreal,Granada CF,1,W
+Atl. Madrid,Betis,1,W
+Mallorca,Girona,1,D
+Ath Bilbao,Barcelona,1,L
+Osasuna,Alaves,1,W
+Barcelona,Mallorca,1,W
+Valencia,Getafe,1,D
+Cadiz CF,Atl. Madrid,1,L
+Granada CF,Real Sociedad,1,L
+Girona,Osasuna,1,D
+Alaves,Rayo Vallecano,1,L
+Las Palmas,Ath Bilbao,1,L
+Real Madrid,Celta Vigo,1,W
+Betis,Villarreal,1,D
+Almeria,Sevilla,1,D
+Real Sociedad,Cadiz CF,1,W
+Mallorca,Granada CF,1,D
+Osasuna,Real Madrid,1,L
+Getafe,Girona,1,D
+Ath Bilbao,Alaves,1,W
+Sevilla,Celta Vigo,1,D
+Villarreal,Valencia,1,D
+Las Palmas,Almeria,1,L
+Rayo Vallecano,Betis,1,D
+Atl. Madrid,Barcelona,1,D
+Cadiz CF,Granada CF,1,D
+Getafe,Sevilla,1,D
+Almeria,Osasuna,1,D
+Valencia,Mallorca,1,W
+Barcelona,Las Palmas,1,W
+Celta Vigo,Rayo Vallecano,1,D
+Girona,Betis,1,D
+Alaves,Real Sociedad,1,L
+Real Madrid,Ath Bilbao,1,W
+Villarreal,Atl. Madrid,1,D
+Granada CF,Valencia,1,L
+Betis,Celta Vigo,1,D
+Atl. Madrid,Girona,1,W
+Rayo Vallecano,Getafe,1,D
+Mallorca,Real Madrid,1,L
+Cadiz CF,Barcelona,1,L
+Las Palmas,Sevilla,1,L
+Granada CF,Alaves,1,D
+Ath Bilbao,Villarreal,1,D
+Real Sociedad,Almeria,1,W
+Osasuna,Valencia,1,D
+Ath Bilbao,Granada CF,1,W
+Celta Vigo,Las Palmas,1,W
+Rayo Vallecano,Osasuna,1,D
+Valencia,Betis,1,D
+Girona,Cadiz CF,1,W
+Getafe,Real Sociedad,1,L
+Almeria,Villarreal,1,L
+Alaves,Atl. Madrid,1,L
+Real Madrid,Barcelona,1,D
+Sevilla,Mallorca,1,W
+Almeria,Getafe,1,D
+Barcelona,Valencia,1,W
+Alaves,Celta Vigo,1,L
+Atl. Madrid,Ath Bilbao,1,D
+Real Sociedad,Real Madrid,1,D
+Cadiz CF,Mallorca,1,D
+Granada CF,Osasuna,1,L
+Villarreal,Rayo Vallecano,1,W
+Betis,Sevilla,1,D
+Las Palmas,Girona,1,L
+Getafe,Ath Bilbao,1,D
+Real Sociedad,Las Palmas,1,W
+Real Madrid,Cadiz CF,1,W
+Girona,Barcelona,1,L
+Mallorca,Atl. Madrid,1,L
+Osasuna,Betis,1,D
+Celta Vigo,Villarreal,1,D
+Valencia,Alaves,1,W
+Rayo Vallecano,Almeria,1,D
+Sevilla,Granada CF,1,W
+Villarreal,Sevilla,1,D
+Valencia,Rayo Vallecano,1,D
+Mallorca,Las Palmas,1,W
+Granada CF,Real Madrid,1,L
+Cadiz CF,Getafe,1,L
+Betis,Almeria,1,W
+Barcelona,Real Sociedad,1,D
+Atl. Madrid,Celta Vigo,1,W
+Ath Bilbao,Osasuna,1,D
+Alaves,Girona,1,L
+Sevilla,Cadiz CF,1,W
+Real Sociedad,Valencia,1,D
+Real Madrid,Alaves,1,W
+Rayo Vallecano,Granada CF,1,W
+Osasuna,Mallorca,1,D
+Girona,Villarreal,1,D
+Getafe,Atl. Madrid,1,L
+Celta Vigo,Ath Bilbao,1,D
+Almeria,Barcelona,1,L
+Las Palmas,Betis,1,L
+Granada CF,Celta Vigo,1,L
+Villarreal,Real Madrid,1,L
+Valencia,Girona,1,D
+Mallorca,Almeria,1,D
+Cadiz CF,Las Palmas,1,D
+Atl. Madrid,Osasuna,1,W
+Barcelona,Rayo Vallecano,1,W
+Ath Bilbao,Sevilla,1,D
+Alaves,Getafe,1,L
+Betis,Real Sociedad,1,D
+Real Sociedad,Atl. Madrid,1,D
+Almeria,Cadiz CF,1,W
+Celta Vigo,Valencia,1,D
+Getafe,Mallorca,1,D
+Girona,Granada CF,1,W
+Las Palmas,Alaves,1,D
+Osasuna,Villarreal,1,D
+Rayo Vallecano,Ath Bilbao,1,D
+Real Madrid,Betis,1,W
+Sevilla,Barcelona,1,L
+Empoli,Verona,1,D
+Frosinone,Napoli,1,L
+Inter,Monza,1,W
+Genoa,Fiorentina,1,L
+AS Roma,Salernitana,1,W
+Sassuolo,Atalanta,1,D
+Lecce,Lazio,1,L
+Udinese,Juventus,1,L
+Torino,Cagliari,1,W
+Bologna,AC Milan,1,L
+Frosinone,Atalanta,1,L
+Monza,Empoli,1,D
+Verona,AS Roma,1,L
+AC Milan,Torino,1,W
+Juventus,Bologna,1,W
+Fiorentina,Lecce,1,W
+Napoli,Sassuolo,1,W
+Lazio,Genoa,1,W
+Salernitana,Udinese,1,D
+Cagliari,Inter,1,L
+Sassuolo,Verona,1,W
+AS Roma,AC Milan,1,D
+Udinese,Frosinone,1,W
+Bologna,Cagliari,1,W
+Atalanta,Monza,1,W
+Napoli,Lazio,1,W
+Torino,Genoa,1,W
+Inter,Fiorentina,1,W
+Lecce,Salernitana,1,D
+Empoli,Juventus,1,L
+Juventus,Lazio,1,D
+Inter,AC Milan,1,D
+Genoa,Napoli,1,L
+Cagliari,Udinese,1,L
+Monza,Lecce,1,D
+Frosinone,Sassuolo,1,L
+Fiorentina,Atalanta,1,D
+AS Roma,Empoli,1,W
+Salernitana,Torino,1,D
+Verona,Bologna,1,D
+Salernitana,Frosinone,1,W
+Lecce,Genoa,1,D
+AC Milan,Verona,1,W
+Sassuolo,Juventus,1,D
+Lazio,Monza,1,W
+Empoli,Inter,1,L
+Udinese,Fiorentina,1,D
+Atalanta,Cagliari,1,W
+Bologna,Napoli,1,L
+Torino,AS Roma,1,D
+Juventus,Lecce,1,W
+Cagliari,AC Milan,1,L
+Verona,Atalanta,1,L
+Empoli,Salernitana,1,D
+Lazio,Torino,1,D
+Inter,Sassuolo,1,W
+Napoli,Udinese,1,W
+Monza,Bologna,1,D
+Frosinone,Fiorentina,1,L
+Genoa,AS Roma,1,L
+Lecce,Napoli,1,L
+AC Milan,Lazio,1,D
+Salernitana,Inter,1,L
+Bologna,Empoli,1,D
+Udinese,Genoa,1,W
+Atalanta,Juventus,1,D
+AS Roma,Frosinone,1,W
+Torino,Verona,1,D
+Sassuolo,Monza,1,W
+Fiorentina,Cagliari,1,W
+Empoli,Udinese,1,D
+Lecce,Sassuolo,1,L
+Inter,Bologna,1,W
+Juventus,Torino,1,W
+Genoa,AC Milan,1,L
+Monza,Salernitana,1,D
+Lazio,Atalanta,1,D
+Frosinone,Verona,1,L
+Cagliari,AS Roma,1,L
+Napoli,Fiorentina,1,W
+Verona,Napoli,1,L
+Torino,Inter,1,L
+Sassuolo,Lazio,1,D
+AS Roma,Monza,1,W
+Salernitana,Cagliari,1,W
+Bologna,Frosinone,1,W
+Atalanta,Genoa,1,W
+AC Milan,Juventus,1,D
+Udinese,Lecce,1,D
+Fiorentina,Empoli,1,W
+Genoa,Salernitana,1,D
+Sassuolo,Bologna,1,D
+Lecce,Torino,1,D
+Juventus,Verona,1,W
+Cagliari,Frosinone,1,D
+Monza,Udinese,1,D
+Inter,AS Roma,1,W
+Napoli,AC Milan,1,D
+Empoli,Atalanta,1,L
+Lazio,Fiorentina,1,D
+Bologna,Lazio,1,D
+Salernitana,Napoli,1,L
+Atalanta,Inter,1,D
+AC Milan,Udinese,1,W
+Verona,Monza,1,D
+Cagliari,Genoa,1,D
+AS Roma,Lecce,1,W
+Fiorentina,Juventus,1,D
+Frosinone,Empoli,1,L
+Torino,Sassuolo,1,D
+Sassuolo,Salernitana,1,W
+Genoa,Verona,1,D
+Lecce,AC Milan,1,L
+Juventus,Cagliari,1,W
+Monza,Torino,1,D
+Napoli,Empoli,1,W
+Fiorentina,Bologna,1,D
+Udinese,Atalanta,1,D
+Lazio,AS Roma,1,D
+Inter,Frosinone,1,W
+Salernitana,Lazio,1,L
+Atalanta,Napoli,1,L
+AC Milan,Fiorentina,1,W
+Cagliari,Monza,1,L
+Frosinone,Genoa,1,D
+Empoli,Sassuolo,1,L
+AS Roma,Udinese,1,D
+Juventus,Inter,1,D
+Verona,Lecce,1,D
+Bologna,Torino,1,D
+Monza,Juventus,1,L
+Genoa,Empoli,1,D
+Lazio,Cagliari,1,W
+AC Milan,Frosinone,1,W
+Lecce,Bologna,1,D
+Udinese,Verona,1,D
+Fiorentina,Salernitana,1,W
+Sassuolo,AS Roma,1,D
+Napoli,Inter,1,D
+Torino,Atalanta,1,D
+Juventus,Napoli,1,D
+Verona,Lazio,1,L
+Atalanta,AC Milan,1,D
+Inter,Udinese,1,W
+Frosinone,Torino,1,L
+Monza,Genoa,1,W
+Salernitana,Bologna,1,D
+AS Roma,Fiorentina,1,D
+Empoli,Lecce,1,D
+Cagliari,Sassuolo,1,L
+Genoa,Juventus,1,L
+Lecce,Frosinone,1,W
+Napoli,Cagliari,1,W
+Torino,Empoli,1,D
+AC Milan,Monza,1,W
+Udinese,Sassuolo,1,D
+Fiorentina,Verona,1,W
+Bologna,AS Roma,1,D
+Lazio,Inter,1,D
+Atalanta,Salernitana,1,W
+Sassuolo,Genoa,1,W
+Empoli,Lazio,1,L
+Salernitana,AC Milan,1,L
+Monza,Fiorentina,1,D
+Frosinone,Juventus,1,L
+Torino,Udinese,1,D
+Bologna,Atalanta,1,D
+Verona,Cagliari,1,W
+Inter,Lecce,1,W
+AS Roma,Napoli,1,L
+Napoli,Monza,1,W
+Fiorentina,Torino,1,D
+Lazio,Frosinone,1,W
+Genoa,Inter,1,L
+Atalanta,Lecce,1,W
+Udinese,Bologna,1,D
+Cagliari,Empoli,1,L
+Verona,Salernitana,1,D
+AC Milan,Sassuolo,1,W
+Juventus,AS Roma,1,D
+Bologna,Genoa,1,W
+Inter,Verona,1,W
+Frosinone,Monza,1,L
+Lecce,Cagliari,1,W
+Sassuolo,Fiorentina,1,D
+Empoli,AC Milan,1,L
+Torino,Napoli,1,L
+Udinese,Lazio,1,D
+Salernitana,Juventus,1,L
+AS Roma,Atalanta,1,D
+Genoa,Torino,1,L
+Napoli,Salernitana,1,W
+Verona,Empoli,1,D
+Monza,Inter,1,L
+Lazio,Lecce,1,W
+Cagliari,Bologna,1,L
+Fiorentina,Udinese,1,D
+AC Milan,AS Roma,1,W
+Atalanta,Frosinone,1,W
+Juventus,Sassuolo,1,D
+AS Roma,Verona,1,W
+Udinese,AC Milan,1,L
+Frosinone,Cagliari,1,D
+Empoli,Monza,1,D
+Salernitana,Genoa,1,D
+Lecce,Juventus,1,L
+Cagliari,Torino,1,L
+Atalanta,Udinese,1,D
+Juventus,Empoli,1,W
+AC Milan,Bologna,1,W
+Genoa,Lecce,1,D
+Verona,Frosinone,1,W
+Monza,Sassuolo,1,D
+Lazio,Napoli,1,L
+Fiorentina,Inter,1,L
+Salernitana,AS Roma,1,L
+Lecce,Fiorentina,1,L
+Udinese,Monza,1,D
+Empoli,Genoa,1,D
+Frosinone,AC Milan,1,L
+Bologna,Sassuolo,1,D
+Torino,Salernitana,1,W
+Napoli,Verona,1,W
+Atalanta,Lazio,1,D
+Inter,Juventus,1,D
+AS Roma,Cagliari,1,W
+Salernitana,Empoli,1,D
+Cagliari,Lazio,1,L
+AS Roma,Inter,1,D
+Sassuolo,Torino,1,D
+Fiorentina,Frosinone,1,W
+Monza,Verona,1,D
+Bologna,Lecce,1,D
+Genoa,Atalanta,1,L
+AC Milan,Napoli,1,D
+Juventus,Udinese,1,W
+Bologna,Fiorentina,1,D
+Torino,Lecce,1,D
+Inter,Salernitana,1,W
+Napoli,Genoa,1,W
+Verona,Juventus,1,L
+Atalanta,Sassuolo,1,D
+Lazio,Bologna,1,W
+Empoli,Fiorentina,1,L
+Udinese,Cagliari,1,W
+Frosinone,AS Roma,1,L
+Monza,AC Milan,1,L
+Torino,Lazio,1,D
+Bologna,Verona,1,D
+Sassuolo,Empoli,1,W
+Salernitana,Monza,1,D
+Genoa,Udinese,1,L
+Juventus,Frosinone,1,W
+Cagliari,Napoli,1,L
+Lecce,Inter,1,L
+AC Milan,Atalanta,1,D
+AS Roma,Torino,1,D
+Fiorentina,Lazio,1,D
+Sassuolo,Napoli,1,L
+Inter,Atalanta,1,D
+Lazio,AC Milan,1,D
+Udinese,Salernitana,1,D
+Monza,AS Roma,1,L
+Torino,Fiorentina,1,D
+Verona,Sassuolo,1,L
+Frosinone,Lecce,1,L
+Empoli,Cagliari,1,W
+Atalanta,Bologna,1,W
+Napoli,Juventus,1,D
+Inter,Genoa,1,W
+Napoli,Torino,1,W
+Sassuolo,Frosinone,1,W
+Cagliari,Salernitana,1,L
+Bologna,Inter,1,L
+Genoa,Monza,1,D
+Lecce,Verona,1,D
+AC Milan,Empoli,1,W
+Juventus,Atalanta,1,D
+Fiorentina,AS Roma,1,D
+Lazio,Udinese,1,D
+Empoli,Bologna,1,D
+Udinese,Torino,1,D
+Monza,Cagliari,1,W
+Salernitana,Lecce,1,D
+Frosinone,Lazio,1,L
+Juventus,Genoa,1,W
+Verona,AC Milan,1,L
+AS Roma,Sassuolo,1,D
+Inter,Napoli,1,D
+Napoli,Atalanta,1,W
+Genoa,Frosinone,1,D
+Torino,Monza,1,D
+Lazio,Juventus,1,D
+Fiorentina,AC Milan,1,D
+Bologna,Salernitana,1,D
+Sassuolo,Udinese,1,D
+Cagliari,Verona,1,L
+Lecce,AS Roma,1,L
+Inter,Empoli,1,W
+Salernitana,Sassuolo,1,L
+AC Milan,Lecce,1,W
+AS Roma,Lazio,1,D
+Empoli,Torino,1,D
+Frosinone,Bologna,1,L
+Monza,Napoli,1,L
+Verona,Genoa,1,D
+Cagliari,Atalanta,1,L
+Juventus,Fiorentina,1,D
+Udinese,Inter,1,L
+Lazio,Salernitana,1,W
+Lecce,Empoli,1,D
+Torino,Juventus,1,L
+Bologna,Monza,1,D
+Napoli,Frosinone,1,W
+Sassuolo,AC Milan,1,L
+Udinese,AS Roma,1,D
+Inter,Cagliari,1,W
+Fiorentina,Genoa,1,W
+Atalanta,Verona,1,W
+Genoa,Lazio,1,L
+Cagliari,Juventus,1,L
+Empoli,Napoli,1,L
+Verona,Udinese,1,D
+Sassuolo,Lecce,1,W
+Torino,Frosinone,1,W
+Salernitana,Fiorentina,1,L
+Monza,Atalanta,1,L
+AS Roma,Bologna,1,D
+AC Milan,Inter,1,D
+Napoli,AS Roma,1,W
+Lecce,Monza,1,D
+Lazio,Verona,1,W
+Juventus,AC Milan,1,D
+Inter,Torino,1,W
+Bologna,Udinese,1,D
+Frosinone,Salernitana,1,L
+Fiorentina,Sassuolo,1,D
+Atalanta,Empoli,1,W
+Genoa,Cagliari,1,D
+Sassuolo,Inter,1,L
+Udinese,Napoli,1,L
+Torino,Bologna,1,D
+Salernitana,Atalanta,1,L
+Verona,Fiorentina,1,L
+Empoli,Frosinone,1,W
+Cagliari,Lecce,1,L
+AS Roma,Juventus,1,D
+AC Milan,Genoa,1,W
+Monza,Lazio,1,L
+Verona,Torino,1,D
+Napoli,Bologna,1,W
+Lecce,Udinese,1,D
+Lazio,Empoli,1,W
+Juventus,Salernitana,1,W
+Genoa,Sassuolo,1,L
+Frosinone,Inter,1,L
+Fiorentina,Monza,1,W
+Atalanta,AS Roma,1,D
+AC Milan,Cagliari,1,W
+Torino,AC Milan,1,L
+Sassuolo,Cagliari,1,W
+Udinese,Empoli,1,D
+Salernitana,Verona,1,D
+Monza,Frosinone,1,W
+Fiorentina,Napoli,1,L
+Inter,Lazio,1,W
+Bologna,Juventus,1,L
+AS Roma,Genoa,1,W
+Lecce,Atalanta,1,L
+Napoli,Lecce,1,W
+AC Milan,Salernitana,1,W
+Atalanta,Torino,1,D
+Cagliari,Fiorentina,1,L
+Empoli,AS Roma,1,L
+Frosinone,Udinese,1,L
+Genoa,Bologna,1,L
+Juventus,Monza,1,W
+Lazio,Sassuolo,1,D
+Verona,Inter,1,L
+Werder Bremen,Bayern Munich,1,L
+Wolfsburg,Heidenheim,1,W
+Augsburg,B. Monchengladbach,1,D
+Stuttgart,Bochum,1,W
+Bayer Leverkusen,RB Leipzig,1,D
+Hoffenheim,Freiburg,1,D
+Dortmund,FC Koln,1,W
+Union Berlin,Mainz,1,D
+Eintracht Frankfurt,Darmstadt,1,W
+RB Leipzig,Stuttgart,1,W
+Heidenheim,Hoffenheim,1,L
+Freiburg,Werder Bremen,1,W
+FC Koln,Wolfsburg,1,L
+Darmstadt,Union Berlin,1,L
+Bochum,Dortmund,1,L
+B. Monchengladbach,Bayer Leverkusen,1,D
+Mainz,Eintracht Frankfurt,1,D
+Bayern Munich,Augsburg,1,W
+Dortmund,Heidenheim,1,W
+Augsburg,Bochum,1,D
+Werder Bremen,Mainz,1,D
+Hoffenheim,Wolfsburg,1,D
+Stuttgart,Freiburg,1,D
+Bayer Leverkusen,Darmstadt,1,W
+B. Monchengladbach,Bayern Munich,1,L
+Eintracht Frankfurt,FC Koln,1,W
+Union Berlin,RB Leipzig,1,L
+Bayern Munich,Bayer Leverkusen,1,W
+FC Koln,Hoffenheim,1,D
+Freiburg,Dortmund,1,D
+Mainz,Stuttgart,1,D
+RB Leipzig,Augsburg,1,W
+Wolfsburg,Union Berlin,1,D
+Bochum,Eintracht Frankfurt,1,L
+Heidenheim,Werder Bremen,1,L
+Darmstadt,B. Monchengladbach,1,L
+Stuttgart,Darmstadt,1,W
+Union Berlin,Hoffenheim,1,D
+Dortmund,Wolfsburg,1,W
+Bayern Munich,Bochum,1,W
+B. Monchengladbach,RB Leipzig,1,L
+Augsburg,Mainz,1,D
+Werder Bremen,FC Koln,1,D
+Bayer Leverkusen,Heidenheim,1,W
+Eintracht Frankfurt,Freiburg,1,D
+Hoffenheim,Dortmund,1,L
+Mainz,Bayer Leverkusen,1,L
+Heidenheim,Union Berlin,1,L
+FC Koln,Stuttgart,1,D
+Bochum,B. Monchengladbach,1,L
+Wolfsburg,Eintracht Frankfurt,1,D
+RB Leipzig,Bayern Munich,1,D
+Darmstadt,Werder Bremen,1,L
+Freiburg,Augsburg,1,W
+B. Monchengladbach,Mainz,1,D
+Augsburg,Darmstadt,1,W
+Dortmund,Union Berlin,1,W
+Stuttgart,Wolfsburg,1,D
+RB Leipzig,Bochum,1,W
+Werder Bremen,Hoffenheim,1,D
+Bayer Leverkusen,FC Koln,1,W
+Bayern Munich,Freiburg,1,W
+Eintracht Frankfurt,Heidenheim,1,W
+Dortmund,Werder Bremen,1,W
+Union Berlin,Stuttgart,1,D
+Hoffenheim,Eintracht Frankfurt,1,D
+Freiburg,Bochum,1,W
+Darmstadt,RB Leipzig,1,L
+Wolfsburg,Bayer Leverkusen,1,D
+Mainz,Bayern Munich,1,L
+FC Koln,B. Monchengladbach,1,L
+Heidenheim,Augsburg,1,L
+Bochum,Mainz,1,L
+Augsburg,Wolfsburg,1,L
+Stuttgart,Hoffenheim,1,D
+Bayern Munich,Darmstadt,1,W
+B. Monchengladbach,Heidenheim,1,W
+Werder Bremen,Union Berlin,1,D
+RB Leipzig,FC Koln,1,W
+Eintracht Frankfurt,Dortmund,1,D
+Bayer Leverkusen,Freiburg,1,D
+Darmstadt,Bochum,1,D
+FC Koln,Augsburg,1,D
+Freiburg,B. Monchengladbach,1,D
+Union Berlin,Eintracht Frankfurt,1,D
+Mainz,RB Leipzig,1,L
+Hoffenheim,Bayer Leverkusen,1,L
+Dortmund,Bayern Munich,1,D
+Wolfsburg,Werder Bremen,1,W
+Heidenheim,Stuttgart,1,L
+B. Monchengladbach,Wolfsburg,1,D
+Stuttgart,Dortmund,1,L
+Darmstadt,Mainz,1,L
+Bayern Munich,Heidenheim,1,W
+Augsburg,Hoffenheim,1,D
+Bochum,FC Koln,1,D
+Bayer Leverkusen,Union Berlin,1,W
+Werder Bremen,Eintracht Frankfurt,1,L
+RB Leipzig,Freiburg,1,W
+FC Koln,Bayern Munich,1,L
+Wolfsburg,RB Leipzig,1,L
+Werder Bremen,Bayer Leverkusen,1,L
+Union Berlin,Augsburg,1,D
+Freiburg,Darmstadt,1,W
+Dortmund,B. Monchengladbach,1,W
+Eintracht Frankfurt,Stuttgart,1,W
+Heidenheim,Bochum,1,D
+Hoffenheim,Mainz,1,D
+Darmstadt,FC Koln,1,L
+RB Leipzig,Heidenheim,1,W
+B. Monchengladbach,Hoffenheim,1,D
+Bochum,Wolfsburg,1,L
+Stuttgart,Werder Bremen,1,D
+Mainz,Freiburg,1,D
+Bayer Leverkusen,Dortmund,1,D
+Augsburg,Eintracht Frankfurt,1,L
+Hoffenheim,Bochum,1,W
+Heidenheim,Darmstadt,1,D
+Wolfsburg,Freiburg,1,D
+Werder Bremen,Augsburg,1,D
+Union Berlin,B. Monchengladbach,1,D
+Eintracht Frankfurt,Bayern Munich,1,L
+Dortmund,RB Leipzig,1,D
+Stuttgart,Bayer Leverkusen,1,L
+FC Koln,Mainz,1,D
+B. Monchengladbach,Werder Bremen,1,W
+Darmstadt,Wolfsburg,1,L
+Augsburg,Dortmund,1,L
+Bochum,Union Berlin,1,L
+Mainz,Heidenheim,1,W
+RB Leipzig,Hoffenheim,1,W
+Freiburg,FC Koln,1,W
+Bayer Leverkusen,Eintracht Frankfurt,1,D
+Bayern Munich,Stuttgart,1,W
+Werder Bremen,RB Leipzig,1,L
+Hoffenheim,Darmstadt,1,W
+Dortmund,Mainz,1,W
+Union Berlin,FC Koln,1,D
+Heidenheim,Freiburg,1,L
+Wolfsburg,Bayern Munich,1,L
+Stuttgart,Augsburg,1,D
+Eintracht Frankfurt,B. Monchengladbach,1,D
+Bayer Leverkusen,Bochum,1,W
+Bayern Munich,Hoffenheim,1,W
+FC Koln,Heidenheim,1,W
+Freiburg,Union Berlin,1,D
+Augsburg,Bayer Leverkusen,1,L
+RB Leipzig,Eintracht Frankfurt,1,D
+Mainz,Wolfsburg,1,D
+Darmstadt,Dortmund,1,L
+Bochum,Werder Bremen,1,D
+B. Monchengladbach,Stuttgart,1,D
+FC Koln,Dortmund,1,L
+Heidenheim,Wolfsburg,1,L
+Freiburg,Hoffenheim,1,D
+Darmstadt,Eintracht Frankfurt,1,L
+Bochum,Stuttgart,1,L
+RB Leipzig,Bayer Leverkusen,1,D
+Bayern Munich,Werder Bremen,1,W
+B. Monchengladbach,Augsburg,1,W
+Bayern Munich,Union Berlin,1,W
+Eintracht Frankfurt,Mainz,1,W
+Wolfsburg,FC Koln,1,W
+Werder Bremen,Freiburg,1,L
+Stuttgart,RB Leipzig,1,L
+Hoffenheim,Heidenheim,1,W
+Augsburg,Bayern Munich,1,L
+Bayer Leverkusen,B. Monchengladbach,1,D
+Union Berlin,Darmstadt,1,W
+Dortmund,Bochum,1,W
+Heidenheim,Dortmund,1,L
+Darmstadt,Bayer Leverkusen,1,L
+Bochum,Augsburg,1,D
+Bayern Munich,B. Monchengladbach,1,W
+Mainz,Werder Bremen,1,D
+Freiburg,Stuttgart,1,D
+FC Koln,Eintracht Frankfurt,1,L
+Wolfsburg,Hoffenheim,1,D
+RB Leipzig,Union Berlin,1,W
+Mainz,Union Berlin,1,D
+Dortmund,Freiburg,1,W
+Werder Bremen,Heidenheim,1,W
+Union Berlin,Wolfsburg,1,D
+Eintracht Frankfurt,Bochum,1,W
+B. Monchengladbach,Darmstadt,1,W
+Augsburg,RB Leipzig,1,L
+Bayer Leverkusen,Bayern Munich,1,D
+Stuttgart,Mainz,1,D
+Hoffenheim,FC Koln,1,D
+FC Koln,Werder Bremen,1,D
+Hoffenheim,Union Berlin,1,D
+Heidenheim,Bayer Leverkusen,1,L
+Darmstadt,Stuttgart,1,L
+Wolfsburg,Dortmund,1,D
+Mainz,Augsburg,1,D
+RB Leipzig,B. Monchengladbach,1,W
+Freiburg,Eintracht Frankfurt,1,D
+Bochum,Bayern Munich,1,L
+Bayer Leverkusen,Mainz,1,W
+Stuttgart,FC Koln,1,D
+B. Monchengladbach,Bochum,1,W
+Werder Bremen,Darmstadt,1,W
+Union Berlin,Heidenheim,1,W
+Bayern Munich,RB Leipzig,1,D
+Eintracht Frankfurt,Wolfsburg,1,D
+Dortmund,Hoffenheim,1,W
+Augsburg,Freiburg,1,D
+Freiburg,Bayern Munich,1,L
+Heidenheim,Eintracht Frankfurt,1,L
+Union Berlin,Dortmund,1,L
+Mainz,B. Monchengladbach,1,D
+Darmstadt,Augsburg,1,L
+Bochum,RB Leipzig,1,L
+Wolfsburg,Stuttgart,1,D
+FC Koln,Bayer Leverkusen,1,L
+Hoffenheim,Werder Bremen,1,D
+Stuttgart,Union Berlin,1,D
+RB Leipzig,Darmstadt,1,W
+B. Monchengladbach,FC Koln,1,W
+Augsburg,Heidenheim,1,W
+Bayern Munich,Mainz,1,W
+Werder Bremen,Dortmund,1,L
+Bochum,Freiburg,1,L
+Eintracht Frankfurt,Hoffenheim,1,D
+Bayer Leverkusen,Wolfsburg,1,D
+FC Koln,RB Leipzig,1,L
+Mainz,Bochum,1,W
+Heidenheim,B. Monchengladbach,1,L
+Darmstadt,Bayern Munich,1,L
+Union Berlin,Werder Bremen,1,D
+Wolfsburg,Augsburg,1,W
+Hoffenheim,Stuttgart,1,D
+Freiburg,Bayer Leverkusen,1,D
+Dortmund,Eintracht Frankfurt,1,D
+B. Monchengladbach,Freiburg,1,D
+RB Leipzig,Mainz,1,W
+Eintracht Frankfurt,Union Berlin,1,W
+Werder Bremen,Wolfsburg,1,L
+Bayer Leverkusen,Hoffenheim,1,W
+Bayern Munich,Dortmund,1,D
+Augsburg,FC Koln,1,D
+Stuttgart,Heidenheim,1,W
+Bochum,Darmstadt,1,D
+Eintracht Frankfurt,Werder Bremen,1,W
+FC Koln,Bochum,1,D
+Union Berlin,Bayer Leverkusen,1,L
+Heidenheim,Bayern Munich,1,L
+Mainz,Darmstadt,1,W
+Freiburg,RB Leipzig,1,L
+Dortmund,Stuttgart,1,W
+Hoffenheim,Augsburg,1,D
+Wolfsburg,B. Monchengladbach,1,D
+Augsburg,Union Berlin,1,D
+RB Leipzig,Wolfsburg,1,W
+Mainz,Hoffenheim,1,D
+Bochum,Heidenheim,1,D
+Bayern Munich,FC Koln,1,W
+B. Monchengladbach,Dortmund,1,D
+Stuttgart,Eintracht Frankfurt,1,L
+Darmstadt,Freiburg,1,L
+Bayer Leverkusen,Werder Bremen,1,W
+Eintracht Frankfurt,Augsburg,1,W
+FC Koln,Darmstadt,1,W
+Heidenheim,RB Leipzig,1,L
+Hoffenheim,B. Monchengladbach,1,D
+Wolfsburg,Bochum,1,W
+Union Berlin,Bayern Munich,1,L
+Werder Bremen,Stuttgart,1,D
+Dortmund,Bayer Leverkusen,1,D
+Freiburg,Mainz,1,D
+Bochum,Hoffenheim,1,L
+Augsburg,Werder Bremen,1,D
+Bayern Munich,Eintracht Frankfurt,1,W
+Freiburg,Wolfsburg,1,D
+RB Leipzig,Dortmund,1,D
+Bayer Leverkusen,Stuttgart,1,W
+B. Monchengladbach,Union Berlin,1,D
+Mainz,FC Koln,1,D
+Darmstadt,Heidenheim,1,D
+Hoffenheim,RB Leipzig,1,L
+Werder Bremen,B. Monchengladbach,1,L
+Wolfsburg,Darmstadt,1,W
+Dortmund,Augsburg,1,W
+Stuttgart,Bayern Munich,1,L
+FC Koln,Freiburg,1,L
+Union Berlin,Bochum,1,W
+Eintracht Frankfurt,Bayer Leverkusen,1,D
+Heidenheim,Mainz,1,L
+Augsburg,Stuttgart,1,D
+B. Monchengladbach,Eintracht Frankfurt,1,D
+FC Koln,Union Berlin,1,D
+Freiburg,Heidenheim,1,W
+RB Leipzig,Werder Bremen,1,W
+Mainz,Dortmund,1,L
+Darmstadt,Hoffenheim,1,L
+Bayern Munich,Wolfsburg,1,W
+Bochum,Bayer Leverkusen,1,L
+Bayer Leverkusen,Augsburg,1,W
+Dortmund,Darmstadt,1,W
+Eintracht Frankfurt,RB Leipzig,1,D
+Heidenheim,FC Koln,1,L
+Hoffenheim,Bayern Munich,1,L
+Stuttgart,B. Monchengladbach,1,D
+Union Berlin,Freiburg,1,D
+Werder Bremen,Bochum,1,D
+Wolfsburg,Mainz,1,D
+Nice,Lille,1,D
+Marseille,Reims,1,W
+PSG,Lorient,1,W
+Brest,Lens,1,L
+Montpellier,Le Havre,1,W
+Nantes,Toulouse,1,D
+Clermont,Monaco,1,L
+Rennes,Metz,1,W
+Strasbourg,Lyon,1,L
+Metz,Marseille,1,L
+Lyon,Montpellier,1,W
+Toulouse,PSG,1,L
+Lille,Nantes,1,W
+Reims,Clermont,1,W
+Lorient,Nice,1,D
+Le Havre,Brest,1,D
+Monaco,Strasbourg,1,W
+Lens,Rennes,1,D
+Nantes,Monaco,1,L
+Marseille,Brest,1,W
+PSG,Lens,1,W
+Rennes,Le Havre,1,W
+Strasbourg,Toulouse,1,D
+Montpellier,Reims,1,D
+Clermont,Metz,1,D
+Lorient,Lille,1,D
+Nice,Lyon,1,D
+Nantes,Marseille,1,L
+Brest,Rennes,1,L
+Monaco,Lens,1,D
+Toulouse,Clermont,1,W
+Le Havre,Lorient,1,L
+Lille,Montpellier,1,W
+Metz,Reims,1,L
+Nice,Strasbourg,1,W
+Lyon,PSG,1,L
+PSG,Nice,1,W
+Rennes,Lille,1,D
+Lens,Metz,1,W
+Lorient,Monaco,1,L
+Strasbourg,Montpellier,1,D
+Reims,Brest,1,D
+Clermont,Nantes,1,D
+Marseille,Toulouse,1,W
+Lyon,Le Havre,1,W
+Monaco,Nice,1,D
+Nantes,Lorient,1,D
+Brest,Lyon,1,L
+Metz,Strasbourg,1,L
+Lens,Toulouse,1,W
+Le Havre,Clermont,1,D
+Montpellier,Rennes,1,L
+PSG,Marseille,1,W
+Lille,Reims,1,D
+Strasbourg,Lens,1,D
+Clermont,PSG,1,L
+Monaco,Marseille,1,D
+Reims,Lyon,1,L
+Le Havre,Lille,1,L
+Toulouse,Metz,1,W
+Nice,Brest,1,W
+Lorient,Montpellier,1,D
+Rennes,Nantes,1,W
+Strasbourg,Nantes,1,D
+Metz,Nice,1,L
+Reims,Monaco,1,L
+Marseille,Le Havre,1,W
+Lyon,Lorient,1,W
+Brest,Toulouse,1,D
+Lens,Lille,1,D
+Rennes,PSG,1,L
+Le Havre,Lens,1,L
+PSG,Strasbourg,1,W
+Nice,Marseille,1,D
+Lorient,Rennes,1,L
+Toulouse,Reims,1,D
+Nantes,Montpellier,1,D
+Lille,Brest,1,W
+Monaco,Metz,1,W
+Lyon,Clermont,1,W
+Clermont,Nice,1,L
+Reims,Lorient,1,D
+Lens,Nantes,1,D
+Brest,PSG,1,L
+Montpellier,Toulouse,1,D
+Metz,Le Havre,1,D
+Lille,Monaco,1,D
+Rennes,Strasbourg,1,W
+PSG,Montpellier,1,W
+Lorient,Lens,1,D
+Marseille,Lille,1,D
+Lyon,Metz,1,W
+Toulouse,Le Havre,1,W
+Strasbourg,Clermont,1,W
+Nantes,Reims,1,D
+Monaco,Brest,1,W
+Nice,Rennes,1,D
+Montpellier,Nice,1,D
+Reims,PSG,1,L
+Le Havre,Monaco,1,L
+Metz,Nantes,1,L
+Lille,Toulouse,1,W
+Clermont,Lorient,1,L
+Rennes,Lyon,1,D
+Lens,Marseille,1,D
+PSG,Monaco,1,W
+Clermont,Lens,1,L
+Strasbourg,Marseille,1,L
+Nice,Toulouse,1,W
+Lorient,Metz,1,W
+Nantes,Le Havre,1,W
+Montpellier,Brest,1,D
+Rennes,Reims,1,W
+Lyon,Lille,1,D
+Montpellier,Clermont,1,W
+Reims,Strasbourg,1,D
+Lens,Lyon,1,D
+Nantes,Nice,1,L
+Le Havre,PSG,1,L
+Monaco,Montpellier,1,W
+Brest,Clermont,1,D
+Toulouse,Lorient,1,D
+Lille,Metz,1,W
+Marseille,Rennes,1,D
+Marseille,Lyon,1,D
+Brest,Strasbourg,1,D
+Montpellier,Lens,1,D
+Rennes,Monaco,1,D
+PSG,Nantes,1,W
+Nice,Reims,1,D
+Metz,Brest,1,D
+Strasbourg,Le Havre,1,W
+Clermont,Lille,1,L
+Lyon,Toulouse,1,W
+Lorient,Marseille,1,D
+Monaco,Lyon,1,D
+Le Havre,Nice,1,L
+Lens,Reims,1,D
+Nantes,Brest,1,D
+Toulouse,Rennes,1,L
+Metz,Montpellier,1,L
+Lorient,Strasbourg,1,D
+Marseille,Clermont,1,W
+Lille,PSG,1,L
+Brest,Lorient,1,D
+Clermont,Rennes,1,L
+Toulouse,Monaco,1,L
+Strasbourg,Lille,1,D
+Reims,Le Havre,1,W
+PSG,Metz,1,W
+Nice,Lens,1,D
+Montpellier,Marseille,1,L
+Lyon,Nantes,1,W
+Marseille,Strasbourg,1,W
+Monaco,Reims,1,W
+Rennes,Nice,1,D
+Lille,Lorient,1,D
+Nantes,Clermont,1,W
+Metz,Toulouse,1,D
+Brest,Montpellier,1,D
+Le Havre,Lyon,1,L
+Lens,PSG,1,L
+Lyon,Rennes,1,D
+Nice,Metz,1,W
+Marseille,Monaco,1,D
+Montpellier,Lille,1,D
+Reims,Nantes,1,D
+Lorient,Le Havre,1,W
+Clermont,Strasbourg,1,L
+Toulouse,Lens,1,D
+PSG,Brest,1,W
+Strasbourg,PSG,1,L
+Rennes,Montpellier,1,W
+Nantes,Lens,1,D
+Monaco,Le Havre,1,W
+Reims,Toulouse,1,D
+Metz,Lorient,1,L
+Lille,Clermont,1,W
+Brest,Nice,1,L
+Lyon,Marseille,1,D
+Marseille,Metz,1,W
+Lens,Strasbourg,1,D
+PSG,Lille,1,W
+Le Havre,Rennes,1,L
+Clermont,Brest,1,D
+Lorient,Reims,1,D
+Toulouse,Nantes,1,D
+Montpellier,Lyon,1,L
+Nice,Monaco,1,D
+Lyon,Nice,1,D
+Lille,Le Havre,1,W
+Nantes,PSG,1,L
+Strasbourg,Lorient,1,D
+Rennes,Clermont,1,W
+Monaco,Toulouse,1,W
+Montpellier,Metz,1,W
+Reims,Lens,1,D
+Brest,Marseille,1,L
+Metz,Lyon,1,L
+Lorient,Nantes,1,D
+Strasbourg,Brest,1,D
+Lens,Monaco,1,D
+Nice,Clermont,1,W
+Toulouse,Lille,1,L
+Le Havre,Reims,1,L
+PSG,Rennes,1,W
+Marseille,Montpellier,1,W
+Monaco,PSG,1,D
+Reims,Lille,1,D
+Clermont,Marseille,1,L
+Toulouse,Nice,1,L
+Nantes,Metz,1,W
+Montpellier,Strasbourg,1,D
+Brest,Le Havre,1,D
+Rennes,Lorient,1,W
+Lyon,Lens,1,D
+Nice,Montpellier,1,W
+Lorient,Lyon,1,L
+Lens,Brest,1,W
+PSG,Reims,1,W
+Le Havre,Toulouse,1,L
+Metz,Clermont,1,D
+Strasbourg,Monaco,1,L
+Lille,Rennes,1,D
+Marseille,Nantes,1,W
+Toulouse,Lyon,1,L
+Nantes,Strasbourg,1,D
+Lens,Nice,1,D
+Brest,Lille,1,L
+Clermont,Le Havre,1,D
+Monaco,Lorient,1,W
+Reims,Metz,1,W
+Rennes,Marseille,1,D
+Montpellier,PSG,1,L
+Lille,Lens,1,D
+Metz,Monaco,1,L
+Lyon,Reims,1,W
+Lorient,Brest,1,D
+Clermont,Toulouse,1,D
+Nice,Nantes,1,W
+Le Havre,Montpellier,1,L
+Strasbourg,Rennes,1,L
+Marseille,PSG,1,L
+Lille,Marseille,1,D
+Lens,Le Havre,1,W
+PSG,Clermont,1,W
+Brest,Metz,1,D
+Reims,Nice,1,D
+Toulouse,Strasbourg,1,D
+Montpellier,Lorient,1,D
+Monaco,Rennes,1,D
+Nantes,Lyon,1,L
+Metz,Lens,1,L
+Strasbourg,Reims,1,D
+Rennes,Toulouse,1,W
+Le Havre,Nantes,1,L
+Clermont,Montpellier,1,L
+Lyon,Brest,1,W
+Nice,Lorient,1,D
+Nantes,Rennes,1,L
+Lens,Clermont,1,W
+Le Havre,Metz,1,D
+Lille,Strasbourg,1,W
+Reims,Montpellier,1,D
+Brest,Monaco,1,L
+Toulouse,Marseille,1,L
+PSG,Lyon,1,W
+Lorient,PSG,1,L
+Monaco,Lille,1,D
+Marseille,Nice,1,D
+Montpellier,Nantes,1,D
+PSG,Le Havre,1,W
+Metz,Lille,1,L
+Clermont,Reims,1,L
+Lorient,Toulouse,1,D
+Strasbourg,Nice,1,D
+Rennes,Brest,1,W
+Lyon,Monaco,1,D
+Marseille,Lens,1,D
+Toulouse,Montpellier,1,D
+Reims,Marseille,1,D
+Nice,PSG,1,L
+Monaco,Clermont,1,W
+Lens,Lorient,1,D
+Lille,Lyon,1,D
+Le Havre,Strasbourg,1,L
+Brest,Nantes,1,D
+Metz,Rennes,1,L
+Strasbourg,Metz,1,W
+Rennes,Lens,1,D
+Nice,Le Havre,1,W
+Nantes,Lille,1,L
+PSG,Toulouse,1,W
+Marseille,Lorient,1,W
+Clermont,Lyon,1,L
+Brest,Reims,1,D
+Montpellier,Monaco,1,L
+Reims,Rennes,1,L
+Le Havre,Marseille,1,L
+Lens,Montpellier,1,D
+Lille,Nice,1,D
+Lorient,Clermont,1,W
+Lyon,Strasbourg,1,W
+Metz,PSG,1,L
+Monaco,Nantes,1,W
+Toulouse,Brest,1,D
+Manchester City,Burnley,0,W
+Nottingham,Arsenal,0,L
+West Ham,Bournemouth,0,D
+Crystal Palace,Sheffield Utd,0,W
+Luton,Brighton,0,L
+Fulham,Everton,0,D
+Aston Villa,Newcastle,0,D
+Tottenham,Brentford,0,D
+Liverpool,Chelsea,0,D
+Wolves,Manchester Utd,0,D
+Sheffield Utd,Nottingham,0,L
+Bournemouth,Liverpool,0,L
+Brentford,Fulham,0,D
+Brighton,Wolves,0,D
+Manchester Utd,Tottenham,0,D
+Newcastle,Manchester City,0,L
+Everton,Aston Villa,0,D
+Chelsea,West Ham,0,W
+Arsenal,Crystal Palace,0,W
+Luton,Chelsea,0,L
+Tottenham,Bournemouth,0,W
+Fulham,Arsenal,0,L
+Nottingham,Manchester Utd,0,L
+Wolves,Everton,0,D
+Crystal Palace,Brentford,0,D
+West Ham,Brighton,0,D
+Manchester City,Sheffield Utd,0,W
+Aston Villa,Burnley,0,W
+Liverpool,Newcastle,0,D
+West Ham,Luton,0,W
+Everton,Sheffield Utd,0,W
+Fulham,Manchester City,0,L
+Nottingham,Chelsea,0,L
+Tottenham,Burnley,0,W
+Bournemouth,Brentford,0,D
+Newcastle,Brighton,0,D
+Wolves,Crystal Palace,0,D
+Aston Villa,Liverpool,0,D
+Manchester Utd,Arsenal,0,D
+Liverpool,Wolves,0,D
+Brighton,Manchester Utd,0,D
+Luton,Fulham,0,L
+Crystal Palace,Aston Villa,0,D
+Manchester City,West Ham,0,W
+Sheffield Utd,Tottenham,0,L
+Brentford,Newcastle,0,D
+Chelsea,Bournemouth,0,W
+Arsenal,Everton,0,W
+Burnley,Nottingham,0,D
+Nottingham,Manchester City,0,L
+Wolves,Luton,0,W
+Fulham,Crystal Palace,0,D
+Everton,Brentford,0,D
+Manchester Utd,Burnley,0,W
+Tottenham,Arsenal,0,D
+Aston Villa,Chelsea,0,D
+Bournemouth,Brighton,0,D
+West Ham,Liverpool,0,D
+Newcastle,Sheffield Utd,0,W
+Brighton,Aston Villa,0,D
+Manchester City,Wolves,0,W
+Sheffield Utd,West Ham,0,L
+Burnley,Newcastle,0,L
+Crystal Palace,Manchester Utd,0,D
+Luton,Everton,0,L
+Arsenal,Bournemouth,0,W
+Liverpool,Tottenham,0,D
+Brentford,Nottingham,0,D
+Chelsea,Fulham,0,W
+Burnley,Luton,0,W
+Tottenham,Luton,0,W
+Chelsea,Burnley,0,W
+Brentford,Manchester Utd,0,D
+Bournemouth,Everton,0,D
+Sheffield Utd,Fulham,0,D
+Nottingham,Crystal Palace,0,D
+Liverpool,Brighton,0,D
+Aston Villa,Wolves,0,D
+Newcastle,West Ham,0,D
+Manchester City,Arsenal,0,D
+Everton,Liverpool,0,D
+Luton,Nottingham,0,L
+Crystal Palace,Newcastle,0,D
+Brighton,Manchester City,0,L
+Burnley,Brentford,0,D
+Wolves,Bournemouth,0,D
+Arsenal,Chelsea,0,D
+Manchester Utd,Sheffield Utd,0,W
+West Ham,Aston Villa,0,D
+Fulham,Tottenham,0,L
+Tottenham,Crystal Palace,0,W
+Brentford,Chelsea,0,D
+Burnley,Bournemouth,0,D
+Sheffield Utd,Arsenal,0,L
+Newcastle,Wolves,0,D
+Everton,West Ham,0,D
+Nottingham,Liverpool,0,L
+Fulham,Brighton,0,D
+Luton,Aston Villa,0,L
+Manchester City,Manchester Utd,0,D
+Manchester Utd,Fulham,0,W
+West Ham,Brentford,0,D
+Crystal Palace,Burnley,0,D
+Wolves,Sheffield Utd,0,W
+Brighton,Everton,0,D
+Bournemouth,Manchester City,0,L
+Arsenal,Newcastle,0,D
+Aston Villa,Nottingham,0,D
+Liverpool,Luton,0,W
+Chelsea,Tottenham,0,D
+Tottenham,Wolves,0,D
+Luton,Manchester Utd,0,L
+Everton,Crystal Palace,0,D
+Burnley,Arsenal,0,L
+Newcastle,Bournemouth,0,W
+Nottingham,West Ham,0,D
+Brentford,Liverpool,0,D
+Sheffield Utd,Brighton,0,L
+Fulham,Aston Villa,0,D
+Manchester City,Chelsea,0,D
+Liverpool,Manchester City,0,D
+Brighton,Nottingham,0,D
+Chelsea,Newcastle,0,D
+Crystal Palace,Luton,0,W
+West Ham,Burnley,0,W
+Bournemouth,Sheffield Utd,0,D
+Arsenal,Brentford,0,W
+Aston Villa,Tottenham,0,D
+Manchester Utd,Everton,0,D
+Wolves,Fulham,0,D
+Sheffield Utd,Burnley,0,D
+Luton,Brentford,0,L
+Wolves,Arsenal,0,D
+Everton,Nottingham,0,D
+Manchester Utd,Newcastle,0,D
+Brighton,Chelsea,0,D
+Aston Villa,Bournemouth,0,D
+Fulham,Liverpool,0,L
+Crystal Palace,West Ham,0,D
+Tottenham,Manchester City,0,D
+Burnley,Wolves,0,L
+Arsenal,Luton,0,W
+Liverpool,Sheffield Utd,0,W
+Nottingham,Fulham,0,D
+Bournemouth,Crystal Palace,0,D
+Brentford,Brighton,0,D
+Manchester City,Aston Villa,0,W
+Chelsea,Manchester Utd,0,D
+Newcastle,Everton,0,D
+West Ham,Tottenham,0,D
+Liverpool,Crystal Palace,0,W
+Nottingham,Wolves,0,D
+Brentford,Sheffield Utd,0,W
+Bournemouth,Manchester Utd,0,L
+Burnley,Brighton,0,L
+Arsenal,Aston Villa,0,W
+Chelsea,Everton,0,W
+Manchester City,Luton,0,W
+West Ham,Fulham,0,D
+Newcastle,Tottenham,0,D
+Tottenham,Nottingham,0,W
+Crystal Palace,Manchester City,0,L
+Sheffield Utd,Chelsea,0,L
+Fulham,Newcastle,0,L
+Everton,Burnley,0,W
+Wolves,West Ham,0,D
+Aston Villa,Brentford,0,D
+Brighton,Arsenal,0,D
+Manchester Utd,Liverpool,0,D
+Brighton,Crystal Palace,0,D
+Sheffield Utd,Aston Villa,0,L
+Manchester Utd,West Ham,0,D
+Burnley,Fulham,0,D
+Newcastle,Luton,0,W
+Bournemouth,Nottingham,0,D
+Everton,Tottenham,0,D
+Arsenal,Liverpool,0,D
+Chelsea,Wolves,0,W
+Nottingham,Newcastle,0,D
+Fulham,Bournemouth,0,D
+Luton,Sheffield Utd,0,L
+Liverpool,Burnley,0,W
+Aston Villa,Manchester Utd,0,D
+Crystal Palace,Chelsea,0,L
+Wolves,Brentford,0,D
+Manchester City,Everton,0,W
+Tottenham,Brighton,0,D
+West Ham,Arsenal,0,D
+Chelsea,Luton,0,W
+Brentford,Crystal Palace,0,D
+Sheffield Utd,Manchester City,0,L
+Everton,Wolves,0,D
+Burnley,Aston Villa,0,L
+Manchester Utd,Nottingham,0,W
+Bournemouth,Tottenham,0,L
+Arsenal,Fulham,0,W
+Newcastle,Liverpool,0,D
+Brighton,West Ham,0,D
+Luton,Burnley,0,L
+Fulham,Chelsea,0,L
+Manchester City,Newcastle,0,W
+Aston Villa,Everton,0,D
+Tottenham,Manchester Utd,0,D
+Crystal Palace,Arsenal,0,L
+Nottingham,Brentford,0,D
+West Ham,Sheffield Utd,0,W
+Liverpool,Bournemouth,0,W
+Wolves,Brighton,0,D
+Arsenal,Nottingham,0,W
+Brighton,Luton,0,W
+Everton,Fulham,0,D
+Sheffield Utd,Crystal Palace,0,L
+Newcastle,Aston Villa,0,D
+Burnley,Manchester City,0,L
+Brentford,Tottenham,0,D
+Chelsea,Liverpool,0,D
+Bournemouth,West Ham,0,D
+Manchester Utd,Wolves,0,D
+Tottenham,Everton,0,D
+Luton,Newcastle,0,L
+Fulham,Burnley,0,D
+Crystal Palace,Brighton,0,D
+Aston Villa,Sheffield Utd,0,W
+Nottingham,Bournemouth,0,D
+West Ham,Manchester Utd,0,D
+Wolves,Chelsea,0,D
+Liverpool,Arsenal,0,D
+Manchester City,Brentford,0,W
+Everton,Manchester City,0,L
+Bournemouth,Fulham,0,D
+Brentford,Wolves,0,D
+Sheffield Utd,Luton,0,W
+Brighton,Tottenham,0,D
+Burnley,Liverpool,0,L
+Newcastle,Nottingham,0,D
+Arsenal,West Ham,0,W
+Manchester Utd,Aston Villa,0,D
+Chelsea,Crystal Palace,0,W
+Liverpool,Brentford,0,W
+Wolves,Tottenham,0,D
+West Ham,Nottingham,0,D
+Bournemouth,Newcastle,0,L
+Aston Villa,Fulham,0,D
+Arsenal,Burnley,0,W
+Chelsea,Manchester City,0,D
+Brighton,Sheffield Utd,0,W
+Manchester Utd,Luton,0,W
+Crystal Palace,Everton,0,D
+Brentford,Manchester City,0,L
+Luton,Liverpool,0,L
+Fulham,Manchester Utd,0,L
+Burnley,Crystal Palace,0,D
+Everton,Brighton,0,D
+Nottingham,Aston Villa,0,D
+Manchester City,Bournemouth,0,W
+Newcastle,Arsenal,0,D
+Sheffield Utd,Wolves,0,L
+Brentford,West Ham,0,D
+Wolves,Newcastle,0,D
+Crystal Palace,Tottenham,0,L
+Chelsea,Brentford,0,W
+Liverpool,Nottingham,0,W
+Brighton,Fulham,0,W
+West Ham,Everton,0,D
+Aston Villa,Luton,0,W
+Bournemouth,Burnley,0,D
+Manchester Utd,Manchester City,0,D
+Arsenal,Sheffield Utd,0,W
+Everton,Manchester Utd,0,D
+Luton,Crystal Palace,0,L
+Sheffield Utd,Bournemouth,0,D
+Fulham,Wolves,0,D
+Brentford,Arsenal,0,L
+Tottenham,Aston Villa,0,D
+Burnley,West Ham,0,D
+Nottingham,Brighton,0,D
+Manchester City,Liverpool,0,D
+Newcastle,Chelsea,0,D
+Luton,Bournemouth,0,L
+Nottingham,Luton,0,W
+Brentford,Burnley,0,W
+Tottenham,Fulham,0,W
+Aston Villa,West Ham,0,D
+West Ham,Newcastle,0,D
+Luton,Tottenham,0,L
+Fulham,Sheffield Utd,0,W
+Crystal Palace,Nottingham,0,D
+Burnley,Chelsea,0,L
+Everton,Bournemouth,0,D
+Wolves,Aston Villa,0,D
+Manchester Utd,Brentford,0,D
+Brighton,Liverpool,0,D
+Arsenal,Manchester City,0,D
+Everton,Newcastle,0,D
+Fulham,Nottingham,0,D
+Wolves,Burnley,0,W
+Crystal Palace,Bournemouth,0,D
+Tottenham,West Ham,0,D
+Brighton,Brentford,0,D
+Luton,Arsenal,0,L
+Aston Villa,Manchester City,0,L
+Sheffield Utd,Liverpool,0,L
+Manchester Utd,Chelsea,0,D
+Manchester City,Crystal Palace,0,W
+Bournemouth,Luton,0,W
+West Ham,Wolves,0,D
+Brentford,Aston Villa,0,D
+Newcastle,Fulham,0,W
+Burnley,Everton,0,D
+Arsenal,Brighton,0,D
+Liverpool,Manchester Utd,0,D
+Chelsea,Sheffield Utd,0,W
+Nottingham,Tottenham,0,L
+Tottenham,Newcastle,0,D
+Luton,Manchester City,0,L
+Brighton,Burnley,0,W
+Sheffield Utd,Brentford,0,L
+Wolves,Nottingham,0,D
+Manchester Utd,Bournemouth,0,W
+Fulham,West Ham,0,D
+Crystal Palace,Liverpool,0,L
+Aston Villa,Arsenal,0,D
+Everton,Chelsea,0,D
+Brentford,Luton,0,W
+Burnley,Sheffield Utd,0,D
+Arsenal,Wolves,0,W
+Nottingham,Everton,0,D
+Bournemouth,Aston Villa,0,D
+West Ham,Crystal Palace,0,D
+Liverpool,Fulham,0,W
+Chelsea,Arsenal,0,D
+Bournemouth,Wolves,0,D
+Newcastle,Crystal Palace,0,D
+Liverpool,Everton,0,W
+Sheffield Utd,Manchester Utd,0,L
+Manchester City,Brighton,0,W
+Liverpool,West Ham,0,W
+Crystal Palace,Fulham,0,D
+Burnley,Manchester Utd,0,L
+Sheffield Utd,Newcastle,0,L
+Luton,Wolves,0,L
+Brentford,Everton,0,D
+Chelsea,Aston Villa,0,W
+Brighton,Bournemouth,0,W
+Arsenal,Tottenham,0,D
+Manchester City,Nottingham,0,W
+Tottenham,Chelsea,0,D
+Everton,Luton,0,W
+Bournemouth,Arsenal,0,L
+Nottingham,Sheffield Utd,0,W
+Newcastle,Burnley,0,W
+Fulham,Brentford,0,D
+Aston Villa,Brighton,0,D
+Wolves,Manchester City,0,L
+West Ham,Chelsea,0,D
+Tottenham,Liverpool,0,D
+Manchester Utd,Crystal Palace,0,W
+Manchester City,Fulham,0,W
+Luton,West Ham,0,L
+Brentford,Bournemouth,0,D
+Sheffield Utd,Everton,0,L
+Brighton,Newcastle,0,D
+Burnley,Tottenham,0,L
+Crystal Palace,Wolves,0,D
+Chelsea,Nottingham,0,W
+Arsenal,Manchester Utd,0,D
+Liverpool,Aston Villa,0,D
+Manchester City,Tottenham,0,D
+Chelsea,Brighton,0,D
+Newcastle,Manchester Utd,0,D
+Fulham,Luton,0,W
+Wolves,Liverpool,0,D
+Aston Villa,Crystal Palace,0,D
+Bournemouth,Chelsea,0,L
+West Ham,Manchester City,0,L
+Manchester Utd,Brighton,0,D
+Newcastle,Brentford,0,D
+Everton,Arsenal,0,L
+Nottingham,Burnley,0,D
+Tottenham,Sheffield Utd,0,W
+Rayo Vallecano,Almeria,0,D
+Valencia,Sevilla,0,D
+Girona,Real Sociedad,0,L
+Mallorca,Las Palmas,0,W
+Real Madrid,Ath Bilbao,0,W
+Osasuna,Celta Vigo,0,D
+Betis,Villarreal,0,D
+Barcelona,Getafe,0,W
+Alaves,Cadiz CF,0,D
+Granada CF,Atl. Madrid,0,L
+Villarreal,Mallorca,0,W
+Las Palmas,Valencia,0,L
+Celta Vigo,Real Sociedad,0,L
+Real Madrid,Almeria,0,W
+Ath Bilbao,Osasuna,0,D
+Getafe,Girona,0,D
+Cadiz CF,Barcelona,0,L
+Atl. Madrid,Betis,0,W
+Sevilla,Alaves,0,W
+Rayo Vallecano,Granada CF,0,W
+Real Sociedad,Las Palmas,0,W
+Real Madrid,Celta Vigo,0,W
+Almeria,Cadiz CF,0,W
+Mallorca,Granada CF,0,D
+Girona,Sevilla,0,D
+Barcelona,Villarreal,0,W
+Osasuna,Valencia,0,D
+Betis,Ath Bilbao,0,D
+Alaves,Getafe,0,L
+Atl. Madrid,Rayo Vallecano,0,W
+Villarreal,Cadiz CF,0,W
+Celta Vigo,Almeria,0,D
+Granada CF,Real Sociedad,0,L
+Getafe,Real Madrid,0,L
+Valencia,Alaves,0,W
+Rayo Vallecano,Betis,0,D
+Las Palmas,Girona,0,L
+Ath Bilbao,Mallorca,0,W
+Barcelona,Osasuna,0,W
+Alaves,Rayo Vallecano,0,L
+Cadiz CF,Ath Bilbao,0,L
+Atl. Madrid,Valencia,0,W
+Mallorca,Celta Vigo,0,D
+Betis,Barcelona,0,L
+Osasuna,Getafe,0,D
+Almeria,Villarreal,0,L
+Las Palmas,Sevilla,0,L
+Real Sociedad,Real Madrid,0,D
+Girona,Granada CF,0,W
+Ath Bilbao,Alaves,0,W
+Mallorca,Girona,0,D
+Sevilla,Osasuna,0,D
+Celta Vigo,Barcelona,0,L
+Valencia,Almeria,0,W
+Getafe,Real Sociedad,0,L
+Villarreal,Rayo Vallecano,0,W
+Granada CF,Las Palmas,0,D
+Cadiz CF,Betis,0,L
+Real Madrid,Atl. Madrid,0,D
+Almeria,Sevilla,0,D
+Barcelona,Mallorca,0,W
+Getafe,Ath Bilbao,0,D
+Girona,Villarreal,0,D
+Las Palmas,Real Madrid,0,L
+Real Sociedad,Valencia,0,D
+Rayo Vallecano,Cadiz CF,0,W
+Alaves,Celta Vigo,0,L
+Betis,Granada CF,0,W
+Atl. Madrid,Osasuna,0,W
+Sevilla,Barcelona,0,L
+Villarreal,Getafe,0,W
+Mallorca,Rayo Vallecano,0,D
+Real Madrid,Girona,0,W
+Ath Bilbao,Real Sociedad,0,D
+Granada CF,Almeria,0,D
+Osasuna,Alaves,0,W
+Valencia,Betis,0,D
+Cadiz CF,Atl. Madrid,0,L
+Celta Vigo,Las Palmas,0,W
+Almeria,Ath Bilbao,0,L
+Girona,Cadiz CF,0,W
+Osasuna,Real Madrid,0,L
+Valencia,Mallorca,0,W
+Rayo Vallecano,Sevilla,0,D
+Las Palmas,Villarreal,0,L
+Real Sociedad,Atl. Madrid,0,D
+Getafe,Celta Vigo,0,D
+Betis,Alaves,0,W
+Barcelona,Granada CF,0,W
+Granada CF,Osasuna,0,L
+Mallorca,Real Sociedad,0,L
+Betis,Getafe,0,D
+Real Madrid,Sevilla,0,W
+Atl. Madrid,Celta Vigo,0,W
+Rayo Vallecano,Las Palmas,0,W
+Almeria,Girona,0,D
+Alaves,Villarreal,0,L
+Ath Bilbao,Barcelona,0,L
+Cadiz CF,Valencia,0,L
+Celta Vigo,Girona,0,D
+Las Palmas,Almeria,0,L
+Real Madrid,Barcelona,0,D
+Getafe,Mallorca,0,D
+Sevilla,Cadiz CF,0,W
+Osasuna,Betis,0,D
+Real Sociedad,Rayo Vallecano,0,W
+Valencia,Ath Bilbao,0,D
+Alaves,Atl. Madrid,0,L
+Villarreal,Granada CF,0,W
+Atl. Madrid,Las Palmas,0,W
+Girona,Osasuna,0,D
+Mallorca,Betis,0,L
+Sevilla,Celta Vigo,0,D
+Barcelona,Real Sociedad,0,D
+Almeria,Alaves,0,W
+Granada CF,Valencia,0,L
+Ath Bilbao,Villarreal,0,D
+Rayo Vallecano,Real Madrid,0,L
+Cadiz CF,Getafe,0,L
+Celta Vigo,Ath Bilbao,0,D
+Girona,Rayo Vallecano,0,D
+Real Sociedad,Almeria,0,W
+Getafe,Granada CF,0,W
+Las Palmas,Osasuna,0,L
+Valencia,Real Madrid,0,L
+Alaves,Barcelona,0,L
+Betis,Sevilla,0,D
+Villarreal,Atl. Madrid,0,D
+Granada CF,Alaves,0,D
+Barcelona,Rayo Vallecano,0,W
+Celta Vigo,Valencia,0,D
+Almeria,Getafe,0,D
+Mallorca,Atl. Madrid,0,L
+Osasuna,Villarreal,0,D
+Sevilla,Real Sociedad,0,D
+Real Madrid,Cadiz CF,0,W
+Las Palmas,Betis,0,L
+Ath Bilbao,Girona,0,D
+Cadiz CF,Mallorca,0,D
+Getafe,Las Palmas,0,W
+Valencia,Girona,0,D
+Rayo Vallecano,Ath Bilbao,0,D
+Granada CF,Real Madrid,0,L
+Real Sociedad,Osasuna,0,W
+Alaves,Mallorca,0,L
+Betis,Almeria,0,W
+Villarreal,Sevilla,0,D
+Atl. Madrid,Barcelona,0,D
+Cadiz CF,Celta Vigo,0,L
+Valencia,Getafe,0,D
+Las Palmas,Alaves,0,D
+Real Madrid,Betis,0,W
+Real Sociedad,Villarreal,0,D
+Sevilla,Mallorca,0,W
+Almeria,Atl. Madrid,0,L
+Osasuna,Cadiz CF,0,W
+Girona,Barcelona,0,L
+Celta Vigo,Rayo Vallecano,0,D
+Ath Bilbao,Granada CF,0,W
+Rayo Vallecano,Osasuna,0,D
+Granada CF,Celta Vigo,0,L
+Atl. Madrid,Ath Bilbao,0,D
+Getafe,Sevilla,0,D
+Barcelona,Valencia,0,W
+Mallorca,Almeria,0,D
+Betis,Real Sociedad,0,D
+Cadiz CF,Las Palmas,0,D
+Villarreal,Real Madrid,0,L
+Alaves,Girona,0,L
+Valencia,Rayo Vallecano,0,D
+Getafe,Atl. Madrid,0,L
+Sevilla,Granada CF,0,W
+Almeria,Barcelona,0,L
+Celta Vigo,Villarreal,0,D
+Las Palmas,Ath Bilbao,0,L
+Real Sociedad,Cadiz CF,0,W
+Girona,Betis,0,D
+Osasuna,Mallorca,0,D
+Real Madrid,Alaves,0,W
+Sevilla,Atl. Madrid,0,L
+Rayo Vallecano,Getafe,0,D
+Alaves,Real Sociedad,0,L
+Villarreal,Valencia,0,D
+Cadiz CF,Granada CF,0,D
+Mallorca,Real Madrid,0,L
+Betis,Celta Vigo,0,D
+Atl. Madrid,Girona,0,W
+Almeria,Osasuna,0,D
+Ath Bilbao,Sevilla,0,D
+Barcelona,Las Palmas,0,W
+Alaves,Sevilla,0,L
+Villarreal,Las Palmas,0,W
+Celta Vigo,Mallorca,0,D
+Real Sociedad,Ath Bilbao,0,D
+Granada CF,Betis,0,L
+Girona,Almeria,0,D
+Valencia,Cadiz CF,0,W
+Cadiz CF,Alaves,0,D
+Las Palmas,Rayo Vallecano,0,L
+Mallorca,Villarreal,0,L
+Ath Bilbao,Valencia,0,D
+Real Sociedad,Celta Vigo,0,W
+Getafe,Osasuna,0,D
+Almeria,Real Madrid,0,L
+Barcelona,Betis,0,W
+Sevilla,Girona,0,D
+Atl. Madrid,Granada CF,0,W
+Alaves,Almeria,0,L
+Rayo Vallecano,Real Sociedad,0,L
+Real Madrid,Las Palmas,0,W
+Villarreal,Barcelona,0,L
+Betis,Mallorca,0,W
+Girona,Celta Vigo,0,D
+Ath Bilbao,Cadiz CF,0,W
+Osasuna,Sevilla,0,D
+Valencia,Atl. Madrid,0,D
+Granada CF,Getafe,0,L
+Osasuna,Barcelona,0,L
+Rayo Vallecano,Atl. Madrid,0,L
+Real Madrid,Getafe,0,W
+Mallorca,Ath Bilbao,0,L
+Almeria,Valencia,0,D
+Las Palmas,Granada CF,0,D
+Barcelona,Alaves,0,W
+Real Sociedad,Girona,0,W
+Cadiz CF,Villarreal,0,L
+Celta Vigo,Osasuna,0,D
+Getafe,Betis,0,D
+Atl. Madrid,Real Madrid,0,D
+Sevilla,Rayo Vallecano,0,D
+Betis,Cadiz CF,0,W
+Villarreal,Alaves,0,W
+Osasuna,Real Sociedad,0,L
+Girona,Real Madrid,0,L
+Valencia,Las Palmas,0,W
+Celta Vigo,Getafe,0,D
+Rayo Vallecano,Mallorca,0,D
+Atl. Madrid,Sevilla,0,W
+Granada CF,Barcelona,0,L
+Ath Bilbao,Almeria,0,W
+Getafe,Villarreal,0,L
+Las Palmas,Atl. Madrid,0,L
+Cadiz CF,Osasuna,0,L
+Barcelona,Celta Vigo,0,W
+Sevilla,Valencia,0,D
+Real Madrid,Rayo Vallecano,0,W
+Almeria,Granada CF,0,W
+Real Sociedad,Mallorca,0,W
+Alaves,Betis,0,L
+Girona,Ath Bilbao,0,D
+Villarreal,Real Sociedad,0,D
+Getafe,Barcelona,0,L
+Mallorca,Alaves,0,W
+Atl. Madrid,Almeria,0,W
+Celta Vigo,Cadiz CF,0,W
+Ath Bilbao,Betis,0,D
+Osasuna,Las Palmas,0,W
+Sevilla,Real Madrid,0,L
+Rayo Vallecano,Girona,0,D
+Almeria,Celta Vigo,0,D
+Real Sociedad,Sevilla,0,W
+Cadiz CF,Rayo Vallecano,0,L
+Las Palmas,Getafe,0,L
+Real Madrid,Valencia,0,W
+Granada CF,Villarreal,0,L
+Betis,Atl. Madrid,0,D
+Girona,Mallorca,0,D
+Barcelona,Ath Bilbao,0,W
+Alaves,Osasuna,0,L
+Mallorca,Barcelona,0,L
+Getafe,Valencia,0,D
+Atl. Madrid,Cadiz CF,0,W
+Real Sociedad,Granada CF,0,W
+Osasuna,Girona,0,D
+Rayo Vallecano,Alaves,0,W
+Ath Bilbao,Las Palmas,0,W
+Celta Vigo,Real Madrid,0,L
+Villarreal,Betis,0,D
+Sevilla,Almeria,0,D
+Cadiz CF,Real Sociedad,0,L
+Granada CF,Mallorca,0,D
+Real Madrid,Osasuna,0,W
+Girona,Getafe,0,D
+Alaves,Ath Bilbao,0,L
+Celta Vigo,Sevilla,0,D
+Valencia,Villarreal,0,D
+Almeria,Las Palmas,0,W
+Betis,Rayo Vallecano,0,D
+Barcelona,Atl. Madrid,0,D
+Granada CF,Cadiz CF,0,D
+Sevilla,Getafe,0,D
+Osasuna,Almeria,0,D
+Mallorca,Valencia,0,D
+Las Palmas,Barcelona,0,L
+Rayo Vallecano,Celta Vigo,0,D
+Betis,Girona,0,D
+Real Sociedad,Alaves,0,W
+Ath Bilbao,Real Madrid,0,L
+Atl. Madrid,Villarreal,0,D
+Valencia,Granada CF,0,W
+Celta Vigo,Betis,0,D
+Girona,Atl. Madrid,0,L
+Getafe,Rayo Vallecano,0,D
+Real Madrid,Mallorca,0,W
+Barcelona,Cadiz CF,0,W
+Sevilla,Las Palmas,0,W
+Alaves,Granada CF,0,D
+Villarreal,Ath Bilbao,0,D
+Almeria,Real Sociedad,0,L
+Valencia,Osasuna,0,D
+Granada CF,Ath Bilbao,0,L
+Las Palmas,Celta Vigo,0,L
+Osasuna,Rayo Vallecano,0,D
+Betis,Valencia,0,D
+Cadiz CF,Girona,0,L
+Real Sociedad,Getafe,0,W
+Villarreal,Almeria,0,W
+Atl. Madrid,Alaves,0,W
+Barcelona,Real Madrid,0,D
+Mallorca,Sevilla,0,D
+Getafe,Almeria,0,D
+Valencia,Barcelona,0,L
+Celta Vigo,Alaves,0,W
+Ath Bilbao,Atl. Madrid,0,D
+Real Madrid,Real Sociedad,0,W
+Mallorca,Cadiz CF,0,W
+Osasuna,Granada CF,0,W
+Rayo Vallecano,Villarreal,0,L
+Sevilla,Betis,0,D
+Girona,Las Palmas,0,W
+Ath Bilbao,Getafe,0,W
+Las Palmas,Real Sociedad,0,L
+Cadiz CF,Real Madrid,0,L
+Barcelona,Girona,0,W
+Atl. Madrid,Mallorca,0,W
+Betis,Osasuna,0,D
+Villarreal,Celta Vigo,0,W
+Alaves,Valencia,0,L
+Almeria,Rayo Vallecano,0,D
+Granada CF,Sevilla,0,L
+Sevilla,Villarreal,0,D
+Rayo Vallecano,Valencia,0,D
+Las Palmas,Mallorca,0,L
+Real Madrid,Granada CF,0,W
+Getafe,Cadiz CF,0,W
+Almeria,Betis,0,D
+Real Sociedad,Barcelona,0,D
+Celta Vigo,Atl. Madrid,0,L
+Osasuna,Ath Bilbao,0,D
+Girona,Alaves,0,W
+Cadiz CF,Sevilla,0,L
+Valencia,Real Sociedad,0,D
+Alaves,Real Madrid,0,L
+Granada CF,Rayo Vallecano,0,L
+Mallorca,Osasuna,0,D
+Villarreal,Girona,0,W
+Atl. Madrid,Getafe,0,W
+Ath Bilbao,Celta Vigo,0,D
+Barcelona,Almeria,0,W
+Betis,Las Palmas,0,W
+Celta Vigo,Granada CF,0,W
+Real Madrid,Villarreal,0,W
+Girona,Valencia,0,D
+Almeria,Mallorca,0,D
+Las Palmas,Cadiz CF,0,D
+Osasuna,Atl. Madrid,0,L
+Rayo Vallecano,Barcelona,0,L
+Sevilla,Ath Bilbao,0,D
+Getafe,Alaves,0,W
+Real Sociedad,Betis,0,D
+Atl. Madrid,Real Sociedad,0,D
+Cadiz CF,Almeria,0,L
+Valencia,Celta Vigo,0,D
+Mallorca,Getafe,0,D
+Granada CF,Girona,0,L
+Alaves,Las Palmas,0,D
+Villarreal,Osasuna,0,D
+Ath Bilbao,Rayo Vallecano,0,W
+Betis,Real Madrid,0,L
+Barcelona,Sevilla,0,W
+Verona,Empoli,0,D
+Napoli,Frosinone,0,W
+Monza,Inter,0,L
+Fiorentina,Genoa,0,W
+Salernitana,AS Roma,0,L
+Atalanta,Sassuolo,0,D
+Lazio,Lecce,0,W
+Juventus,Udinese,0,W
+Cagliari,Torino,0,L
+AC Milan,Bologna,0,W
+Atalanta,Frosinone,0,W
+Empoli,Monza,0,D
+AS Roma,Verona,0,W
+Torino,AC Milan,0,L
+Bologna,Juventus,0,L
+Lecce,Fiorentina,0,L
+Sassuolo,Napoli,0,L
+Genoa,Lazio,0,L
+Udinese,Salernitana,0,D
+Inter,Cagliari,0,W
+Verona,Sassuolo,0,L
+AC Milan,AS Roma,0,W
+Frosinone,Udinese,0,L
+Cagliari,Bologna,0,L
+Monza,Atalanta,0,L
+Lazio,Napoli,0,L
+Genoa,Torino,0,L
+Fiorentina,Inter,0,L
+Salernitana,Lecce,0,D
+Juventus,Empoli,0,W
+Lazio,Juventus,0,D
+AC Milan,Inter,0,D
+Napoli,Genoa,0,W
+Udinese,Cagliari,0,W
+Lecce,Monza,0,D
+Sassuolo,Frosinone,0,W
+Atalanta,Fiorentina,0,D
+Empoli,AS Roma,0,L
+Torino,Salernitana,0,W
+Bologna,Verona,0,D
+Frosinone,Salernitana,0,L
+Genoa,Lecce,0,D
+Verona,AC Milan,0,L
+Juventus,Sassuolo,0,D
+Monza,Lazio,0,L
+Inter,Empoli,0,W
+Fiorentina,Udinese,0,D
+Cagliari,Atalanta,0,L
+Napoli,Bologna,0,W
+AS Roma,Torino,0,D
+Lecce,Juventus,0,L
+AC Milan,Cagliari,0,W
+Atalanta,Verona,0,W
+Salernitana,Empoli,0,D
+Torino,Lazio,0,D
+Sassuolo,Inter,0,L
+Udinese,Napoli,0,L
+Bologna,Monza,0,D
+Fiorentina,Frosinone,0,W
+AS Roma,Genoa,0,W
+Napoli,Lecce,0,W
+Lazio,AC Milan,0,D
+Inter,Salernitana,0,W
+Empoli,Bologna,0,D
+Genoa,Udinese,0,L
+Juventus,Atalanta,0,D
+Frosinone,AS Roma,0,L
+Verona,Torino,0,D
+Monza,Sassuolo,0,D
+Cagliari,Fiorentina,0,L
+Udinese,Empoli,0,D
+Sassuolo,Lecce,0,W
+Bologna,Inter,0,L
+Torino,Juventus,0,L
+AC Milan,Genoa,0,W
+Salernitana,Monza,0,D
+Atalanta,Lazio,0,D
+Verona,Frosinone,0,W
+AS Roma,Cagliari,0,W
+Fiorentina,Napoli,0,L
+Napoli,Verona,0,W
+Inter,Torino,0,W
+Lazio,Sassuolo,0,D
+Monza,AS Roma,0,L
+Cagliari,Salernitana,0,L
+Frosinone,Bologna,0,L
+Genoa,Atalanta,0,L
+Juventus,AC Milan,0,D
+Lecce,Udinese,0,D
+Empoli,Fiorentina,0,L
+Salernitana,Genoa,0,D
+Bologna,Sassuolo,0,D
+Torino,Lecce,0,D
+Verona,Juventus,0,L
+Frosinone,Cagliari,0,D
+Udinese,Monza,0,D
+AS Roma,Inter,0,D
+AC Milan,Napoli,0,D
+Atalanta,Empoli,0,W
+Fiorentina,Lazio,0,D
+Lazio,Bologna,0,W
+Napoli,Salernitana,0,W
+Inter,Atalanta,0,D
+Udinese,AC Milan,0,L
+Monza,Verona,0,D
+Genoa,Cagliari,0,D
+Lecce,AS Roma,0,L
+Juventus,Fiorentina,0,D
+Empoli,Frosinone,0,W
+Sassuolo,Torino,0,D
+Salernitana,Sassuolo,0,L
+Verona,Genoa,0,D
+AC Milan,Lecce,0,W
+Cagliari,Juventus,0,L
+Torino,Monza,0,D
+Empoli,Napoli,0,L
+Bologna,Fiorentina,0,D
+Atalanta,Udinese,0,D
+AS Roma,Lazio,0,D
+Frosinone,Inter,0,L
+Lazio,Salernitana,0,W
+Napoli,Atalanta,0,W
+Fiorentina,AC Milan,0,D
+Monza,Cagliari,0,W
+Genoa,Frosinone,0,D
+Sassuolo,Empoli,0,W
+Udinese,AS Roma,0,D
+Inter,Juventus,0,D
+Lecce,Verona,0,D
+Torino,Bologna,0,D
+Juventus,Monza,0,W
+Empoli,Genoa,0,D
+Cagliari,Lazio,0,L
+Frosinone,AC Milan,0,L
+Bologna,Lecce,0,D
+Verona,Udinese,0,D
+Salernitana,Fiorentina,0,L
+AS Roma,Sassuolo,0,D
+Inter,Napoli,0,D
+Atalanta,Torino,0,D
+Napoli,Juventus,0,D
+Lazio,Verona,0,W
+AC Milan,Atalanta,0,D
+Udinese,Inter,0,L
+Torino,Frosinone,0,W
+Genoa,Monza,0,D
+Bologna,Salernitana,0,D
+Fiorentina,AS Roma,0,D
+Lecce,Empoli,0,D
+Sassuolo,Cagliari,0,W
+Juventus,Genoa,0,W
+Frosinone,Lecce,0,L
+Cagliari,Napoli,0,L
+Empoli,Torino,0,D
+Monza,AC Milan,0,L
+Sassuolo,Udinese,0,D
+Verona,Fiorentina,0,L
+AS Roma,Bologna,0,D
+Inter,Lazio,0,W
+Salernitana,Atalanta,0,L
+Genoa,Sassuolo,0,L
+Lazio,Empoli,0,W
+AC Milan,Salernitana,0,W
+Fiorentina,Monza,0,W
+Juventus,Frosinone,0,W
+Udinese,Torino,0,D
+Atalanta,Bologna,0,W
+Cagliari,Verona,0,L
+Lecce,Inter,0,L
+Napoli,AS Roma,0,W
+Monza,Napoli,0,L
+Torino,Fiorentina,0,D
+Frosinone,Lazio,0,L
+Inter,Genoa,0,W
+Lecce,Atalanta,0,L
+Bologna,Udinese,0,D
+Empoli,Cagliari,0,W
+Salernitana,Verona,0,D
+Sassuolo,AC Milan,0,L
+AS Roma,Juventus,0,D
+Genoa,Bologna,0,L
+Verona,Inter,0,L
+Monza,Frosinone,0,W
+Cagliari,Lecce,0,L
+Fiorentina,Sassuolo,0,D
+AC Milan,Empoli,0,W
+Napoli,Torino,0,W
+Lazio,Udinese,0,D
+Juventus,Salernitana,0,W
+Atalanta,AS Roma,0,D
+Torino,Genoa,0,W
+Salernitana,Napoli,0,L
+Empoli,Verona,0,D
+Inter,Monza,0,W
+Lecce,Lazio,0,L
+Bologna,Cagliari,0,W
+Udinese,Fiorentina,0,D
+AS Roma,AC Milan,0,D
+Frosinone,Atalanta,0,L
+Sassuolo,Juventus,0,D
+Verona,AS Roma,0,L
+AC Milan,Udinese,0,W
+Cagliari,Frosinone,0,D
+Monza,Empoli,0,D
+Genoa,Salernitana,0,D
+Juventus,Lecce,0,W
+Torino,Cagliari,0,W
+Udinese,Atalanta,0,D
+Empoli,Juventus,0,L
+Bologna,AC Milan,0,L
+Lecce,Genoa,0,D
+Frosinone,Verona,0,L
+Sassuolo,Monza,0,W
+Napoli,Lazio,0,W
+Inter,Fiorentina,0,W
+AS Roma,Salernitana,0,W
+Fiorentina,Lecce,0,W
+Monza,Udinese,0,D
+Genoa,Empoli,0,D
+AC Milan,Frosinone,0,W
+Sassuolo,Bologna,0,D
+Salernitana,Torino,0,D
+Verona,Napoli,0,L
+Lazio,Atalanta,0,D
+Juventus,Inter,0,D
+Cagliari,AS Roma,0,L
+Empoli,Salernitana,0,D
+Lazio,Cagliari,0,W
+Inter,AS Roma,0,W
+Torino,Sassuolo,0,D
+Frosinone,Fiorentina,0,L
+Verona,Monza,0,D
+Lecce,Bologna,0,D
+Atalanta,Genoa,0,W
+Napoli,AC Milan,0,D
+Udinese,Juventus,0,L
+Fiorentina,Bologna,0,D
+Lecce,Torino,0,D
+Salernitana,Inter,0,L
+Genoa,Napoli,0,L
+Juventus,Verona,0,W
+Sassuolo,Atalanta,0,D
+Bologna,Lazio,0,D
+Fiorentina,Empoli,0,W
+Cagliari,Udinese,0,L
+AS Roma,Frosinone,0,W
+AC Milan,Monza,0,W
+Lazio,Torino,0,D
+Verona,Bologna,0,D
+Empoli,Sassuolo,0,L
+Monza,Salernitana,0,D
+Udinese,Genoa,0,W
+Frosinone,Juventus,0,L
+Napoli,Cagliari,0,W
+Inter,Lecce,0,W
+Atalanta,AC Milan,0,D
+Torino,AS Roma,0,D
+Lazio,Fiorentina,0,D
+Napoli,Sassuolo,0,W
+Atalanta,Inter,0,D
+AC Milan,Lazio,0,D
+Salernitana,Udinese,0,D
+AS Roma,Monza,0,W
+Fiorentina,Torino,0,D
+Sassuolo,Verona,0,W
+Lecce,Frosinone,0,W
+Cagliari,Empoli,0,L
+Bologna,Atalanta,0,D
+Juventus,Napoli,0,D
+Genoa,Inter,0,L
+Torino,Napoli,0,L
+Frosinone,Sassuolo,0,L
+Salernitana,Cagliari,0,W
+Inter,Bologna,0,W
+Monza,Genoa,0,W
+Verona,Lecce,0,D
+Empoli,AC Milan,0,L
+Atalanta,Juventus,0,D
+AS Roma,Fiorentina,0,D
+Udinese,Lazio,0,D
+Bologna,Empoli,0,D
+Torino,Udinese,0,D
+Cagliari,Monza,0,L
+Lecce,Salernitana,0,D
+Lazio,Frosinone,0,W
+Genoa,Juventus,0,L
+AC Milan,Verona,0,W
+Sassuolo,AS Roma,0,D
+Napoli,Inter,0,D
+Atalanta,Napoli,0,L
+Frosinone,Genoa,0,D
+Monza,Torino,0,D
+Juventus,Lazio,0,D
+AC Milan,Fiorentina,0,W
+Salernitana,Bologna,0,D
+Udinese,Sassuolo,0,D
+Verona,Cagliari,0,W
+AS Roma,Lecce,0,W
+Empoli,Inter,0,L
+Sassuolo,Salernitana,0,W
+Lecce,AC Milan,0,L
+Lazio,AS Roma,0,D
+Torino,Empoli,0,D
+Bologna,Frosinone,0,W
+Napoli,Monza,0,W
+Genoa,Verona,0,D
+Atalanta,Cagliari,0,W
+Fiorentina,Juventus,0,D
+Inter,Udinese,0,W
+Salernitana,Lazio,0,L
+Empoli,Lecce,0,D
+Juventus,Torino,0,W
+Monza,Bologna,0,D
+Frosinone,Napoli,0,L
+AC Milan,Sassuolo,0,W
+AS Roma,Udinese,0,D
+Cagliari,Inter,0,L
+Genoa,Fiorentina,0,L
+Verona,Atalanta,0,L
+Lazio,Genoa,0,W
+Juventus,Cagliari,0,W
+Napoli,Empoli,0,W
+Udinese,Verona,0,D
+Lecce,Sassuolo,0,L
+Frosinone,Torino,0,L
+Fiorentina,Salernitana,0,W
+Atalanta,Monza,0,W
+Bologna,AS Roma,0,D
+Inter,AC Milan,0,D
+AS Roma,Napoli,0,L
+Monza,Lecce,0,D
+Verona,Lazio,0,L
+AC Milan,Juventus,0,D
+Torino,Inter,0,L
+Udinese,Bologna,0,D
+Salernitana,Frosinone,0,W
+Sassuolo,Fiorentina,0,D
+Empoli,Atalanta,0,L
+Cagliari,Genoa,0,D
+Inter,Sassuolo,0,W
+Napoli,Udinese,0,W
+Bologna,Torino,0,D
+Atalanta,Salernitana,0,W
+Fiorentina,Verona,0,W
+Frosinone,Empoli,0,L
+Lecce,Cagliari,0,W
+Juventus,AS Roma,0,D
+Genoa,AC Milan,0,L
+Lazio,Monza,0,W
+Torino,Verona,0,D
+Bologna,Napoli,0,L
+Udinese,Lecce,0,D
+Empoli,Lazio,0,L
+Salernitana,Juventus,0,L
+Sassuolo,Genoa,0,W
+Inter,Frosinone,0,W
+Monza,Fiorentina,0,D
+AS Roma,Atalanta,0,D
+Cagliari,AC Milan,0,L
+AC Milan,Torino,0,W
+Cagliari,Sassuolo,0,L
+Empoli,Udinese,0,D
+Verona,Salernitana,0,D
+Frosinone,Monza,0,L
+Napoli,Fiorentina,0,W
+Lazio,Inter,0,D
+Juventus,Bologna,0,W
+Genoa,AS Roma,0,L
+Atalanta,Lecce,0,W
+Lecce,Napoli,0,L
+Salernitana,AC Milan,0,L
+Torino,Atalanta,0,D
+Fiorentina,Cagliari,0,W
+AS Roma,Empoli,0,W
+Udinese,Frosinone,0,W
+Bologna,Genoa,0,W
+Monza,Juventus,0,L
+Sassuolo,Lazio,0,D
+Inter,Verona,0,W
+Bayern Munich,Werder Bremen,0,W
+Heidenheim,Wolfsburg,0,L
+B. Monchengladbach,Augsburg,0,W
+Bochum,Stuttgart,0,L
+RB Leipzig,Bayer Leverkusen,0,D
+Freiburg,Hoffenheim,0,D
+FC Koln,Dortmund,0,L
+Mainz,Union Berlin,0,D
+Darmstadt,Eintracht Frankfurt,0,L
+Stuttgart,RB Leipzig,0,L
+Hoffenheim,Heidenheim,0,W
+Werder Bremen,Freiburg,0,L
+Wolfsburg,FC Koln,0,W
+Union Berlin,Darmstadt,0,W
+Dortmund,Bochum,0,W
+Bayer Leverkusen,B. Monchengladbach,0,D
+Eintracht Frankfurt,Mainz,0,W
+Augsburg,Bayern Munich,0,L
+Heidenheim,Dortmund,0,L
+Bochum,Augsburg,0,D
+Mainz,Werder Bremen,0,D
+Wolfsburg,Hoffenheim,0,D
+Freiburg,Stuttgart,0,D
+Darmstadt,Bayer Leverkusen,0,L
+Bayern Munich,B. Monchengladbach,0,W
+FC Koln,Eintracht Frankfurt,0,L
+RB Leipzig,Union Berlin,0,W
+Bayer Leverkusen,Bayern Munich,0,D
+Hoffenheim,FC Koln,0,D
+Dortmund,Freiburg,0,W
+Stuttgart,Mainz,0,D
+Augsburg,RB Leipzig,0,L
+Union Berlin,Wolfsburg,0,D
+Eintracht Frankfurt,Bochum,0,W
+Werder Bremen,Heidenheim,0,W
+B. Monchengladbach,Darmstadt,0,W
+Darmstadt,Stuttgart,0,L
+Hoffenheim,Union Berlin,0,D
+Wolfsburg,Dortmund,0,D
+Bochum,Bayern Munich,0,L
+RB Leipzig,B. Monchengladbach,0,W
+Mainz,Augsburg,0,D
+FC Koln,Werder Bremen,0,D
+Heidenheim,Bayer Leverkusen,0,L
+Freiburg,Eintracht Frankfurt,0,D
+Dortmund,Hoffenheim,0,W
+Bayer Leverkusen,Mainz,0,W
+Union Berlin,Heidenheim,0,W
+Stuttgart,FC Koln,0,D
+B. Monchengladbach,Bochum,0,W
+Eintracht Frankfurt,Wolfsburg,0,D
+Bayern Munich,RB Leipzig,0,D
+Werder Bremen,Darmstadt,0,W
+Augsburg,Freiburg,0,D
+Mainz,B. Monchengladbach,0,D
+Darmstadt,Augsburg,0,L
+Union Berlin,Dortmund,0,L
+Wolfsburg,Stuttgart,0,D
+Bochum,RB Leipzig,0,L
+Hoffenheim,Werder Bremen,0,D
+FC Koln,Bayer Leverkusen,0,L
+Freiburg,Bayern Munich,0,L
+Heidenheim,Eintracht Frankfurt,0,L
+Werder Bremen,Dortmund,0,L
+Stuttgart,Union Berlin,0,D
+Eintracht Frankfurt,Hoffenheim,0,D
+Bochum,Freiburg,0,L
+RB Leipzig,Darmstadt,0,W
+Bayer Leverkusen,Wolfsburg,0,D
+Bayern Munich,Mainz,0,W
+B. Monchengladbach,FC Koln,0,W
+Augsburg,Heidenheim,0,W
+Mainz,Bochum,0,W
+Wolfsburg,Augsburg,0,W
+Hoffenheim,Stuttgart,0,D
+Darmstadt,Bayern Munich,0,L
+Heidenheim,B. Monchengladbach,0,L
+Union Berlin,Werder Bremen,0,D
+FC Koln,RB Leipzig,0,L
+Dortmund,Eintracht Frankfurt,0,D
+Freiburg,Bayer Leverkusen,0,D
+Bochum,Darmstadt,0,D
+Augsburg,FC Koln,0,D
+B. Monchengladbach,Freiburg,0,D
+Eintracht Frankfurt,Union Berlin,0,W
+RB Leipzig,Mainz,0,W
+Bayer Leverkusen,Hoffenheim,0,W
+Bayern Munich,Dortmund,0,D
+Werder Bremen,Wolfsburg,0,L
+Stuttgart,Heidenheim,0,W
+Wolfsburg,B. Monchengladbach,0,D
+Dortmund,Stuttgart,0,W
+Mainz,Darmstadt,0,W
+Heidenheim,Bayern Munich,0,L
+Hoffenheim,Augsburg,0,D
+FC Koln,Bochum,0,D
+Union Berlin,Bayer Leverkusen,0,L
+Eintracht Frankfurt,Werder Bremen,0,W
+Freiburg,RB Leipzig,0,L
+Bayern Munich,FC Koln,0,W
+RB Leipzig,Wolfsburg,0,W
+Bayer Leverkusen,Werder Bremen,0,W
+Augsburg,Union Berlin,0,D
+Darmstadt,Freiburg,0,L
+B. Monchengladbach,Dortmund,0,D
+Stuttgart,Eintracht Frankfurt,0,L
+Bochum,Heidenheim,0,D
+Mainz,Hoffenheim,0,D
+FC Koln,Darmstadt,0,W
+Heidenheim,RB Leipzig,0,L
+Hoffenheim,B. Monchengladbach,0,D
+Wolfsburg,Bochum,0,W
+Werder Bremen,Stuttgart,0,D
+Freiburg,Mainz,0,D
+Dortmund,Bayer Leverkusen,0,D
+Eintracht Frankfurt,Augsburg,0,W
+Bochum,Hoffenheim,0,L
+Darmstadt,Heidenheim,0,D
+Freiburg,Wolfsburg,0,D
+Augsburg,Werder Bremen,0,D
+B. Monchengladbach,Union Berlin,0,D
+Bayern Munich,Eintracht Frankfurt,0,W
+RB Leipzig,Dortmund,0,D
+Bayer Leverkusen,Stuttgart,0,W
+Mainz,FC Koln,0,D
+Werder Bremen,B. Monchengladbach,0,L
+Wolfsburg,Darmstadt,0,W
+Dortmund,Augsburg,0,W
+Union Berlin,Bochum,0,W
+Heidenheim,Mainz,0,L
+Hoffenheim,RB Leipzig,0,L
+FC Koln,Freiburg,0,L
+Eintracht Frankfurt,Bayer Leverkusen,0,D
+Stuttgart,Bayern Munich,0,L
+RB Leipzig,Werder Bremen,0,W
+Darmstadt,Hoffenheim,0,L
+Mainz,Dortmund,0,L
+FC Koln,Union Berlin,0,D
+Freiburg,Heidenheim,0,W
+Bayern Munich,Wolfsburg,0,W
+Augsburg,Stuttgart,0,D
+B. Monchengladbach,Eintracht Frankfurt,0,D
+Bochum,Bayer Leverkusen,0,L
+Hoffenheim,Bayern Munich,0,L
+Heidenheim,FC Koln,0,L
+Union Berlin,Freiburg,0,D
+Bayer Leverkusen,Augsburg,0,W
+Eintracht Frankfurt,RB Leipzig,0,D
+Wolfsburg,Mainz,0,D
+Dortmund,Darmstadt,0,W
+Werder Bremen,Bochum,0,D
+Stuttgart,B. Monchengladbach,0,D
+Dortmund,FC Koln,0,W
+Wolfsburg,Heidenheim,0,W
+Hoffenheim,Freiburg,0,D
+Eintracht Frankfurt,Darmstadt,0,W
+Stuttgart,Bochum,0,W
+Bayer Leverkusen,RB Leipzig,0,D
+Werder Bremen,Bayern Munich,0,L
+Augsburg,B. Monchengladbach,0,D
+Union Berlin,Bayern Munich,0,L
+Mainz,Eintracht Frankfurt,0,D
+FC Koln,Wolfsburg,0,L
+Freiburg,Werder Bremen,0,W
+RB Leipzig,Stuttgart,0,W
+Heidenheim,Hoffenheim,0,L
+Bayern Munich,Augsburg,0,W
+B. Monchengladbach,Bayer Leverkusen,0,D
+Darmstadt,Union Berlin,0,L
+Bochum,Dortmund,0,L
+Dortmund,Heidenheim,0,W
+Bayer Leverkusen,Darmstadt,0,W
+Augsburg,Bochum,0,D
+B. Monchengladbach,Bayern Munich,0,L
+Werder Bremen,Mainz,0,D
+Stuttgart,Freiburg,0,D
+Eintracht Frankfurt,FC Koln,0,W
+Hoffenheim,Wolfsburg,0,D
+Union Berlin,RB Leipzig,0,L
+Union Berlin,Mainz,0,D
+Freiburg,Dortmund,0,D
+Heidenheim,Werder Bremen,0,L
+Wolfsburg,Union Berlin,0,D
+Bochum,Eintracht Frankfurt,0,L
+Darmstadt,B. Monchengladbach,0,L
+RB Leipzig,Augsburg,0,W
+Bayern Munich,Bayer Leverkusen,0,W
+Mainz,Stuttgart,0,D
+FC Koln,Hoffenheim,0,D
+Werder Bremen,FC Koln,0,D
+Union Berlin,Hoffenheim,0,D
+Bayer Leverkusen,Heidenheim,0,W
+Stuttgart,Darmstadt,0,W
+Dortmund,Wolfsburg,0,W
+Augsburg,Mainz,0,D
+B. Monchengladbach,RB Leipzig,0,L
+Eintracht Frankfurt,Freiburg,0,D
+Bayern Munich,Bochum,0,W
+Mainz,Bayer Leverkusen,0,L
+FC Koln,Stuttgart,0,D
+Bochum,B. Monchengladbach,0,L
+Darmstadt,Werder Bremen,0,L
+Heidenheim,Union Berlin,0,L
+RB Leipzig,Bayern Munich,0,D
+Wolfsburg,Eintracht Frankfurt,0,D
+Hoffenheim,Dortmund,0,L
+Freiburg,Augsburg,0,W
+Bayern Munich,Freiburg,0,W
+Eintracht Frankfurt,Heidenheim,0,W
+Dortmund,Union Berlin,0,W
+B. Monchengladbach,Mainz,0,D
+Augsburg,Darmstadt,0,W
+RB Leipzig,Bochum,0,W
+Stuttgart,Wolfsburg,0,D
+Bayer Leverkusen,FC Koln,0,W
+Werder Bremen,Hoffenheim,0,D
+Union Berlin,Stuttgart,0,D
+Darmstadt,RB Leipzig,0,L
+FC Koln,B. Monchengladbach,0,L
+Heidenheim,Augsburg,0,L
+Mainz,Bayern Munich,0,L
+Dortmund,Werder Bremen,0,W
+Freiburg,Bochum,0,W
+Hoffenheim,Eintracht Frankfurt,0,D
+Wolfsburg,Bayer Leverkusen,0,D
+RB Leipzig,FC Koln,0,W
+Bochum,Mainz,0,L
+B. Monchengladbach,Heidenheim,0,W
+Bayern Munich,Darmstadt,0,W
+Werder Bremen,Union Berlin,0,D
+Augsburg,Wolfsburg,0,L
+Stuttgart,Hoffenheim,0,D
+Bayer Leverkusen,Freiburg,0,D
+Eintracht Frankfurt,Dortmund,0,D
+Freiburg,B. Monchengladbach,0,D
+Mainz,RB Leipzig,0,L
+Union Berlin,Eintracht Frankfurt,0,D
+Wolfsburg,Werder Bremen,0,W
+Hoffenheim,Bayer Leverkusen,0,L
+Dortmund,Bayern Munich,0,D
+FC Koln,Augsburg,0,D
+Heidenheim,Stuttgart,0,L
+Darmstadt,Bochum,0,D
+Werder Bremen,Eintracht Frankfurt,0,L
+Bochum,FC Koln,0,D
+Bayer Leverkusen,Union Berlin,0,W
+Bayern Munich,Heidenheim,0,W
+Darmstadt,Mainz,0,L
+RB Leipzig,Freiburg,0,W
+Stuttgart,Dortmund,0,L
+Augsburg,Hoffenheim,0,D
+B. Monchengladbach,Wolfsburg,0,D
+Union Berlin,Augsburg,0,D
+Wolfsburg,RB Leipzig,0,L
+Hoffenheim,Mainz,0,D
+Heidenheim,Bochum,0,D
+FC Koln,Bayern Munich,0,L
+Dortmund,B. Monchengladbach,0,W
+Eintracht Frankfurt,Stuttgart,0,W
+Freiburg,Darmstadt,0,W
+Werder Bremen,Bayer Leverkusen,0,L
+Augsburg,Eintracht Frankfurt,0,L
+Darmstadt,FC Koln,0,L
+RB Leipzig,Heidenheim,0,W
+B. Monchengladbach,Hoffenheim,0,D
+Bochum,Wolfsburg,0,L
+Bayern Munich,Union Berlin,0,W
+Stuttgart,Werder Bremen,0,D
+Bayer Leverkusen,Dortmund,0,D
+Mainz,Freiburg,0,D
+Hoffenheim,Bochum,0,W
+Werder Bremen,Augsburg,0,D
+Eintracht Frankfurt,Bayern Munich,0,L
+Wolfsburg,Freiburg,0,D
+Dortmund,RB Leipzig,0,D
+Stuttgart,Bayer Leverkusen,0,L
+Union Berlin,B. Monchengladbach,0,D
+FC Koln,Mainz,0,D
+Heidenheim,Darmstadt,0,D
+RB Leipzig,Hoffenheim,0,W
+B. Monchengladbach,Werder Bremen,0,W
+Darmstadt,Wolfsburg,0,L
+Augsburg,Dortmund,0,L
+Bayern Munich,Stuttgart,0,W
+Freiburg,FC Koln,0,W
+Bochum,Union Berlin,0,L
+Bayer Leverkusen,Eintracht Frankfurt,0,D
+Mainz,Heidenheim,0,W
+Stuttgart,Augsburg,0,D
+Eintracht Frankfurt,B. Monchengladbach,0,D
+Union Berlin,FC Koln,0,D
+Heidenheim,Freiburg,0,L
+Werder Bremen,RB Leipzig,0,L
+Dortmund,Mainz,0,W
+Hoffenheim,Darmstadt,0,W
+Wolfsburg,Bayern Munich,0,L
+Bayer Leverkusen,Bochum,0,W
+Augsburg,Bayer Leverkusen,0,L
+Darmstadt,Dortmund,0,L
+RB Leipzig,Eintracht Frankfurt,0,D
+FC Koln,Heidenheim,0,W
+Bayern Munich,Hoffenheim,0,W
+B. Monchengladbach,Stuttgart,0,D
+Freiburg,Union Berlin,0,D
+Bochum,Werder Bremen,0,D
+Mainz,Wolfsburg,0,D
+Lille,Nice,0,D
+Reims,Marseille,0,D
+Lorient,PSG,0,L
+Lens,Brest,0,W
+Le Havre,Montpellier,0,L
+Toulouse,Nantes,0,D
+Monaco,Clermont,0,W
+Metz,Rennes,0,L
+Lyon,Strasbourg,0,W
+Marseille,Metz,0,W
+Montpellier,Lyon,0,L
+PSG,Toulouse,0,W
+Nantes,Lille,0,L
+Clermont,Reims,0,L
+Nice,Lorient,0,D
+Brest,Le Havre,0,D
+Strasbourg,Monaco,0,L
+Rennes,Lens,0,D
+Monaco,Nantes,0,W
+Brest,Marseille,0,L
+Lens,PSG,0,L
+Le Havre,Rennes,0,L
+Toulouse,Strasbourg,0,D
+Reims,Montpellier,0,D
+Metz,Clermont,0,D
+Lille,Lorient,0,D
+Lyon,Nice,0,D
+Marseille,Nantes,0,W
+Rennes,Brest,0,W
+Lens,Monaco,0,D
+Clermont,Toulouse,0,D
+Lorient,Le Havre,0,W
+Montpellier,Lille,0,D
+Reims,Metz,0,W
+Strasbourg,Nice,0,D
+PSG,Lyon,0,W
+Nice,PSG,0,L
+Lille,Rennes,0,D
+Metz,Lens,0,L
+Monaco,Lorient,0,W
+Montpellier,Strasbourg,0,D
+Brest,Reims,0,D
+Nantes,Clermont,0,W
+Toulouse,Marseille,0,L
+Le Havre,Lyon,0,L
+Nice,Monaco,0,D
+Lorient,Nantes,0,D
+Lyon,Brest,0,W
+Strasbourg,Metz,0,W
+Toulouse,Lens,0,D
+Clermont,Le Havre,0,D
+Rennes,Montpellier,0,W
+Marseille,PSG,0,L
+Reims,Lille,0,D
+Lens,Strasbourg,0,D
+PSG,Clermont,0,W
+Marseille,Monaco,0,D
+Lyon,Reims,0,W
+Lille,Le Havre,0,W
+Metz,Toulouse,0,D
+Brest,Nice,0,L
+Montpellier,Lorient,0,D
+Nantes,Rennes,0,L
+Nantes,Strasbourg,0,D
+Nice,Metz,0,W
+Monaco,Reims,0,W
+Le Havre,Marseille,0,L
+Lorient,Lyon,0,L
+Toulouse,Brest,0,D
+Lille,Lens,0,D
+PSG,Rennes,0,W
+Lens,Le Havre,0,W
+Strasbourg,PSG,0,L
+Marseille,Nice,0,D
+Rennes,Lorient,0,W
+Reims,Toulouse,0,D
+Montpellier,Nantes,0,D
+Brest,Lille,0,L
+Metz,Monaco,0,L
+Clermont,Lyon,0,L
+Nice,Clermont,0,W
+Lorient,Reims,0,D
+Nantes,Lens,0,D
+PSG,Brest,0,W
+Toulouse,Montpellier,0,D
+Le Havre,Metz,0,D
+Monaco,Lille,0,D
+Strasbourg,Rennes,0,L
+Montpellier,PSG,0,L
+Lens,Lorient,0,D
+Lille,Marseille,0,D
+Metz,Lyon,0,L
+Le Havre,Toulouse,0,L
+Clermont,Strasbourg,0,L
+Reims,Nantes,0,D
+Brest,Monaco,0,L
+Rennes,Nice,0,D
+Nice,Montpellier,0,W
+PSG,Reims,0,W
+Monaco,Le Havre,0,W
+Nantes,Metz,0,W
+Toulouse,Lille,0,L
+Lorient,Clermont,0,W
+Lyon,Rennes,0,D
+Marseille,Lens,0,D
+Monaco,PSG,0,D
+Lens,Clermont,0,W
+Marseille,Strasbourg,0,W
+Toulouse,Nice,0,L
+Metz,Lorient,0,L
+Le Havre,Nantes,0,L
+Brest,Montpellier,0,D
+Reims,Rennes,0,L
+Lille,Lyon,0,D
+Clermont,Montpellier,0,L
+Strasbourg,Reims,0,D
+Lyon,Lens,0,D
+Nice,Nantes,0,W
+PSG,Le Havre,0,W
+Montpellier,Monaco,0,L
+Clermont,Brest,0,D
+Lorient,Toulouse,0,D
+Metz,Lille,0,L
+Rennes,Marseille,0,D
+Lyon,Marseille,0,D
+Strasbourg,Brest,0,D
+Lens,Montpellier,0,D
+Monaco,Rennes,0,D
+Nantes,PSG,0,L
+Reims,Nice,0,D
+Brest,Metz,0,D
+Le Havre,Strasbourg,0,L
+Lille,Clermont,0,W
+Toulouse,Lyon,0,L
+Marseille,Lorient,0,W
+Lyon,Monaco,0,D
+Nice,Le Havre,0,W
+Reims,Lens,0,D
+Brest,Nantes,0,D
+Rennes,Toulouse,0,W
+Montpellier,Metz,0,W
+Strasbourg,Lorient,0,D
+Clermont,Marseille,0,L
+PSG,Lille,0,W
+Lorient,Brest,0,D
+Rennes,Clermont,0,W
+Monaco,Toulouse,0,W
+Lille,Strasbourg,0,W
+Le Havre,Reims,0,L
+Metz,PSG,0,L
+Lens,Nice,0,D
+Marseille,Montpellier,0,W
+Nantes,Lyon,0,L
+Strasbourg,Marseille,0,L
+Reims,Monaco,0,L
+Nice,Rennes,0,D
+Lorient,Lille,0,D
+Clermont,Nantes,0,D
+Toulouse,Metz,0,W
+Montpellier,Brest,0,D
+Lyon,Le Havre,0,W
+PSG,Lens,0,W
+Rennes,Lyon,0,D
+Metz,Nice,0,L
+Monaco,Marseille,0,D
+Lille,Montpellier,0,W
+Nantes,Reims,0,D
+Le Havre,Lorient,0,L
+Strasbourg,Clermont,0,W
+Lens,Toulouse,0,W
+Brest,PSG,0,L
+PSG,Strasbourg,0,W
+Montpellier,Rennes,0,L
+Lens,Nantes,0,D
+Le Havre,Monaco,0,L
+Toulouse,Reims,0,D
+Lorient,Metz,0,W
+Clermont,Lille,0,L
+Nice,Brest,0,W
+Marseille,Lyon,0,D
+Metz,Marseille,0,L
+Strasbourg,Lens,0,D
+Lille,PSG,0,L
+Rennes,Le Havre,0,W
+Brest,Clermont,0,D
+Reims,Lorient,0,D
+Nantes,Toulouse,0,D
+Lyon,Montpellier,0,W
+Monaco,Nice,0,D
+Nice,Lyon,0,D
+Le Havre,Lille,0,L
+PSG,Nantes,0,W
+Lorient,Strasbourg,0,D
+Clermont,Rennes,0,L
+Toulouse,Monaco,0,L
+Metz,Montpellier,0,L
+Lens,Reims,0,D
+Marseille,Brest,0,W
+Lyon,Metz,0,W
+Nantes,Lorient,0,D
+Brest,Strasbourg,0,D
+Monaco,Lens,0,D
+Clermont,Nice,0,L
+Lille,Toulouse,0,W
+Reims,Le Havre,0,W
+Rennes,PSG,0,L
+Montpellier,Marseille,0,L
+PSG,Monaco,0,W
+Lille,Reims,0,D
+Marseille,Clermont,0,W
+Nice,Toulouse,0,W
+Metz,Nantes,0,L
+Strasbourg,Montpellier,0,D
+Le Havre,Brest,0,D
+Lorient,Rennes,0,L
+Lens,Lyon,0,D
+Montpellier,Nice,0,D
+Lyon,Lorient,0,W
+Brest,Lens,0,L
+Reims,PSG,0,L
+Toulouse,Le Havre,0,W
+Clermont,Metz,0,D
+Monaco,Strasbourg,0,W
+Rennes,Lille,0,D
+Nantes,Marseille,0,L
+Lyon,Toulouse,0,W
+Strasbourg,Nantes,0,D
+Nice,Lens,0,D
+Lille,Brest,0,W
+Le Havre,Clermont,0,D
+Lorient,Monaco,0,L
+Metz,Reims,0,L
+Marseille,Rennes,0,D
+PSG,Montpellier,0,W
+Lens,Lille,0,D
+Monaco,Metz,0,W
+Reims,Lyon,0,L
+Brest,Lorient,0,D
+Toulouse,Clermont,0,W
+Nantes,Nice,0,L
+Montpellier,Le Havre,0,W
+Rennes,Strasbourg,0,W
+PSG,Marseille,0,W
+Marseille,Lille,0,D
+Le Havre,Lens,0,L
+Clermont,PSG,0,L
+Metz,Brest,0,D
+Nice,Reims,0,D
+Strasbourg,Toulouse,0,D
+Lorient,Montpellier,0,D
+Rennes,Monaco,0,D
+Lyon,Nantes,0,W
+Lens,Metz,0,W
+Reims,Strasbourg,0,D
+Toulouse,Rennes,0,L
+Nantes,Le Havre,0,W
+Montpellier,Clermont,0,W
+Brest,Lyon,0,L
+Lorient,Nice,0,D
+Rennes,Nantes,0,W
+Clermont,Lens,0,L
+Metz,Le Havre,0,D
+Strasbourg,Lille,0,D
+Montpellier,Reims,0,D
+Monaco,Brest,0,W
+Marseille,Toulouse,0,W
+Lyon,PSG,0,L
+PSG,Lorient,0,W
+Lille,Monaco,0,D
+Nice,Marseille,0,D
+Nantes,Montpellier,0,D
+Le Havre,PSG,0,L
+Lille,Metz,0,W
+Reims,Clermont,0,W
+Toulouse,Lorient,0,D
+Nice,Strasbourg,0,W
+Brest,Rennes,0,L
+Monaco,Lyon,0,D
+Lens,Marseille,0,D
+Montpellier,Toulouse,0,D
+Marseille,Reims,0,W
+PSG,Nice,0,W
+Clermont,Monaco,0,L
+Lorient,Lens,0,D
+Lyon,Lille,0,D
+Strasbourg,Le Havre,0,W
+Nantes,Brest,0,D
+Rennes,Metz,0,W
+Metz,Strasbourg,0,L
+Lens,Rennes,0,D
+Le Havre,Nice,0,L
+Lille,Nantes,0,W
+Toulouse,PSG,0,L
+Lorient,Marseille,0,D
+Lyon,Clermont,0,W
+Reims,Brest,0,D
+Monaco,Montpellier,0,W
+Rennes,Reims,0,W
+Marseille,Le Havre,0,W
+Montpellier,Lens,0,D
+Nice,Lille,0,D
+Clermont,Lorient,0,L
+Strasbourg,Lyon,0,L
+PSG,Metz,0,W
+Nantes,Monaco,0,L
+Brest,Toulouse,0,D

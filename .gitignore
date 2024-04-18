@@ -1,3 +1,5 @@
 # Ignore TensorFlow event files
 *.tfevents
 logs
+
+*.pkl
