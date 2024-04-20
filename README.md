@@ -111,6 +111,16 @@ Data related to team details and performance:
 - `complete.csv`: The most comprehensive dataset in this directory. It contains the original data and aggregated data for the teams over the seasons
 - `teams_agg.csv`: It contains only the aggregated data for the teams over the seasons. It is used for EDA and Feature Engineering
 
+# Models used in this project:
+- DecisionTreeClassifier
+- ExtraTreesClassifier
+- GaussianNB
+- GradientBoostingClassifier
+- KNeighborsClassifier
+- LogisticRegression
+- RandomForestClassifier
+- SVC
+
 ## Telegram Workflow Bot
 Sends notification on push/PR ([setup](https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/))
 

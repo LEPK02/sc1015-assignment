@@ -384,6 +384,7 @@ SCORES_COLUMNS_DICT = { # UPDATE THE TEAMS_DICT
 FULL_AGG_COLUMNS_DICT_PATH = "constants/FULL_AGG_COLUMNS_DICT.txt"
 AGG_COL_TO_CAT_DICT_PATH = "constants/AGG_COL_TO_CAT_DICT.txt"
 BORUTA_FEATURES_PATH = "constants/BORUTA_FEATURES.txt"
+UNIQUE_FEATURES_PATH = "constants/UNIQUE_FEATURES.txt" # features that are highly correlated are removed
 
 # FOR EDA - END
 
