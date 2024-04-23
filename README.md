@@ -1,4 +1,4 @@
-# Predicting EPL Results Using Machine Learning
+# Predicting EPL Results Using Machine Learning by Luke, Rachmiel and Billie
 ## Workflow
 
 ### 1. Data collection via webscraping (./webscraping)
@@ -146,5 +146,7 @@ Sends notification on push/PR ([setup](https://cyaninfinite.com/getting-updates-
 
 ## Contributors
 Rachmiel - Model, Webscraping, Data Processing, Presentation
+<br>
 Luke - EDA, Webscraping, Data Processing, Presentation
+<br>
 Billie - Quality Assurance
