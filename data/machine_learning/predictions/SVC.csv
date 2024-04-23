@@ -21,8 +21,8 @@ ENG,Crystal Palace,Arsenal,1.0,L
 ENG,Chelsea,Luton,1.0,W
 ENG,Bournemouth,Tottenham,1.0,L
 ENG,Arsenal,Fulham,1.0,W
-ENG,Manchester Utd,Nottingham,1.0,W
 ENG,Everton,Wolves,1.0,D
+ENG,Manchester Utd,Nottingham,1.0,W
 ENG,Brentford,Crystal Palace,1.0,W
 ENG,Brighton,West Ham,1.0,W
 ENG,Sheffield Utd,Manchester City,1.0,L
@@ -31,19 +31,19 @@ ENG,Newcastle,Liverpool,1.0,L
 ENG,Luton,West Ham,1.0,L
 ENG,Sheffield Utd,Everton,1.0,L
 ENG,Manchester City,Fulham,1.0,W
-ENG,Chelsea,Nottingham,1.0,W
 ENG,Burnley,Tottenham,1.0,L
 ENG,Brentford,Bournemouth,1.0,W
+ENG,Chelsea,Nottingham,1.0,W
 ENG,Brighton,Newcastle,1.0,W
-ENG,Crystal Palace,Wolves,1.0,W
 ENG,Liverpool,Aston Villa,1.0,W
+ENG,Crystal Palace,Wolves,1.0,W
 ENG,Arsenal,Manchester Utd,1.0,W
 ENG,Wolves,Liverpool,1.0,L
 ENG,Manchester Utd,Brighton,1.0,L
-ENG,Fulham,Luton,1.0,W
-ENG,Aston Villa,Crystal Palace,1.0,W
 ENG,West Ham,Manchester City,1.0,L
 ENG,Tottenham,Sheffield Utd,1.0,W
+ENG,Aston Villa,Crystal Palace,1.0,W
+ENG,Fulham,Luton,1.0,W
 ENG,Newcastle,Brentford,1.0,W
 ENG,Bournemouth,Chelsea,1.0,L
 ENG,Everton,Arsenal,1.0,L
@@ -55,15 +55,15 @@ ENG,Brentford,Everton,1.0,W
 ENG,Burnley,Manchester Utd,1.0,L
 ENG,Arsenal,Tottenham,1.0,W
 ENG,Chelsea,Aston Villa,1.0,L
-ENG,Brighton,Bournemouth,1.0,W
 ENG,Liverpool,West Ham,1.0,W
+ENG,Brighton,Bournemouth,1.0,W
 ENG,Sheffield Utd,Newcastle,1.0,L
 ENG,Aston Villa,Brighton,1.0,L
-ENG,Wolves,Manchester City,1.0,L
-ENG,West Ham,Sheffield Utd,1.0,W
 ENG,Newcastle,Burnley,1.0,W
 ENG,Manchester Utd,Crystal Palace,1.0,W
 ENG,Everton,Luton,1.0,W
+ENG,Wolves,Manchester City,1.0,L
+ENG,West Ham,Sheffield Utd,1.0,W
 ENG,Bournemouth,Arsenal,1.0,L
 ENG,Tottenham,Liverpool,1.0,L
 ENG,Nottingham,Brentford,1.0,D
@@ -71,8 +71,8 @@ ENG,Fulham,Chelsea,1.0,L
 ENG,Luton,Burnley,1.0,L
 ENG,Luton,Tottenham,1.0,L
 ENG,Burnley,Chelsea,1.0,L
-ENG,Manchester Utd,Brentford,1.0,W
 ENG,Everton,Bournemouth,1.0,D
+ENG,Manchester Utd,Brentford,1.0,W
 ENG,Fulham,Sheffield Utd,1.0,W
 ENG,Crystal Palace,Nottingham,1.0,D
 ENG,Brighton,Liverpool,1.0,L
@@ -91,8 +91,8 @@ ENG,Aston Villa,West Ham,1.0,L
 ENG,Tottenham,Fulham,1.0,W
 ENG,Crystal Palace,Tottenham,1.0,L
 ENG,Chelsea,Brentford,1.0,W
-ENG,Bournemouth,Burnley,1.0,D
 ENG,Arsenal,Sheffield Utd,1.0,W
+ENG,Bournemouth,Burnley,1.0,D
 ENG,Wolves,Newcastle,1.0,L
 ENG,West Ham,Everton,1.0,W
 ENG,Liverpool,Nottingham,1.0,W
@@ -100,11 +100,11 @@ ENG,Brighton,Fulham,1.0,W
 ENG,Aston Villa,Luton,1.0,W
 ENG,Manchester Utd,Manchester City,1.0,L
 ENG,Fulham,Manchester Utd,1.0,L
-ENG,Brentford,West Ham,1.0,D
-ENG,Burnley,Crystal Palace,1.0,W
 ENG,Sheffield Utd,Wolves,1.0,L
-ENG,Everton,Brighton,1.0,L
 ENG,Manchester City,Bournemouth,1.0,W
+ENG,Everton,Brighton,1.0,L
+ENG,Burnley,Crystal Palace,1.0,W
+ENG,Brentford,West Ham,1.0,D
 ENG,Newcastle,Arsenal,1.0,L
 ENG,Nottingham,Aston Villa,1.0,D
 ENG,Luton,Liverpool,1.0,L
@@ -120,11 +120,11 @@ ENG,Brighton,Sheffield Utd,1.0,W
 ENG,Aston Villa,Fulham,1.0,W
 ENG,Chelsea,Manchester City,1.0,L
 ENG,Manchester City,Liverpool,1.0,W
+ENG,Sheffield Utd,Bournemouth,1.0,L
 ENG,Nottingham,Brighton,1.0,L
 ENG,Newcastle,Chelsea,1.0,W
 ENG,Luton,Crystal Palace,1.0,L
 ENG,Burnley,West Ham,1.0,L
-ENG,Sheffield Utd,Bournemouth,1.0,L
 ENG,Brentford,Arsenal,1.0,L
 ENG,Tottenham,Aston Villa,1.0,W
 ENG,Everton,Manchester Utd,1.0,L
@@ -134,35 +134,35 @@ ENG,Brentford,Luton,1.0,W
 ENG,Arsenal,Wolves,1.0,W
 ENG,Nottingham,Everton,1.0,D
 ENG,Newcastle,Manchester Utd,1.0,W
+ENG,West Ham,Crystal Palace,1.0,W
+ENG,Liverpool,Fulham,1.0,W
 ENG,Chelsea,Brighton,1.0,L
 ENG,Bournemouth,Aston Villa,1.0,L
-ENG,Liverpool,Fulham,1.0,W
-ENG,West Ham,Crystal Palace,1.0,W
 ENG,Manchester City,Tottenham,1.0,W
 ENG,Wolves,Burnley,1.0,D
 ENG,Luton,Arsenal,1.0,L
-ENG,Sheffield Utd,Liverpool,1.0,L
-ENG,Fulham,Nottingham,1.0,W
 ENG,Crystal Palace,Bournemouth,1.0,L
 ENG,Brighton,Brentford,1.0,W
-ENG,Aston Villa,Manchester City,1.0,L
+ENG,Fulham,Nottingham,1.0,W
+ENG,Sheffield Utd,Liverpool,1.0,L
 ENG,Manchester Utd,Chelsea,1.0,L
+ENG,Aston Villa,Manchester City,1.0,L
 ENG,Everton,Newcastle,1.0,L
 ENG,Tottenham,West Ham,1.0,L
 ENG,Crystal Palace,Liverpool,1.0,L
+ENG,Brighton,Burnley,1.0,W
 ENG,Wolves,Nottingham,1.0,D
 ENG,Sheffield Utd,Brentford,1.0,L
 ENG,Manchester Utd,Bournemouth,1.0,W
-ENG,Brighton,Burnley,1.0,W
 ENG,Aston Villa,Arsenal,1.0,L
-ENG,Everton,Chelsea,1.0,L
 ENG,Luton,Manchester City,1.0,L
 ENG,Fulham,West Ham,1.0,D
+ENG,Everton,Chelsea,1.0,L
 ENG,Tottenham,Newcastle,1.0,L
 ENG,Nottingham,Tottenham,1.0,D
-ENG,Manchester City,Crystal Palace,1.0,W
-ENG,Chelsea,Sheffield Utd,1.0,W
 ENG,Newcastle,Fulham,1.0,W
+ENG,Chelsea,Sheffield Utd,1.0,W
+ENG,Manchester City,Crystal Palace,1.0,W
 ENG,Burnley,Everton,1.0,W
 ENG,West Ham,Wolves,1.0,W
 ENG,Brentford,Aston Villa,1.0,W
@@ -178,19 +178,19 @@ ENG,Tottenham,Everton,1.0,W
 ENG,Liverpool,Arsenal,1.0,L
 ENG,Wolves,Chelsea,1.0,L
 ENG,Newcastle,Nottingham,1.0,W
-ENG,Bournemouth,Fulham,1.0,D
 ENG,Sheffield Utd,Luton,1.0,W
+ENG,Bournemouth,Fulham,1.0,D
 ENG,Burnley,Liverpool,1.0,L
 ENG,Manchester Utd,Aston Villa,1.0,W
-ENG,Chelsea,Crystal Palace,1.0,W
 ENG,Brentford,Wolves,1.0,W
+ENG,Chelsea,Crystal Palace,1.0,W
 ENG,Everton,Manchester City,1.0,L
 ENG,Brighton,Tottenham,1.0,W
 ENG,Arsenal,West Ham,1.0,W
 ENG,Luton,Chelsea,1.0,L
 ENG,Crystal Palace,Brentford,1.0,L
-ENG,Manchester City,Sheffield Utd,1.0,W
 ENG,Wolves,Everton,1.0,L
+ENG,Manchester City,Sheffield Utd,1.0,W
 ENG,Aston Villa,Burnley,1.0,W
 ENG,Nottingham,Manchester Utd,1.0,L
 ENG,Tottenham,Bournemouth,1.0,W
@@ -222,17 +222,17 @@ ENG,Newcastle,Luton,1.0,W
 ENG,Burnley,Fulham,1.0,W
 ENG,Brighton,Crystal Palace,1.0,W
 ENG,Sheffield Utd,Aston Villa,1.0,L
-ENG,Bournemouth,Nottingham,1.0,D
 ENG,Manchester Utd,West Ham,1.0,L
 ENG,Chelsea,Wolves,1.0,W
+ENG,Bournemouth,Nottingham,1.0,D
 ENG,Arsenal,Liverpool,1.0,W
 ENG,Brentford,Manchester City,1.0,L
 ENG,Manchester City,Everton,1.0,W
-ENG,Fulham,Bournemouth,1.0,W
 ENG,Wolves,Brentford,1.0,L
-ENG,Luton,Sheffield Utd,1.0,L
 ENG,Tottenham,Brighton,1.0,L
+ENG,Luton,Sheffield Utd,1.0,L
 ENG,Liverpool,Burnley,1.0,W
+ENG,Fulham,Bournemouth,1.0,W
 ENG,Nottingham,Newcastle,1.0,L
 ENG,West Ham,Arsenal,1.0,L
 ENG,Aston Villa,Manchester Utd,1.0,D
@@ -249,28 +249,28 @@ ENG,Luton,Manchester Utd,1.0,L
 ENG,Everton,Crystal Palace,1.0,D
 ENG,Manchester City,Brentford,1.0,W
 ENG,Liverpool,Luton,1.0,W
+ENG,Aston Villa,Nottingham,1.0,W
 ENG,Manchester Utd,Fulham,1.0,W
 ENG,Crystal Palace,Burnley,1.0,D
 ENG,Brighton,Everton,1.0,W
-ENG,Aston Villa,Nottingham,1.0,W
 ENG,Bournemouth,Manchester City,1.0,L
 ENG,Arsenal,Newcastle,1.0,W
 ENG,Wolves,Sheffield Utd,1.0,W
 ENG,West Ham,Brentford,1.0,W
-ENG,Newcastle,Wolves,1.0,W
-ENG,Tottenham,Crystal Palace,1.0,W
 ENG,Brentford,Chelsea,1.0,L
+ENG,Everton,West Ham,1.0,L
+ENG,Newcastle,Wolves,1.0,W
 ENG,Nottingham,Liverpool,1.0,L
 ENG,Fulham,Brighton,1.0,L
-ENG,Everton,West Ham,1.0,L
+ENG,Tottenham,Crystal Palace,1.0,W
 ENG,Luton,Aston Villa,1.0,L
 ENG,Burnley,Bournemouth,1.0,W
 ENG,Manchester City,Manchester Utd,1.0,W
 ENG,Sheffield Utd,Arsenal,1.0,L
 ENG,Manchester Utd,Everton,1.0,W
+ENG,Wolves,Fulham,1.0,L
 ENG,Crystal Palace,Luton,1.0,W
 ENG,Bournemouth,Sheffield Utd,1.0,D
-ENG,Wolves,Fulham,1.0,L
 ENG,Arsenal,Brentford,1.0,W
 ENG,Aston Villa,Tottenham,1.0,W
 ENG,West Ham,Burnley,1.0,W
@@ -283,19 +283,19 @@ ENG,Burnley,Brentford,1.0,L
 ENG,Fulham,Tottenham,1.0,W
 ENG,West Ham,Aston Villa,1.0,W
 ENG,Newcastle,West Ham,1.0,W
+ENG,Bournemouth,Everton,1.0,D
 ENG,Tottenham,Luton,1.0,W
-ENG,Sheffield Utd,Fulham,1.0,D
 ENG,Nottingham,Crystal Palace,1.0,D
 ENG,Chelsea,Burnley,1.0,W
-ENG,Bournemouth,Everton,1.0,D
+ENG,Sheffield Utd,Fulham,1.0,D
 ENG,Aston Villa,Wolves,1.0,W
 ENG,Brentford,Manchester Utd,1.0,D
 ENG,Liverpool,Brighton,1.0,W
 ENG,Manchester City,Arsenal,1.0,W
-ENG,Newcastle,Everton,1.0,W
 ENG,Nottingham,Fulham,1.0,D
-ENG,Burnley,Wolves,1.0,W
+ENG,Newcastle,Everton,1.0,W
 ENG,Bournemouth,Crystal Palace,1.0,D
+ENG,Burnley,Wolves,1.0,W
 ENG,West Ham,Tottenham,1.0,W
 ENG,Brentford,Brighton,1.0,L
 ENG,Arsenal,Luton,1.0,W
@@ -303,31 +303,31 @@ ENG,Manchester City,Aston Villa,1.0,W
 ENG,Liverpool,Sheffield Utd,1.0,W
 ENG,Chelsea,Manchester Utd,1.0,L
 ENG,Crystal Palace,Manchester City,1.0,L
-ENG,Luton,Bournemouth,1.0,L
 ENG,Wolves,West Ham,1.0,L
-ENG,Aston Villa,Brentford,1.0,W
+ENG,Luton,Bournemouth,1.0,L
 ENG,Fulham,Newcastle,1.0,L
 ENG,Everton,Burnley,1.0,D
+ENG,Aston Villa,Brentford,1.0,W
 ENG,Brighton,Arsenal,1.0,L
 ENG,Manchester Utd,Liverpool,1.0,L
 ENG,Sheffield Utd,Chelsea,1.0,L
 ENG,Tottenham,Nottingham,1.0,W
 ENG,Newcastle,Tottenham,1.0,W
-ENG,Manchester City,Luton,1.0,W
-ENG,Burnley,Brighton,1.0,L
 ENG,Brentford,Sheffield Utd,1.0,W
 ENG,Nottingham,Wolves,1.0,D
+ENG,Manchester City,Luton,1.0,W
+ENG,Burnley,Brighton,1.0,L
 ENG,Bournemouth,Manchester Utd,1.0,L
 ENG,West Ham,Fulham,1.0,W
 ENG,Liverpool,Crystal Palace,1.0,W
 ENG,Arsenal,Aston Villa,1.0,W
 ENG,Chelsea,Everton,1.0,W
-ENG,Luton,Brentford,1.0,L
 ENG,Sheffield Utd,Burnley,1.0,L
+ENG,Luton,Brentford,1.0,L
 ENG,Wolves,Arsenal,1.0,L
 ENG,Everton,Nottingham,1.0,D
-ENG,Aston Villa,Bournemouth,1.0,W
 ENG,Crystal Palace,West Ham,1.0,L
+ENG,Aston Villa,Bournemouth,1.0,W
 ENG,Fulham,Liverpool,1.0,L
 ENG,Arsenal,Chelsea,1.0,W
 ENG,Wolves,Bournemouth,1.0,L
@@ -348,21 +348,21 @@ ENG,Nottingham,Manchester City,1.0,L
 ENG,Chelsea,Tottenham,1.0,L
 ENG,Luton,Everton,1.0,L
 ENG,Arsenal,Bournemouth,1.0,W
-ENG,Sheffield Utd,Nottingham,1.0,L
-ENG,Burnley,Newcastle,1.0,L
 ENG,Brentford,Fulham,1.0,W
-ENG,Brighton,Aston Villa,1.0,W
+ENG,Burnley,Newcastle,1.0,L
+ENG,Sheffield Utd,Nottingham,1.0,L
 ENG,Manchester City,Wolves,1.0,W
 ENG,Chelsea,West Ham,1.0,L
+ENG,Brighton,Aston Villa,1.0,W
 ENG,Liverpool,Tottenham,1.0,W
 ENG,Crystal Palace,Manchester Utd,1.0,L
 ENG,Fulham,Manchester City,1.0,L
-ENG,West Ham,Luton,1.0,W
+ENG,Wolves,Crystal Palace,1.0,L
 ENG,Bournemouth,Brentford,1.0,D
 ENG,Everton,Sheffield Utd,1.0,D
 ENG,Newcastle,Brighton,1.0,L
 ENG,Tottenham,Burnley,1.0,W
-ENG,Wolves,Crystal Palace,1.0,L
+ENG,West Ham,Luton,1.0,W
 ENG,Nottingham,Chelsea,1.0,L
 ENG,Manchester Utd,Arsenal,1.0,L
 ENG,Aston Villa,Liverpool,1.0,L
@@ -440,13 +440,13 @@ SPA,Betis,Cadiz CF,1.0,D
 SPA,Atl. Madrid,Real Madrid,1.0,L
 SPA,Sevilla,Almeria,1.0,W
 SPA,Mallorca,Barcelona,1.0,L
-SPA,Ath Bilbao,Getafe,1.0,W
 SPA,Villarreal,Girona,1.0,W
 SPA,Real Madrid,Las Palmas,1.0,W
+SPA,Ath Bilbao,Getafe,1.0,W
 SPA,Valencia,Real Sociedad,1.0,D
 SPA,Cadiz CF,Rayo Vallecano,1.0,D
-SPA,Celta Vigo,Alaves,1.0,D
 SPA,Granada CF,Betis,1.0,D
+SPA,Celta Vigo,Alaves,1.0,D
 SPA,Osasuna,Atl. Madrid,1.0,L
 SPA,Barcelona,Sevilla,1.0,W
 SPA,Getafe,Villarreal,1.0,D
@@ -501,8 +501,8 @@ SPA,Getafe,Cadiz CF,1.0,D
 SPA,Ath Bilbao,Celta Vigo,1.0,W
 SPA,Rayo Vallecano,Girona,1.0,D
 SPA,Almeria,Real Sociedad,1.0,L
-SPA,Granada CF,Getafe,1.0,D
 SPA,Osasuna,Las Palmas,1.0,D
+SPA,Granada CF,Getafe,1.0,D
 SPA,Real Madrid,Valencia,1.0,W
 SPA,Barcelona,Alaves,1.0,W
 SPA,Sevilla,Betis,1.0,W
@@ -549,11 +549,11 @@ SPA,Las Palmas,Cadiz CF,1.0,D
 SPA,Real Madrid,Villarreal,1.0,W
 SPA,Girona,Alaves,1.0,D
 SPA,Rayo Vallecano,Valencia,1.0,D
-SPA,Atl. Madrid,Getafe,1.0,W
 SPA,Granada CF,Sevilla,1.0,L
+SPA,Atl. Madrid,Getafe,1.0,W
 SPA,Barcelona,Almeria,1.0,W
-SPA,Villarreal,Celta Vigo,1.0,W
 SPA,Ath Bilbao,Las Palmas,1.0,W
+SPA,Villarreal,Celta Vigo,1.0,W
 SPA,Cadiz CF,Real Sociedad,1.0,L
 SPA,Betis,Girona,1.0,D
 SPA,Mallorca,Osasuna,1.0,D
@@ -719,30 +719,30 @@ SPA,Celta Vigo,Villarreal,1.0,D
 SPA,Valencia,Alaves,1.0,D
 SPA,Rayo Vallecano,Almeria,1.0,W
 SPA,Sevilla,Granada CF,1.0,W
-SPA,Villarreal,Sevilla,1.0,W
 SPA,Valencia,Rayo Vallecano,1.0,W
 SPA,Mallorca,Las Palmas,1.0,D
 SPA,Granada CF,Real Madrid,1.0,L
 SPA,Cadiz CF,Getafe,1.0,D
-SPA,Betis,Almeria,1.0,D
+SPA,Villarreal,Sevilla,1.0,W
 SPA,Barcelona,Real Sociedad,1.0,W
 SPA,Atl. Madrid,Celta Vigo,1.0,W
 SPA,Ath Bilbao,Osasuna,1.0,W
 SPA,Alaves,Girona,1.0,D
+SPA,Betis,Almeria,1.0,D
 SPA,Sevilla,Cadiz CF,1.0,W
 SPA,Real Sociedad,Valencia,1.0,W
 SPA,Real Madrid,Alaves,1.0,W
 SPA,Rayo Vallecano,Granada CF,1.0,W
 SPA,Osasuna,Mallorca,1.0,D
+SPA,Las Palmas,Betis,1.0,D
 SPA,Girona,Villarreal,1.0,D
 SPA,Getafe,Atl. Madrid,1.0,L
 SPA,Celta Vigo,Ath Bilbao,1.0,D
 SPA,Almeria,Barcelona,1.0,L
-SPA,Las Palmas,Betis,1.0,D
-SPA,Granada CF,Celta Vigo,1.0,D
-SPA,Villarreal,Real Madrid,1.0,L
 SPA,Valencia,Girona,1.0,W
 SPA,Mallorca,Almeria,1.0,D
+SPA,Villarreal,Real Madrid,1.0,L
+SPA,Granada CF,Celta Vigo,1.0,D
 SPA,Cadiz CF,Las Palmas,1.0,D
 SPA,Atl. Madrid,Osasuna,1.0,W
 SPA,Barcelona,Rayo Vallecano,1.0,W
@@ -781,10 +781,10 @@ ITA,Salernitana,Udinese,1.0,D
 ITA,Cagliari,Inter,1.0,L
 ITA,Sassuolo,Verona,1.0,D
 ITA,AS Roma,AC Milan,1.0,D
-ITA,Udinese,Frosinone,1.0,D
 ITA,Bologna,Cagliari,1.0,D
-ITA,Atalanta,Monza,1.0,W
+ITA,Udinese,Frosinone,1.0,D
 ITA,Napoli,Lazio,1.0,W
+ITA,Atalanta,Monza,1.0,W
 ITA,Torino,Genoa,1.0,W
 ITA,Inter,Fiorentina,1.0,W
 ITA,Lecce,Salernitana,1.0,D
@@ -810,14 +810,14 @@ ITA,Atalanta,Cagliari,1.0,W
 ITA,Bologna,Napoli,1.0,L
 ITA,Torino,AS Roma,1.0,D
 ITA,Juventus,Lecce,1.0,W
-ITA,Cagliari,AC Milan,1.0,L
 ITA,Verona,Atalanta,1.0,D
 ITA,Empoli,Salernitana,1.0,D
-ITA,Lazio,Torino,1.0,W
+ITA,Cagliari,AC Milan,1.0,L
 ITA,Inter,Sassuolo,1.0,W
 ITA,Napoli,Udinese,1.0,W
-ITA,Monza,Bologna,1.0,D
+ITA,Lazio,Torino,1.0,W
 ITA,Frosinone,Fiorentina,1.0,D
+ITA,Monza,Bologna,1.0,D
 ITA,Genoa,AS Roma,1.0,L
 ITA,Lecce,Napoli,1.0,L
 ITA,AC Milan,Lazio,1.0,W
@@ -875,16 +875,16 @@ ITA,Lecce,AC Milan,1.0,L
 ITA,Juventus,Cagliari,1.0,W
 ITA,Monza,Torino,1.0,L
 ITA,Napoli,Empoli,1.0,W
-ITA,Fiorentina,Bologna,1.0,W
 ITA,Udinese,Atalanta,1.0,L
+ITA,Fiorentina,Bologna,1.0,W
 ITA,Lazio,AS Roma,1.0,D
 ITA,Inter,Frosinone,1.0,W
 ITA,Salernitana,Lazio,1.0,D
 ITA,Atalanta,Napoli,1.0,L
 ITA,AC Milan,Fiorentina,1.0,W
 ITA,Cagliari,Monza,1.0,D
-ITA,Frosinone,Genoa,1.0,W
 ITA,Empoli,Sassuolo,1.0,L
+ITA,Frosinone,Genoa,1.0,W
 ITA,AS Roma,Udinese,1.0,W
 ITA,Juventus,Inter,1.0,W
 ITA,Verona,Lecce,1.0,D
@@ -934,8 +934,8 @@ ITA,Fiorentina,Torino,1.0,W
 ITA,Lazio,Frosinone,1.0,W
 ITA,Genoa,Inter,1.0,L
 ITA,Atalanta,Lecce,1.0,W
-ITA,Udinese,Bologna,1.0,D
 ITA,Cagliari,Empoli,1.0,D
+ITA,Udinese,Bologna,1.0,D
 ITA,Verona,Salernitana,1.0,D
 ITA,AC Milan,Sassuolo,1.0,W
 ITA,Juventus,AS Roma,1.0,W
@@ -1002,8 +1002,8 @@ ITA,Napoli,Genoa,1.0,W
 ITA,Verona,Juventus,1.0,L
 ITA,Atalanta,Sassuolo,1.0,W
 ITA,Lazio,Bologna,1.0,W
-ITA,Empoli,Fiorentina,1.0,D
 ITA,Udinese,Cagliari,1.0,D
+ITA,Empoli,Fiorentina,1.0,D
 ITA,Frosinone,AS Roma,1.0,L
 ITA,Monza,AC Milan,1.0,L
 ITA,Torino,Lazio,1.0,D
@@ -1030,8 +1030,8 @@ ITA,Atalanta,Bologna,1.0,W
 ITA,Napoli,Juventus,1.0,W
 ITA,Inter,Genoa,1.0,W
 ITA,Napoli,Torino,1.0,W
-ITA,Sassuolo,Frosinone,1.0,D
 ITA,Cagliari,Salernitana,1.0,D
+ITA,Sassuolo,Frosinone,1.0,D
 ITA,Bologna,Inter,1.0,L
 ITA,Genoa,Monza,1.0,W
 ITA,Lecce,Verona,1.0,D
@@ -1040,8 +1040,8 @@ ITA,Juventus,Atalanta,1.0,W
 ITA,Fiorentina,AS Roma,1.0,D
 ITA,Lazio,Udinese,1.0,W
 ITA,Empoli,Bologna,1.0,D
-ITA,Udinese,Torino,1.0,L
 ITA,Monza,Cagliari,1.0,D
+ITA,Udinese,Torino,1.0,L
 ITA,Salernitana,Lecce,1.0,D
 ITA,Frosinone,Lazio,1.0,D
 ITA,Juventus,Genoa,1.0,W
@@ -1049,8 +1049,8 @@ ITA,Verona,AC Milan,1.0,L
 ITA,AS Roma,Sassuolo,1.0,W
 ITA,Inter,Napoli,1.0,W
 ITA,Napoli,Atalanta,1.0,W
-ITA,Genoa,Frosinone,1.0,W
 ITA,Torino,Monza,1.0,W
+ITA,Genoa,Frosinone,1.0,W
 ITA,Lazio,Juventus,1.0,W
 ITA,Fiorentina,AC Milan,1.0,L
 ITA,Bologna,Salernitana,1.0,W
@@ -1064,8 +1064,8 @@ ITA,AS Roma,Lazio,1.0,W
 ITA,Empoli,Torino,1.0,D
 ITA,Frosinone,Bologna,1.0,D
 ITA,Monza,Napoli,1.0,L
-ITA,Verona,Genoa,1.0,D
 ITA,Cagliari,Atalanta,1.0,L
+ITA,Verona,Genoa,1.0,D
 ITA,Juventus,Fiorentina,1.0,W
 ITA,Udinese,Inter,1.0,L
 ITA,Lazio,Salernitana,1.0,W
@@ -1074,7 +1074,6 @@ ITA,Torino,Juventus,1.0,L
 ITA,Bologna,Monza,1.0,W
 ITA,Napoli,Frosinone,1.0,W
 ITA,Sassuolo,AC Milan,1.0,L
-ITA,Udinese,AS Roma,1.0,L
 ITA,Inter,Cagliari,1.0,W
 ITA,Fiorentina,Genoa,1.0,W
 ITA,Atalanta,Verona,1.0,D
@@ -1088,43 +1087,44 @@ ITA,Salernitana,Fiorentina,1.0,L
 ITA,Monza,Atalanta,1.0,L
 ITA,AS Roma,Bologna,1.0,W
 ITA,AC Milan,Inter,1.0,W
-ITA,Napoli,AS Roma,1.0,W
-ITA,Lecce,Monza,1.0,D
-ITA,Lazio,Verona,1.0,D
-ITA,Juventus,AC Milan,1.0,W
-ITA,Inter,Torino,1.0,W
-ITA,Bologna,Udinese,1.0,D
+ITA,Udinese,AS Roma,1.0,L
 ITA,Frosinone,Salernitana,1.0,W
-ITA,Fiorentina,Sassuolo,1.0,D
+ITA,Inter,Torino,1.0,W
+ITA,Lecce,Monza,1.0,D
+ITA,Juventus,AC Milan,1.0,W
+ITA,Lazio,Verona,1.0,D
+ITA,Bologna,Udinese,1.0,D
 ITA,Atalanta,Empoli,1.0,W
+ITA,Napoli,AS Roma,1.0,W
+ITA,Fiorentina,Sassuolo,1.0,D
 ITA,Genoa,Cagliari,1.0,W
-ITA,Sassuolo,Inter,1.0,L
+ITA,Verona,Fiorentina,1.0,D
 ITA,Udinese,Napoli,1.0,L
 ITA,Torino,Bologna,1.0,W
+ITA,Sassuolo,Inter,1.0,L
 ITA,Salernitana,Atalanta,1.0,D
-ITA,Verona,Fiorentina,1.0,D
+ITA,AS Roma,Juventus,1.0,L
 ITA,Empoli,Frosinone,1.0,D
 ITA,Cagliari,Lecce,1.0,D
-ITA,AS Roma,Juventus,1.0,L
 ITA,AC Milan,Genoa,1.0,W
 ITA,Monza,Lazio,1.0,D
+ITA,Lazio,Empoli,1.0,W
 ITA,Verona,Torino,1.0,D
 ITA,Napoli,Bologna,1.0,W
 ITA,Lecce,Udinese,1.0,D
-ITA,Lazio,Empoli,1.0,W
 ITA,Juventus,Salernitana,1.0,W
 ITA,Genoa,Sassuolo,1.0,D
 ITA,Frosinone,Inter,1.0,L
 ITA,Fiorentina,Monza,1.0,W
 ITA,Atalanta,AS Roma,1.0,D
 ITA,AC Milan,Cagliari,1.0,W
-ITA,Torino,AC Milan,1.0,L
-ITA,Sassuolo,Cagliari,1.0,D
 ITA,Udinese,Empoli,1.0,W
+ITA,Torino,AC Milan,1.0,L
 ITA,Salernitana,Verona,1.0,D
 ITA,Monza,Frosinone,1.0,D
-ITA,Fiorentina,Napoli,1.0,L
+ITA,Sassuolo,Cagliari,1.0,D
 ITA,Inter,Lazio,1.0,W
+ITA,Fiorentina,Napoli,1.0,L
 ITA,Bologna,Juventus,1.0,L
 ITA,AS Roma,Genoa,1.0,W
 ITA,Lecce,Atalanta,1.0,D
@@ -1773,8 +1773,8 @@ ENG,Arsenal,Crystal Palace,0.0,W
 ENG,Luton,Chelsea,0.0,L
 ENG,Tottenham,Bournemouth,0.0,W
 ENG,Fulham,Arsenal,0.0,L
-ENG,Nottingham,Manchester Utd,0.0,L
 ENG,Wolves,Everton,0.0,L
+ENG,Nottingham,Manchester Utd,0.0,L
 ENG,Crystal Palace,Brentford,0.0,L
 ENG,West Ham,Brighton,0.0,L
 ENG,Manchester City,Sheffield Utd,0.0,W
@@ -1783,19 +1783,19 @@ ENG,Liverpool,Newcastle,0.0,W
 ENG,West Ham,Luton,0.0,W
 ENG,Everton,Sheffield Utd,0.0,D
 ENG,Fulham,Manchester City,0.0,L
-ENG,Nottingham,Chelsea,0.0,L
 ENG,Tottenham,Burnley,0.0,W
 ENG,Bournemouth,Brentford,0.0,L
+ENG,Nottingham,Chelsea,0.0,L
 ENG,Newcastle,Brighton,0.0,L
-ENG,Wolves,Crystal Palace,0.0,L
 ENG,Aston Villa,Liverpool,0.0,L
+ENG,Wolves,Crystal Palace,0.0,L
 ENG,Manchester Utd,Arsenal,0.0,L
 ENG,Liverpool,Wolves,0.0,W
 ENG,Brighton,Manchester Utd,0.0,L
-ENG,Luton,Fulham,0.0,L
-ENG,Crystal Palace,Aston Villa,0.0,L
 ENG,Manchester City,West Ham,0.0,W
 ENG,Sheffield Utd,Tottenham,0.0,L
+ENG,Crystal Palace,Aston Villa,0.0,L
+ENG,Luton,Fulham,0.0,L
 ENG,Brentford,Newcastle,0.0,L
 ENG,Chelsea,Bournemouth,0.0,L
 ENG,Arsenal,Everton,0.0,W
@@ -1807,15 +1807,15 @@ ENG,Everton,Brentford,0.0,L
 ENG,Manchester Utd,Burnley,0.0,W
 ENG,Tottenham,Arsenal,0.0,L
 ENG,Aston Villa,Chelsea,0.0,L
-ENG,Bournemouth,Brighton,0.0,L
 ENG,West Ham,Liverpool,0.0,L
+ENG,Bournemouth,Brighton,0.0,L
 ENG,Newcastle,Sheffield Utd,0.0,W
 ENG,Brighton,Aston Villa,0.0,W
-ENG,Manchester City,Wolves,0.0,W
-ENG,Sheffield Utd,West Ham,0.0,L
 ENG,Burnley,Newcastle,0.0,L
 ENG,Crystal Palace,Manchester Utd,0.0,L
 ENG,Luton,Everton,0.0,L
+ENG,Manchester City,Wolves,0.0,W
+ENG,Sheffield Utd,West Ham,0.0,L
 ENG,Arsenal,Bournemouth,0.0,W
 ENG,Liverpool,Tottenham,0.0,W
 ENG,Brentford,Nottingham,0.0,W
@@ -1823,8 +1823,8 @@ ENG,Chelsea,Fulham,0.0,L
 ENG,Burnley,Luton,0.0,W
 ENG,Tottenham,Luton,0.0,W
 ENG,Chelsea,Burnley,0.0,W
-ENG,Brentford,Manchester Utd,0.0,L
 ENG,Bournemouth,Everton,0.0,D
+ENG,Brentford,Manchester Utd,0.0,L
 ENG,Sheffield Utd,Fulham,0.0,L
 ENG,Nottingham,Crystal Palace,0.0,D
 ENG,Liverpool,Brighton,0.0,W
@@ -1843,8 +1843,8 @@ ENG,West Ham,Aston Villa,0.0,L
 ENG,Fulham,Tottenham,0.0,L
 ENG,Tottenham,Crystal Palace,0.0,W
 ENG,Brentford,Chelsea,0.0,L
-ENG,Burnley,Bournemouth,0.0,W
 ENG,Sheffield Utd,Arsenal,0.0,L
+ENG,Burnley,Bournemouth,0.0,W
 ENG,Newcastle,Wolves,0.0,W
 ENG,Everton,West Ham,0.0,L
 ENG,Nottingham,Liverpool,0.0,L
@@ -1852,11 +1852,11 @@ ENG,Fulham,Brighton,0.0,L
 ENG,Luton,Aston Villa,0.0,L
 ENG,Manchester City,Manchester Utd,0.0,W
 ENG,Manchester Utd,Fulham,0.0,L
-ENG,West Ham,Brentford,0.0,W
-ENG,Crystal Palace,Burnley,0.0,L
 ENG,Wolves,Sheffield Utd,0.0,D
-ENG,Brighton,Everton,0.0,W
 ENG,Bournemouth,Manchester City,0.0,L
+ENG,Brighton,Everton,0.0,W
+ENG,Crystal Palace,Burnley,0.0,L
+ENG,West Ham,Brentford,0.0,W
 ENG,Arsenal,Newcastle,0.0,W
 ENG,Aston Villa,Nottingham,0.0,W
 ENG,Liverpool,Luton,0.0,W
@@ -1872,11 +1872,11 @@ ENG,Sheffield Utd,Brighton,0.0,L
 ENG,Fulham,Aston Villa,0.0,L
 ENG,Manchester City,Chelsea,0.0,W
 ENG,Liverpool,Manchester City,0.0,L
+ENG,Bournemouth,Sheffield Utd,0.0,D
 ENG,Brighton,Nottingham,0.0,W
 ENG,Chelsea,Newcastle,0.0,L
 ENG,Crystal Palace,Luton,0.0,W
 ENG,West Ham,Burnley,0.0,W
-ENG,Bournemouth,Sheffield Utd,0.0,D
 ENG,Arsenal,Brentford,0.0,W
 ENG,Aston Villa,Tottenham,0.0,L
 ENG,Manchester Utd,Everton,0.0,W
@@ -1886,35 +1886,35 @@ ENG,Luton,Brentford,0.0,L
 ENG,Wolves,Arsenal,0.0,L
 ENG,Everton,Nottingham,0.0,D
 ENG,Manchester Utd,Newcastle,0.0,L
+ENG,Crystal Palace,West Ham,0.0,L
+ENG,Fulham,Liverpool,0.0,L
 ENG,Brighton,Chelsea,0.0,L
 ENG,Aston Villa,Bournemouth,0.0,W
-ENG,Fulham,Liverpool,0.0,L
-ENG,Crystal Palace,West Ham,0.0,L
 ENG,Tottenham,Manchester City,0.0,L
 ENG,Burnley,Wolves,0.0,W
 ENG,Arsenal,Luton,0.0,W
-ENG,Liverpool,Sheffield Utd,0.0,W
-ENG,Nottingham,Fulham,0.0,D
 ENG,Bournemouth,Crystal Palace,0.0,D
 ENG,Brentford,Brighton,0.0,L
-ENG,Manchester City,Aston Villa,0.0,W
+ENG,Nottingham,Fulham,0.0,D
+ENG,Liverpool,Sheffield Utd,0.0,W
 ENG,Chelsea,Manchester Utd,0.0,L
+ENG,Manchester City,Aston Villa,0.0,W
 ENG,Newcastle,Everton,0.0,W
 ENG,West Ham,Tottenham,0.0,L
 ENG,Liverpool,Crystal Palace,0.0,W
+ENG,Burnley,Brighton,0.0,L
 ENG,Nottingham,Wolves,0.0,D
 ENG,Brentford,Sheffield Utd,0.0,W
 ENG,Bournemouth,Manchester Utd,0.0,L
-ENG,Burnley,Brighton,0.0,L
 ENG,Arsenal,Aston Villa,0.0,W
-ENG,Chelsea,Everton,0.0,L
 ENG,Manchester City,Luton,0.0,W
 ENG,West Ham,Fulham,0.0,W
+ENG,Chelsea,Everton,0.0,L
 ENG,Newcastle,Tottenham,0.0,W
 ENG,Tottenham,Nottingham,0.0,W
-ENG,Crystal Palace,Manchester City,0.0,L
-ENG,Sheffield Utd,Chelsea,0.0,L
 ENG,Fulham,Newcastle,0.0,L
+ENG,Sheffield Utd,Chelsea,0.0,L
+ENG,Crystal Palace,Manchester City,0.0,L
 ENG,Everton,Burnley,0.0,D
 ENG,Wolves,West Ham,0.0,L
 ENG,Aston Villa,Brentford,0.0,L
@@ -1930,19 +1930,19 @@ ENG,Everton,Tottenham,0.0,L
 ENG,Arsenal,Liverpool,0.0,W
 ENG,Chelsea,Wolves,0.0,L
 ENG,Nottingham,Newcastle,0.0,L
-ENG,Fulham,Bournemouth,0.0,D
 ENG,Luton,Sheffield Utd,0.0,L
+ENG,Fulham,Bournemouth,0.0,D
 ENG,Liverpool,Burnley,0.0,W
 ENG,Aston Villa,Manchester Utd,0.0,L
-ENG,Crystal Palace,Chelsea,0.0,L
 ENG,Wolves,Brentford,0.0,L
+ENG,Crystal Palace,Chelsea,0.0,L
 ENG,Manchester City,Everton,0.0,W
 ENG,Tottenham,Brighton,0.0,L
 ENG,West Ham,Arsenal,0.0,L
 ENG,Chelsea,Luton,0.0,W
 ENG,Brentford,Crystal Palace,0.0,D
-ENG,Sheffield Utd,Manchester City,0.0,L
 ENG,Everton,Wolves,0.0,D
+ENG,Sheffield Utd,Manchester City,0.0,L
 ENG,Burnley,Aston Villa,0.0,L
 ENG,Manchester Utd,Nottingham,0.0,W
 ENG,Bournemouth,Tottenham,0.0,L
@@ -1974,17 +1974,17 @@ ENG,Luton,Newcastle,0.0,L
 ENG,Fulham,Burnley,0.0,L
 ENG,Crystal Palace,Brighton,0.0,L
 ENG,Aston Villa,Sheffield Utd,0.0,W
-ENG,Nottingham,Bournemouth,0.0,D
 ENG,West Ham,Manchester Utd,0.0,L
 ENG,Wolves,Chelsea,0.0,L
+ENG,Nottingham,Bournemouth,0.0,D
 ENG,Liverpool,Arsenal,0.0,L
 ENG,Manchester City,Brentford,0.0,W
 ENG,Everton,Manchester City,0.0,L
-ENG,Bournemouth,Fulham,0.0,L
 ENG,Brentford,Wolves,0.0,W
-ENG,Sheffield Utd,Luton,0.0,W
 ENG,Brighton,Tottenham,0.0,W
+ENG,Sheffield Utd,Luton,0.0,W
 ENG,Burnley,Liverpool,0.0,L
+ENG,Bournemouth,Fulham,0.0,L
 ENG,Newcastle,Nottingham,0.0,W
 ENG,Arsenal,West Ham,0.0,W
 ENG,Manchester Utd,Aston Villa,0.0,L
@@ -2001,28 +2001,28 @@ ENG,Manchester Utd,Luton,0.0,W
 ENG,Crystal Palace,Everton,0.0,D
 ENG,Brentford,Manchester City,0.0,L
 ENG,Luton,Liverpool,0.0,L
+ENG,Nottingham,Aston Villa,0.0,L
 ENG,Fulham,Manchester Utd,0.0,L
 ENG,Burnley,Crystal Palace,0.0,W
 ENG,Everton,Brighton,0.0,L
-ENG,Nottingham,Aston Villa,0.0,L
 ENG,Manchester City,Bournemouth,0.0,W
 ENG,Newcastle,Arsenal,0.0,L
 ENG,Sheffield Utd,Wolves,0.0,L
 ENG,Brentford,West Ham,0.0,L
-ENG,Wolves,Newcastle,0.0,L
-ENG,Crystal Palace,Tottenham,0.0,L
 ENG,Chelsea,Brentford,0.0,L
+ENG,West Ham,Everton,0.0,D
+ENG,Wolves,Newcastle,0.0,L
 ENG,Liverpool,Nottingham,0.0,W
 ENG,Brighton,Fulham,0.0,W
-ENG,West Ham,Everton,0.0,D
+ENG,Crystal Palace,Tottenham,0.0,L
 ENG,Aston Villa,Luton,0.0,D
 ENG,Bournemouth,Burnley,0.0,D
 ENG,Manchester Utd,Manchester City,0.0,L
 ENG,Arsenal,Sheffield Utd,0.0,W
 ENG,Everton,Manchester Utd,0.0,L
+ENG,Fulham,Wolves,0.0,W
 ENG,Luton,Crystal Palace,0.0,L
 ENG,Sheffield Utd,Bournemouth,0.0,L
-ENG,Fulham,Wolves,0.0,W
 ENG,Brentford,Arsenal,0.0,L
 ENG,Tottenham,Aston Villa,0.0,L
 ENG,Burnley,West Ham,0.0,L
@@ -2035,19 +2035,19 @@ ENG,Brentford,Burnley,0.0,W
 ENG,Tottenham,Fulham,0.0,W
 ENG,Aston Villa,West Ham,0.0,L
 ENG,West Ham,Newcastle,0.0,L
+ENG,Everton,Bournemouth,0.0,D
 ENG,Luton,Tottenham,0.0,L
-ENG,Fulham,Sheffield Utd,0.0,D
 ENG,Crystal Palace,Nottingham,0.0,D
 ENG,Burnley,Chelsea,0.0,L
-ENG,Everton,Bournemouth,0.0,D
+ENG,Fulham,Sheffield Utd,0.0,D
 ENG,Wolves,Aston Villa,0.0,L
 ENG,Manchester Utd,Brentford,0.0,W
 ENG,Brighton,Liverpool,0.0,L
 ENG,Arsenal,Manchester City,0.0,L
-ENG,Everton,Newcastle,0.0,L
 ENG,Fulham,Nottingham,0.0,D
-ENG,Wolves,Burnley,0.0,L
+ENG,Everton,Newcastle,0.0,L
 ENG,Crystal Palace,Bournemouth,0.0,L
+ENG,Wolves,Burnley,0.0,L
 ENG,Tottenham,West Ham,0.0,L
 ENG,Brighton,Brentford,0.0,W
 ENG,Luton,Arsenal,0.0,L
@@ -2055,31 +2055,31 @@ ENG,Aston Villa,Manchester City,0.0,L
 ENG,Sheffield Utd,Liverpool,0.0,L
 ENG,Manchester Utd,Chelsea,0.0,L
 ENG,Manchester City,Crystal Palace,0.0,W
-ENG,Bournemouth,Luton,0.0,D
 ENG,West Ham,Wolves,0.0,W
-ENG,Brentford,Aston Villa,0.0,W
+ENG,Bournemouth,Luton,0.0,D
 ENG,Newcastle,Fulham,0.0,W
 ENG,Burnley,Everton,0.0,D
+ENG,Brentford,Aston Villa,0.0,W
 ENG,Arsenal,Brighton,0.0,W
 ENG,Liverpool,Manchester Utd,0.0,W
 ENG,Chelsea,Sheffield Utd,0.0,W
 ENG,Nottingham,Tottenham,0.0,L
 ENG,Tottenham,Newcastle,0.0,L
-ENG,Luton,Manchester City,0.0,L
-ENG,Brighton,Burnley,0.0,W
 ENG,Sheffield Utd,Brentford,0.0,L
 ENG,Wolves,Nottingham,0.0,D
+ENG,Luton,Manchester City,0.0,L
+ENG,Brighton,Burnley,0.0,W
 ENG,Manchester Utd,Bournemouth,0.0,W
 ENG,Fulham,West Ham,0.0,L
 ENG,Crystal Palace,Liverpool,0.0,L
 ENG,Aston Villa,Arsenal,0.0,L
 ENG,Everton,Chelsea,0.0,L
-ENG,Brentford,Luton,0.0,W
 ENG,Burnley,Sheffield Utd,0.0,L
+ENG,Brentford,Luton,0.0,W
 ENG,Arsenal,Wolves,0.0,W
 ENG,Nottingham,Everton,0.0,D
-ENG,Bournemouth,Aston Villa,0.0,L
 ENG,West Ham,Crystal Palace,0.0,D
+ENG,Bournemouth,Aston Villa,0.0,L
 ENG,Liverpool,Fulham,0.0,W
 ENG,Chelsea,Arsenal,0.0,L
 ENG,Bournemouth,Wolves,0.0,W
@@ -2100,21 +2100,21 @@ ENG,Manchester City,Nottingham,0.0,W
 ENG,Tottenham,Chelsea,0.0,L
 ENG,Everton,Luton,0.0,W
 ENG,Bournemouth,Arsenal,0.0,L
-ENG,Nottingham,Sheffield Utd,0.0,D
-ENG,Newcastle,Burnley,0.0,W
 ENG,Fulham,Brentford,0.0,L
-ENG,Aston Villa,Brighton,0.0,L
+ENG,Newcastle,Burnley,0.0,W
+ENG,Nottingham,Sheffield Utd,0.0,D
 ENG,Wolves,Manchester City,0.0,L
 ENG,West Ham,Chelsea,0.0,L
+ENG,Aston Villa,Brighton,0.0,L
 ENG,Tottenham,Liverpool,0.0,L
 ENG,Manchester Utd,Crystal Palace,0.0,W
 ENG,Manchester City,Fulham,0.0,W
-ENG,Luton,West Ham,0.0,L
+ENG,Crystal Palace,Wolves,0.0,L
 ENG,Brentford,Bournemouth,0.0,W
 ENG,Sheffield Utd,Everton,0.0,L
 ENG,Brighton,Newcastle,0.0,L
 ENG,Burnley,Tottenham,0.0,L
-ENG,Crystal Palace,Wolves,0.0,L
+ENG,Luton,West Ham,0.0,L
 ENG,Chelsea,Nottingham,0.0,W
 ENG,Arsenal,Manchester Utd,0.0,W
 ENG,Liverpool,Aston Villa,0.0,W
@@ -2192,13 +2192,13 @@ SPA,Cadiz CF,Betis,0.0,D
 SPA,Real Madrid,Atl. Madrid,0.0,W
 SPA,Almeria,Sevilla,0.0,L
 SPA,Barcelona,Mallorca,0.0,W
-SPA,Getafe,Ath Bilbao,0.0,L
 SPA,Girona,Villarreal,0.0,L
 SPA,Las Palmas,Real Madrid,0.0,L
+SPA,Getafe,Ath Bilbao,0.0,L
 SPA,Real Sociedad,Valencia,0.0,D
 SPA,Rayo Vallecano,Cadiz CF,0.0,D
-SPA,Alaves,Celta Vigo,0.0,D
 SPA,Betis,Granada CF,0.0,D
+SPA,Alaves,Celta Vigo,0.0,D
 SPA,Atl. Madrid,Osasuna,0.0,W
 SPA,Sevilla,Barcelona,0.0,L
 SPA,Villarreal,Getafe,0.0,D
@@ -2253,8 +2253,8 @@ SPA,Cadiz CF,Getafe,0.0,D
 SPA,Celta Vigo,Ath Bilbao,0.0,L
 SPA,Girona,Rayo Vallecano,0.0,D
 SPA,Real Sociedad,Almeria,0.0,W
-SPA,Getafe,Granada CF,0.0,L
 SPA,Las Palmas,Osasuna,0.0,D
+SPA,Getafe,Granada CF,0.0,L
 SPA,Valencia,Real Madrid,0.0,L
 SPA,Alaves,Barcelona,0.0,L
 SPA,Betis,Sevilla,0.0,L
@@ -2301,11 +2301,11 @@ SPA,Cadiz CF,Las Palmas,0.0,D
 SPA,Villarreal,Real Madrid,0.0,L
 SPA,Alaves,Girona,0.0,D
 SPA,Valencia,Rayo Vallecano,0.0,D
-SPA,Getafe,Atl. Madrid,0.0,L
 SPA,Sevilla,Granada CF,0.0,W
+SPA,Getafe,Atl. Madrid,0.0,L
 SPA,Almeria,Barcelona,0.0,L
-SPA,Celta Vigo,Villarreal,0.0,L
 SPA,Las Palmas,Ath Bilbao,0.0,L
+SPA,Celta Vigo,Villarreal,0.0,L
 SPA,Real Sociedad,Cadiz CF,0.0,W
 SPA,Girona,Betis,0.0,D
 SPA,Osasuna,Mallorca,0.0,D
@@ -2471,30 +2471,30 @@ SPA,Villarreal,Celta Vigo,0.0,D
 SPA,Alaves,Valencia,0.0,D
 SPA,Almeria,Rayo Vallecano,0.0,D
 SPA,Granada CF,Sevilla,0.0,L
-SPA,Sevilla,Villarreal,0.0,L
 SPA,Rayo Vallecano,Valencia,0.0,L
 SPA,Las Palmas,Mallorca,0.0,D
 SPA,Real Madrid,Granada CF,0.0,W
 SPA,Getafe,Cadiz CF,0.0,D
-SPA,Almeria,Betis,0.0,D
+SPA,Sevilla,Villarreal,0.0,L
 SPA,Real Sociedad,Barcelona,0.0,L
 SPA,Celta Vigo,Atl. Madrid,0.0,L
 SPA,Osasuna,Ath Bilbao,0.0,L
 SPA,Girona,Alaves,0.0,D
+SPA,Almeria,Betis,0.0,D
 SPA,Cadiz CF,Sevilla,0.0,L
 SPA,Valencia,Real Sociedad,0.0,L
 SPA,Alaves,Real Madrid,0.0,L
 SPA,Granada CF,Rayo Vallecano,0.0,L
 SPA,Mallorca,Osasuna,0.0,D
+SPA,Betis,Las Palmas,0.0,D
 SPA,Villarreal,Girona,0.0,W
 SPA,Atl. Madrid,Getafe,0.0,W
 SPA,Ath Bilbao,Celta Vigo,0.0,W
 SPA,Barcelona,Almeria,0.0,W
-SPA,Betis,Las Palmas,0.0,D
-SPA,Celta Vigo,Granada CF,0.0,L
-SPA,Real Madrid,Villarreal,0.0,W
 SPA,Girona,Valencia,0.0,D
 SPA,Almeria,Mallorca,0.0,D
+SPA,Real Madrid,Villarreal,0.0,W
+SPA,Celta Vigo,Granada CF,0.0,L
 SPA,Las Palmas,Cadiz CF,0.0,D
 SPA,Osasuna,Atl. Madrid,0.0,L
 SPA,Rayo Vallecano,Barcelona,0.0,L
@@ -2533,10 +2533,10 @@ ITA,Udinese,Salernitana,0.0,D
 ITA,Inter,Cagliari,0.0,W
 ITA,Verona,Sassuolo,0.0,D
 ITA,AC Milan,AS Roma,0.0,W
-ITA,Frosinone,Udinese,0.0,D
 ITA,Cagliari,Bologna,0.0,L
-ITA,Monza,Atalanta,0.0,L
+ITA,Frosinone,Udinese,0.0,D
 ITA,Lazio,Napoli,0.0,L
+ITA,Monza,Atalanta,0.0,L
 ITA,Genoa,Torino,0.0,L
 ITA,Fiorentina,Inter,0.0,L
 ITA,Salernitana,Lecce,0.0,D
@@ -2562,14 +2562,14 @@ ITA,Cagliari,Atalanta,0.0,L
 ITA,Napoli,Bologna,0.0,W
 ITA,AS Roma,Torino,0.0,D
 ITA,Lecce,Juventus,0.0,L
-ITA,AC Milan,Cagliari,0.0,W
 ITA,Atalanta,Verona,0.0,D
 ITA,Salernitana,Empoli,0.0,D
-ITA,Torino,Lazio,0.0,D
+ITA,AC Milan,Cagliari,0.0,W
 ITA,Sassuolo,Inter,0.0,L
 ITA,Udinese,Napoli,0.0,L
-ITA,Bologna,Monza,0.0,D
+ITA,Torino,Lazio,0.0,D
 ITA,Fiorentina,Frosinone,0.0,D
+ITA,Bologna,Monza,0.0,D
 ITA,AS Roma,Genoa,0.0,W
 ITA,Napoli,Lecce,0.0,W
 ITA,Lazio,AC Milan,0.0,L
@@ -2627,16 +2627,16 @@ ITA,AC Milan,Lecce,0.0,W
 ITA,Cagliari,Juventus,0.0,L
 ITA,Torino,Monza,0.0,D
 ITA,Empoli,Napoli,0.0,L
-ITA,Bologna,Fiorentina,0.0,L
 ITA,Atalanta,Udinese,0.0,D
+ITA,Bologna,Fiorentina,0.0,L
 ITA,AS Roma,Lazio,0.0,L
 ITA,Frosinone,Inter,0.0,L
 ITA,Lazio,Salernitana,0.0,D
 ITA,Napoli,Atalanta,0.0,W
 ITA,Fiorentina,AC Milan,0.0,L
 ITA,Monza,Cagliari,0.0,D
-ITA,Genoa,Frosinone,0.0,L
 ITA,Sassuolo,Empoli,0.0,D
+ITA,Genoa,Frosinone,0.0,L
 ITA,Udinese,AS Roma,0.0,L
 ITA,Inter,Juventus,0.0,W
 ITA,Lecce,Verona,0.0,D
@@ -2686,8 +2686,8 @@ ITA,Torino,Fiorentina,0.0,D
 ITA,Frosinone,Lazio,0.0,L
 ITA,Inter,Genoa,0.0,W
 ITA,Lecce,Atalanta,0.0,L
-ITA,Bologna,Udinese,0.0,D
 ITA,Empoli,Cagliari,0.0,D
+ITA,Bologna,Udinese,0.0,D
 ITA,Salernitana,Verona,0.0,D
 ITA,Sassuolo,AC Milan,0.0,L
 ITA,AS Roma,Juventus,0.0,L
@@ -2754,8 +2754,8 @@ ITA,Genoa,Napoli,0.0,L
 ITA,Juventus,Verona,0.0,W
 ITA,Sassuolo,Atalanta,0.0,L
 ITA,Bologna,Lazio,0.0,L
-ITA,Fiorentina,Empoli,0.0,W
 ITA,Cagliari,Udinese,0.0,D
+ITA,Fiorentina,Empoli,0.0,W
 ITA,AS Roma,Frosinone,0.0,W
 ITA,AC Milan,Monza,0.0,W
 ITA,Lazio,Torino,0.0,L
@@ -2782,8 +2782,8 @@ ITA,Bologna,Atalanta,0.0,L
 ITA,Juventus,Napoli,0.0,L
 ITA,Genoa,Inter,0.0,L
 ITA,Torino,Napoli,0.0,L
-ITA,Frosinone,Sassuolo,0.0,D
 ITA,Salernitana,Cagliari,0.0,D
+ITA,Frosinone,Sassuolo,0.0,D
 ITA,Inter,Bologna,0.0,W
 ITA,Monza,Genoa,0.0,L
 ITA,Verona,Lecce,0.0,D
@@ -2792,8 +2792,8 @@ ITA,Atalanta,Juventus,0.0,L
 ITA,AS Roma,Fiorentina,0.0,L
 ITA,Udinese,Lazio,0.0,L
 ITA,Bologna,Empoli,0.0,D
-ITA,Torino,Udinese,0.0,D
 ITA,Cagliari,Monza,0.0,D
+ITA,Torino,Udinese,0.0,D
 ITA,Lecce,Salernitana,0.0,D
 ITA,Lazio,Frosinone,0.0,W
 ITA,Genoa,Juventus,0.0,L
@@ -2801,8 +2801,8 @@ ITA,AC Milan,Verona,0.0,W
 ITA,Sassuolo,AS Roma,0.0,L
 ITA,Napoli,Inter,0.0,W
 ITA,Atalanta,Napoli,0.0,L
-ITA,Frosinone,Genoa,0.0,D
 ITA,Monza,Torino,0.0,L
+ITA,Frosinone,Genoa,0.0,D
 ITA,Juventus,Lazio,0.0,W
 ITA,AC Milan,Fiorentina,0.0,W
 ITA,Salernitana,Bologna,0.0,D
@@ -2816,8 +2816,8 @@ ITA,Lazio,AS Roma,0.0,L
 ITA,Torino,Empoli,0.0,D
 ITA,Bologna,Frosinone,0.0,L
 ITA,Napoli,Monza,0.0,W
-ITA,Genoa,Verona,0.0,D
 ITA,Atalanta,Cagliari,0.0,W
+ITA,Genoa,Verona,0.0,D
 ITA,Fiorentina,Juventus,0.0,L
 ITA,Inter,Udinese,0.0,W
 ITA,Salernitana,Lazio,0.0,L
@@ -2826,7 +2826,6 @@ ITA,Juventus,Torino,0.0,W
 ITA,Monza,Bologna,0.0,D
 ITA,Frosinone,Napoli,0.0,L
 ITA,AC Milan,Sassuolo,0.0,W
-ITA,AS Roma,Udinese,0.0,D
 ITA,Cagliari,Inter,0.0,L
 ITA,Genoa,Fiorentina,0.0,L
 ITA,Verona,Atalanta,0.0,D
@@ -2840,43 +2839,44 @@ ITA,Fiorentina,Salernitana,0.0,W
 ITA,Atalanta,Monza,0.0,W
 ITA,Bologna,AS Roma,0.0,L
 ITA,Inter,AC Milan,0.0,W
-ITA,AS Roma,Napoli,0.0,L
-ITA,Monza,Lecce,0.0,D
-ITA,Verona,Lazio,0.0,D
-ITA,AC Milan,Juventus,0.0,L
-ITA,Torino,Inter,0.0,L
-ITA,Udinese,Bologna,0.0,D
+ITA,AS Roma,Udinese,0.0,D
 ITA,Salernitana,Frosinone,0.0,L
-ITA,Sassuolo,Fiorentina,0.0,L
+ITA,Torino,Inter,0.0,L
+ITA,Monza,Lecce,0.0,D
+ITA,AC Milan,Juventus,0.0,L
+ITA,Verona,Lazio,0.0,D
+ITA,Udinese,Bologna,0.0,D
 ITA,Empoli,Atalanta,0.0,L
+ITA,AS Roma,Napoli,0.0,L
+ITA,Sassuolo,Fiorentina,0.0,L
 ITA,Cagliari,Genoa,0.0,D
-ITA,Inter,Sassuolo,0.0,W
+ITA,Fiorentina,Verona,0.0,D
 ITA,Napoli,Udinese,0.0,W
 ITA,Bologna,Torino,0.0,L
+ITA,Inter,Sassuolo,0.0,W
 ITA,Atalanta,Salernitana,0.0,W
-ITA,Fiorentina,Verona,0.0,D
+ITA,Juventus,AS Roma,0.0,W
 ITA,Frosinone,Empoli,0.0,D
 ITA,Lecce,Cagliari,0.0,D
-ITA,Juventus,AS Roma,0.0,W
 ITA,Genoa,AC Milan,0.0,L
 ITA,Lazio,Monza,0.0,W
+ITA,Empoli,Lazio,0.0,L
 ITA,Torino,Verona,0.0,D
 ITA,Bologna,Napoli,0.0,L
 ITA,Udinese,Lecce,0.0,D
-ITA,Empoli,Lazio,0.0,L
 ITA,Salernitana,Juventus,0.0,L
 ITA,Sassuolo,Genoa,0.0,D
 ITA,Inter,Frosinone,0.0,W
 ITA,Monza,Fiorentina,0.0,L
 ITA,AS Roma,Atalanta,0.0,D
 ITA,Cagliari,AC Milan,0.0,L
-ITA,AC Milan,Torino,0.0,W
-ITA,Cagliari,Sassuolo,0.0,D
 ITA,Empoli,Udinese,0.0,L
+ITA,AC Milan,Torino,0.0,W
 ITA,Verona,Salernitana,0.0,D
 ITA,Frosinone,Monza,0.0,D
-ITA,Napoli,Fiorentina,0.0,W
+ITA,Cagliari,Sassuolo,0.0,D
 ITA,Lazio,Inter,0.0,L
+ITA,Napoli,Fiorentina,0.0,W
 ITA,Juventus,Bologna,0.0,W
 ITA,Genoa,AS Roma,0.0,L
 ITA,Atalanta,Lecce,0.0,D
