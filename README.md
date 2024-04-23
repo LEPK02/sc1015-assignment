@@ -36,20 +36,10 @@
     - Find extremes/outliers
     - Visualise data
     - Draw hypotheses
-- Summary
-    - Strong correlations
-        - Positive
-            - Points Per Game (PPG) & posession
-            - PPG & squad value
-            - PPG & goals scored
-        - Negative
-            - PPG & goals conceded
-    - Weak correlations
-        - Positive
-            - PPG & tackles in attacking third - high press is not always better
-            - PPG & goals per shot on target - more important to have more shots
-        - Negative
-            - PPG & tackles in defensive third, PPG & blocked shots - higher-volume of last-ditch defending may not always be indicative of wins because another way of defending is to prevent those chances from happening in the first place
+- Evaluation: correlations between Points Per Game (PPG) and:
+        - Goals Scored, Conceded
+        - Possession
+        - Squad Value
 4. Conduct models and make predictions (machine_learning.ipynb)
 
 ## Data Directory Structure
@@ -127,4 +117,4 @@ Sends notification on push/PR ([setup](https://cyaninfinite.com/getting-updates-
 ## Contributors
 Rachmiel - Model, Webscraping, Data Processing, Presentation
 Luke - EDA, Webscraping, Data Processing, Presentation
-Billie - Quality assurance
+Billie - Quality Assurance
