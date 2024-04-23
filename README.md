@@ -1,4 +1,4 @@
-# Predicting EPL Results Using Machine Learning
+# Predicting Football Results Using Machine Learning
 by Luke, Rachmiel, and Billie (FCEA Team 6)
 ## Workflow
 
