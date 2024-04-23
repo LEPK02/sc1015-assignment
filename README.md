@@ -1,4 +1,5 @@
 # Predicting EPL Results Using Machine Learning by Luke, Rachmiel and Billie
+by Luke, Rachmiel, and Billie (FCEA Team 6)
 ## Workflow
 
 ### 1. Data collection via webscraping (./webscraping)
