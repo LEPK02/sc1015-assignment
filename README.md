@@ -165,19 +165,19 @@ Data related to team details and performance:
 Sends notification on push/PR ([setup](https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/))
 
 ## References
-- Webscraping:
+- **Webscraping**:
   - Fbref for team performance: https://fbref.com/en/
   - Flashscore for team results: https://www.flashscore.com/
   - Transfermarkt for team squad values: https://www.transfermarkt.com/
-- Data processing
+- **Data processing**
   - COVID cancels Ligue 1 2019-20: https://www.cbssports.com/soccer/news/ligue-1-season-called-off-after-french-pm-edouard-philippe-bans-all-sporting-events-until-september/
   - Extra game for Italy 2022-23: https://www.90min.com/posts/spezia-vs-hellas-verona-everything-you-need-to-know-serie-a-relegation-play-off
   - Missing game for Italy 2023-24: https://onefootball.com/en/news/atalanta-vs-fiorentina-might-not-be-played-until-june-39340806
-- Feature Selection:
+- **Feature Selection**
    - Boruta Algorithm: https://www.sciencedirect.com/science/article/pii/S1877050922007955
-- Machine Learning 
+- **Machine Learning**
   - Classification Algorithms: https://towardsdatascience.com/top-10-binary-classification-algorithms-a-beginners-guide-feeacbd7a3e2
-- Deep Learning
+- **Deep Learning**
   - LSTM for football predictions: https://www.sciencedirect.com/science/article/pii/S2352864821000602
 
 ## Contributors
