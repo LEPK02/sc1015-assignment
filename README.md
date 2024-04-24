@@ -2,14 +2,22 @@
 by Luke, Rachmiel, and Billie (FCEA Team 6)
 
 ### Setting Up the Project Locally
-Clone the Repository
-```git clone https://github.com/LEPK02/sc1015-assignment.git```
-Navigate to the Project Directory
-```cd sc1015-assignment```
-Create the Conda Environment
-```conda env create -f environment.yml```
-Activate the Conda Environment
-```conda activate sc1015```
+1. **Clone the Repository**  
+   ```bash
+   git clone https://github.com/LEPK02/sc1015-assignment.git
+   ```
+2. Navigate to the Project Directory
+   ```bash
+   cd sc1015-assignment
+   ```
+3. Create the Conda Environment
+   ```bash
+   conda env create -f environment.yml
+   ```
+4. Activate the Conda Environment
+   ```
+   conda activate sc1015
+   ```
 
 ## Workflow: Running the project
 
@@ -64,7 +72,7 @@ Activate the Conda Environment
     - Logistic Regression: Drop features that are not significant in predicting 'W', 'L, and 'D'
     - Boruta Algorithm: Drop features that are not relevant to the outcome using Random Forest.
 
-### 5. Conduct models and make predictions [04_machine_learning.ipynb](./04_machine_learning.ipynb)
+### 5. Conduct Machine Learning and make predictions [04_machine_learning.ipynb](./04_machine_learning.ipynb)
 - Using Classification Algorithms
     - Logistic Regression
     - Decision Tree
