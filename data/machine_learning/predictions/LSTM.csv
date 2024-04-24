@@ -1,5 +1,5 @@
 country,team,opponent,is_home,predicted_result
-ITA,AC Milan,Torino,1,D
+ITA,AC Milan,Torino,1,W
 ITA,AC Milan,Verona,1,W
 ITA,AC Milan,Lazio,1,W
 ITA,AC Milan,Juventus,1,W
@@ -10,20 +10,20 @@ ITA,AC Milan,Monza,1,W
 ITA,AC Milan,Sassuolo,1,W
 ITA,AC Milan,AS Roma,1,W
 ITA,AC Milan,Bologna,1,W
-ITA,AC Milan,Napoli,1,L
+ITA,AC Milan,Napoli,1,D
 ITA,AC Milan,Atalanta,1,W
 ITA,AC Milan,Empoli,1,W
 ITA,AC Milan,Lecce,1,W
-ITA,AC Milan,Inter,1,D
+ITA,AC Milan,Inter,1,W
 ITA,AC Milan,Genoa,1,W
 ITA,AC Milan,Cagliari,1,W
 ITA,AC Milan,Salernitana,1,W
 ITA,AC Milan,Bologna,0,W
 ITA,AC Milan,AS Roma,0,W
-ITA,AC Milan,Inter,0,L
+ITA,AC Milan,Inter,0,D
 ITA,AC Milan,Cagliari,0,W
 ITA,AC Milan,Genoa,0,W
-ITA,AC Milan,Napoli,0,L
+ITA,AC Milan,Napoli,0,D
 ITA,AC Milan,Lecce,0,W
 ITA,AC Milan,Atalanta,0,W
 ITA,AC Milan,Salernitana,0,W
@@ -35,7 +35,7 @@ ITA,AC Milan,Lazio,0,W
 ITA,AC Milan,Verona,0,W
 ITA,AC Milan,Fiorentina,0,W
 ITA,AC Milan,Sassuolo,0,W
-ITA,AC Milan,Juventus,0,L
+ITA,AC Milan,Juventus,0,D
 ITA,AC Milan,Torino,0,W
 ITA,AS Roma,Salernitana,1,W
 ITA,AS Roma,AC Milan,1,L
@@ -46,7 +46,7 @@ ITA,AS Roma,Lecce,1,W
 ITA,AS Roma,Udinese,1,W
 ITA,AS Roma,Fiorentina,1,W
 ITA,AS Roma,Napoli,1,L
-ITA,AS Roma,Atalanta,1,W
+ITA,AS Roma,Atalanta,1,D
 ITA,AS Roma,Verona,1,W
 ITA,AS Roma,Cagliari,1,W
 ITA,AS Roma,Inter,1,L
@@ -54,16 +54,16 @@ ITA,AS Roma,Torino,1,W
 ITA,AS Roma,Sassuolo,1,W
 ITA,AS Roma,Lazio,1,W
 ITA,AS Roma,Bologna,1,W
-ITA,AS Roma,Juventus,1,L
+ITA,AS Roma,Juventus,1,D
 ITA,AS Roma,Genoa,1,W
 ITA,AS Roma,Verona,0,W
-ITA,AS Roma,Torino,0,D
+ITA,AS Roma,Torino,0,W
 ITA,AS Roma,Genoa,0,W
 ITA,AS Roma,Cagliari,0,W
 ITA,AS Roma,Inter,0,L
-ITA,AS Roma,Lazio,0,D
-ITA,AS Roma,Sassuolo,0,D
-ITA,AS Roma,Bologna,0,D
+ITA,AS Roma,Lazio,0,L
+ITA,AS Roma,Sassuolo,0,W
+ITA,AS Roma,Bologna,0,W
 ITA,AS Roma,Juventus,0,L
 ITA,AS Roma,AC Milan,0,L
 ITA,AS Roma,Salernitana,0,W
@@ -71,13 +71,13 @@ ITA,AS Roma,Frosinone,0,W
 ITA,AS Roma,Monza,0,W
 ITA,AS Roma,Fiorentina,0,D
 ITA,AS Roma,Lecce,0,W
-ITA,AS Roma,Udinese,0,D
+ITA,AS Roma,Udinese,0,W
 ITA,AS Roma,Napoli,0,L
 ITA,AS Roma,Atalanta,0,L
 ITA,AS Roma,Empoli,0,W
 SPA,Alaves,Sevilla,1,D
 SPA,Alaves,Valencia,1,D
-SPA,Alaves,Ath Bilbao,1,D
+SPA,Alaves,Ath Bilbao,1,L
 SPA,Alaves,Osasuna,1,D
 SPA,Alaves,Betis,1,D
 SPA,Alaves,Almeria,1,D
@@ -97,7 +97,7 @@ SPA,Alaves,Getafe,1,D
 SPA,Alaves,Cadiz CF,0,D
 SPA,Alaves,Getafe,0,D
 SPA,Alaves,Rayo Vallecano,0,D
-SPA,Alaves,Celta Vigo,0,D
+SPA,Alaves,Celta Vigo,0,L
 SPA,Alaves,Villarreal,0,L
 SPA,Alaves,Atl. Madrid,0,L
 SPA,Alaves,Barcelona,0,L
@@ -106,11 +106,11 @@ SPA,Alaves,Girona,0,L
 SPA,Alaves,Real Sociedad,0,L
 SPA,Alaves,Sevilla,0,L
 SPA,Alaves,Almeria,0,D
-SPA,Alaves,Betis,0,D
-SPA,Alaves,Osasuna,0,D
+SPA,Alaves,Betis,0,L
+SPA,Alaves,Osasuna,0,L
 SPA,Alaves,Ath Bilbao,0,L
 SPA,Alaves,Granada CF,0,D
-SPA,Alaves,Valencia,0,D
+SPA,Alaves,Valencia,0,L
 SPA,Alaves,Real Madrid,0,L
 SPA,Alaves,Las Palmas,0,L
 SPA,Almeria,Rayo Vallecano,1,D
@@ -144,18 +144,18 @@ SPA,Almeria,Barcelona,0,L
 SPA,Almeria,Osasuna,0,L
 SPA,Almeria,Real Madrid,0,L
 SPA,Almeria,Valencia,0,L
-SPA,Almeria,Granada CF,0,L
-SPA,Almeria,Celta Vigo,0,L
-SPA,Almeria,Las Palmas,0,L
+SPA,Almeria,Granada CF,0,D
+SPA,Almeria,Celta Vigo,0,D
+SPA,Almeria,Las Palmas,0,D
 SPA,Almeria,Real Sociedad,0,L
 SPA,Almeria,Rayo Vallecano,0,L
 SPA,Almeria,Betis,0,L
 SPA,Almeria,Mallorca,0,D
 ENG,Arsenal,Nottingham,1,W
 ENG,Arsenal,Fulham,1,W
-ENG,Arsenal,Manchester Utd,1,L
+ENG,Arsenal,Manchester Utd,1,W
 ENG,Arsenal,Tottenham,1,W
-ENG,Arsenal,Manchester City,1,L
+ENG,Arsenal,Manchester City,1,D
 ENG,Arsenal,Sheffield Utd,1,W
 ENG,Arsenal,Burnley,1,W
 ENG,Arsenal,Wolves,1,W
@@ -178,32 +178,32 @@ ENG,Arsenal,Newcastle,0,W
 ENG,Arsenal,Brentford,0,W
 ENG,Arsenal,Luton,0,W
 ENG,Arsenal,Aston Villa,0,W
-ENG,Arsenal,Liverpool,0,D
+ENG,Arsenal,Liverpool,0,W
 ENG,Arsenal,Fulham,0,W
 ENG,Arsenal,Nottingham,0,W
 ENG,Arsenal,West Ham,0,W
 ENG,Arsenal,Burnley,0,W
 ENG,Arsenal,Sheffield Utd,0,W
-ENG,Arsenal,Manchester City,0,L
+ENG,Arsenal,Manchester City,0,D
 ENG,Arsenal,Brighton,0,W
 ENG,Arsenal,Wolves,0,W
 ENG,Arsenal,Tottenham,0,W
 ENG,Arsenal,Manchester Utd,0,D
-ENG,Aston Villa,Everton,1,D
-ENG,Aston Villa,Crystal Palace,1,D
+ENG,Aston Villa,Everton,1,W
+ENG,Aston Villa,Crystal Palace,1,W
 ENG,Aston Villa,Brighton,1,L
-ENG,Aston Villa,West Ham,1,D
+ENG,Aston Villa,West Ham,1,W
 ENG,Aston Villa,Luton,1,W
 ENG,Aston Villa,Fulham,1,W
 ENG,Aston Villa,Manchester City,1,L
 ENG,Aston Villa,Arsenal,1,L
 ENG,Aston Villa,Sheffield Utd,1,W
 ENG,Aston Villa,Burnley,1,W
-ENG,Aston Villa,Newcastle,1,L
+ENG,Aston Villa,Newcastle,1,D
 ENG,Aston Villa,Manchester Utd,1,L
 ENG,Aston Villa,Nottingham,1,W
-ENG,Aston Villa,Tottenham,1,L
-ENG,Aston Villa,Wolves,1,D
+ENG,Aston Villa,Tottenham,1,D
+ENG,Aston Villa,Wolves,1,W
 ENG,Aston Villa,Brentford,1,W
 ENG,Aston Villa,Bournemouth,1,W
 ENG,Aston Villa,Chelsea,1,L
@@ -212,26 +212,26 @@ ENG,Aston Villa,Newcastle,0,L
 ENG,Aston Villa,Burnley,0,W
 ENG,Aston Villa,Liverpool,0,L
 ENG,Aston Villa,Chelsea,0,L
-ENG,Aston Villa,Wolves,0,D
-ENG,Aston Villa,Nottingham,0,D
+ENG,Aston Villa,Wolves,0,L
+ENG,Aston Villa,Nottingham,0,W
 ENG,Aston Villa,Tottenham,0,L
-ENG,Aston Villa,Bournemouth,0,D
+ENG,Aston Villa,Bournemouth,0,W
 ENG,Aston Villa,Brentford,0,D
 ENG,Aston Villa,Manchester Utd,0,L
 ENG,Aston Villa,Everton,0,D
 ENG,Aston Villa,Sheffield Utd,0,W
-ENG,Aston Villa,Fulham,0,D
+ENG,Aston Villa,Fulham,0,W
 ENG,Aston Villa,Luton,0,W
 ENG,Aston Villa,West Ham,0,D
 ENG,Aston Villa,Manchester City,0,L
 ENG,Aston Villa,Arsenal,0,L
 ENG,Aston Villa,Brighton,0,L
-ENG,Aston Villa,Crystal Palace,0,D
+ENG,Aston Villa,Crystal Palace,0,W
 ITA,Atalanta,Monza,1,W
 ITA,Atalanta,Cagliari,1,W
 ITA,Atalanta,Juventus,1,L
 ITA,Atalanta,Genoa,1,W
-ITA,Atalanta,Inter,1,L
+ITA,Atalanta,Inter,1,D
 ITA,Atalanta,Napoli,1,L
 ITA,Atalanta,AC Milan,1,L
 ITA,Atalanta,Salernitana,1,W
@@ -250,10 +250,10 @@ ITA,Atalanta,Sassuolo,0,W
 ITA,Atalanta,Frosinone,0,W
 ITA,Atalanta,Fiorentina,0,D
 ITA,Atalanta,Verona,0,W
-ITA,Atalanta,Lazio,0,D
+ITA,Atalanta,Lazio,0,W
 ITA,Atalanta,Empoli,0,W
-ITA,Atalanta,Udinese,0,D
-ITA,Atalanta,Torino,0,D
+ITA,Atalanta,Udinese,0,W
+ITA,Atalanta,Torino,0,W
 ITA,Atalanta,Bologna,0,W
 ITA,Atalanta,AS Roma,0,L
 ITA,Atalanta,Genoa,0,W
@@ -275,19 +275,19 @@ SPA,Ath Bilbao,Celta Vigo,1,W
 SPA,Ath Bilbao,Rayo Vallecano,1,W
 SPA,Ath Bilbao,Atl. Madrid,1,L
 SPA,Ath Bilbao,Las Palmas,1,W
-SPA,Ath Bilbao,Real Sociedad,1,D
+SPA,Ath Bilbao,Real Sociedad,1,W
 SPA,Ath Bilbao,Mallorca,1,W
 SPA,Ath Bilbao,Girona,1,W
 SPA,Ath Bilbao,Barcelona,1,L
 SPA,Ath Bilbao,Alaves,1,W
-SPA,Ath Bilbao,Villarreal,1,D
+SPA,Ath Bilbao,Villarreal,1,W
 SPA,Ath Bilbao,Granada CF,1,W
 SPA,Ath Bilbao,Osasuna,1,W
 SPA,Ath Bilbao,Sevilla,1,W
 SPA,Ath Bilbao,Osasuna,0,W
 SPA,Ath Bilbao,Mallorca,0,W
 SPA,Ath Bilbao,Alaves,0,W
-SPA,Ath Bilbao,Real Sociedad,0,D
+SPA,Ath Bilbao,Real Sociedad,0,L
 SPA,Ath Bilbao,Barcelona,0,L
 SPA,Ath Bilbao,Villarreal,0,L
 SPA,Ath Bilbao,Girona,0,D
@@ -295,13 +295,13 @@ SPA,Ath Bilbao,Granada CF,0,W
 SPA,Ath Bilbao,Sevilla,0,D
 SPA,Ath Bilbao,Valencia,0,D
 SPA,Ath Bilbao,Cadiz CF,0,W
-SPA,Ath Bilbao,Almeria,0,D
+SPA,Ath Bilbao,Almeria,0,W
 SPA,Ath Bilbao,Betis,0,D
-SPA,Ath Bilbao,Las Palmas,0,W
+SPA,Ath Bilbao,Las Palmas,0,D
 SPA,Ath Bilbao,Real Madrid,0,L
 SPA,Ath Bilbao,Atl. Madrid,0,L
 SPA,Ath Bilbao,Getafe,0,W
-SPA,Ath Bilbao,Celta Vigo,0,D
+SPA,Ath Bilbao,Celta Vigo,0,W
 SPA,Ath Bilbao,Rayo Vallecano,0,W
 SPA,Atl. Madrid,Granada CF,1,W
 SPA,Atl. Madrid,Real Madrid,1,L
@@ -317,7 +317,7 @@ SPA,Atl. Madrid,Valencia,1,W
 SPA,Atl. Madrid,Rayo Vallecano,1,W
 SPA,Atl. Madrid,Las Palmas,1,W
 SPA,Atl. Madrid,Betis,1,W
-SPA,Atl. Madrid,Barcelona,1,L
+SPA,Atl. Madrid,Barcelona,1,D
 SPA,Atl. Madrid,Girona,1,W
 SPA,Atl. Madrid,Ath Bilbao,1,W
 SPA,Atl. Madrid,Celta Vigo,1,W
@@ -340,7 +340,7 @@ SPA,Atl. Madrid,Villarreal,0,W
 SPA,Atl. Madrid,Alaves,0,W
 SPA,Atl. Madrid,Mallorca,0,W
 SPA,Atl. Madrid,Getafe,0,W
-SPA,Atl. Madrid,Real Sociedad,0,D
+SPA,Atl. Madrid,Real Sociedad,0,W
 GER,Augsburg,B. Monchengladbach,1,D
 GER,Augsburg,Bochum,1,D
 GER,Augsburg,Mainz,1,D
@@ -352,7 +352,7 @@ GER,Augsburg,Dortmund,1,L
 GER,Augsburg,Bayer Leverkusen,1,L
 GER,Augsburg,Bayern Munich,1,L
 GER,Augsburg,RB Leipzig,1,L
-GER,Augsburg,Freiburg,1,L
+GER,Augsburg,Freiburg,1,D
 GER,Augsburg,Heidenheim,1,D
 GER,Augsburg,FC Koln,1,D
 GER,Augsburg,Union Berlin,1,D
@@ -361,42 +361,42 @@ GER,Augsburg,Stuttgart,1,D
 GER,Augsburg,Bayern Munich,0,L
 GER,Augsburg,RB Leipzig,0,L
 GER,Augsburg,Freiburg,0,L
-GER,Augsburg,Heidenheim,0,L
-GER,Augsburg,FC Koln,0,L
-GER,Augsburg,Union Berlin,0,L
+GER,Augsburg,Heidenheim,0,D
+GER,Augsburg,FC Koln,0,D
+GER,Augsburg,Union Berlin,0,D
 GER,Augsburg,Werder Bremen,0,D
-GER,Augsburg,Stuttgart,0,L
+GER,Augsburg,Stuttgart,0,D
 GER,Augsburg,B. Monchengladbach,0,L
 GER,Augsburg,Bochum,0,D
 GER,Augsburg,Mainz,0,D
 GER,Augsburg,Darmstadt,0,D
-GER,Augsburg,Wolfsburg,0,L
-GER,Augsburg,Hoffenheim,0,L
+GER,Augsburg,Wolfsburg,0,D
+GER,Augsburg,Hoffenheim,0,D
 GER,Augsburg,Eintracht Frankfurt,0,L
 GER,Augsburg,Dortmund,0,L
 GER,Augsburg,Bayer Leverkusen,0,L
 GER,B. Monchengladbach,Bayer Leverkusen,1,L
 GER,B. Monchengladbach,Bayern Munich,1,L
 GER,B. Monchengladbach,RB Leipzig,1,L
-GER,B. Monchengladbach,Mainz,1,L
+GER,B. Monchengladbach,Mainz,1,W
 GER,B. Monchengladbach,Heidenheim,1,W
-GER,B. Monchengladbach,Wolfsburg,1,L
+GER,B. Monchengladbach,Wolfsburg,1,W
 GER,B. Monchengladbach,Hoffenheim,1,W
 GER,B. Monchengladbach,Werder Bremen,1,W
-GER,B. Monchengladbach,Stuttgart,1,D
+GER,B. Monchengladbach,Stuttgart,1,W
 GER,B. Monchengladbach,Augsburg,1,W
 GER,B. Monchengladbach,Darmstadt,1,W
 GER,B. Monchengladbach,Bochum,1,W
 GER,B. Monchengladbach,FC Koln,1,W
-GER,B. Monchengladbach,Freiburg,1,D
+GER,B. Monchengladbach,Freiburg,1,W
 GER,B. Monchengladbach,Dortmund,1,L
-GER,B. Monchengladbach,Union Berlin,1,D
-GER,B. Monchengladbach,Eintracht Frankfurt,1,L
+GER,B. Monchengladbach,Union Berlin,1,W
+GER,B. Monchengladbach,Eintracht Frankfurt,1,W
 GER,B. Monchengladbach,Augsburg,0,W
-GER,B. Monchengladbach,Darmstadt,0,D
-GER,B. Monchengladbach,Bochum,0,D
+GER,B. Monchengladbach,Darmstadt,0,W
+GER,B. Monchengladbach,Bochum,0,W
 GER,B. Monchengladbach,FC Koln,0,D
-GER,B. Monchengladbach,Freiburg,0,L
+GER,B. Monchengladbach,Freiburg,0,D
 GER,B. Monchengladbach,Dortmund,0,L
 GER,B. Monchengladbach,Union Berlin,0,L
 GER,B. Monchengladbach,Eintracht Frankfurt,0,L
@@ -404,11 +404,11 @@ GER,B. Monchengladbach,Bayer Leverkusen,0,L
 GER,B. Monchengladbach,Bayern Munich,0,L
 GER,B. Monchengladbach,RB Leipzig,0,L
 GER,B. Monchengladbach,Mainz,0,L
-GER,B. Monchengladbach,Heidenheim,0,L
-GER,B. Monchengladbach,Wolfsburg,0,L
-GER,B. Monchengladbach,Hoffenheim,0,L
-GER,B. Monchengladbach,Werder Bremen,0,L
-GER,B. Monchengladbach,Stuttgart,0,L
+GER,B. Monchengladbach,Heidenheim,0,D
+GER,B. Monchengladbach,Wolfsburg,0,D
+GER,B. Monchengladbach,Hoffenheim,0,D
+GER,B. Monchengladbach,Werder Bremen,0,D
+GER,B. Monchengladbach,Stuttgart,0,D
 SPA,Barcelona,Cadiz CF,1,W
 SPA,Barcelona,Betis,1,W
 SPA,Barcelona,Celta Vigo,1,W
@@ -443,7 +443,7 @@ SPA,Barcelona,Celta Vigo,0,W
 SPA,Barcelona,Ath Bilbao,0,W
 SPA,Barcelona,Atl. Madrid,0,W
 SPA,Barcelona,Cadiz CF,0,W
-SPA,Barcelona,Real Madrid,0,L
+SPA,Barcelona,Real Madrid,0,D
 SPA,Barcelona,Girona,0,W
 SPA,Barcelona,Almeria,0,W
 SPA,Barcelona,Sevilla,0,W
@@ -453,7 +453,7 @@ GER,Bayer Leverkusen,Heidenheim,1,W
 GER,Bayer Leverkusen,FC Koln,1,W
 GER,Bayer Leverkusen,Freiburg,1,W
 GER,Bayer Leverkusen,Union Berlin,1,W
-GER,Bayer Leverkusen,Dortmund,1,L
+GER,Bayer Leverkusen,Dortmund,1,D
 GER,Bayer Leverkusen,Eintracht Frankfurt,1,W
 GER,Bayer Leverkusen,Bochum,1,W
 GER,Bayer Leverkusen,B. Monchengladbach,1,W
@@ -472,14 +472,14 @@ GER,Bayer Leverkusen,Hoffenheim,0,W
 GER,Bayer Leverkusen,Werder Bremen,0,W
 GER,Bayer Leverkusen,Stuttgart,0,W
 GER,Bayer Leverkusen,Augsburg,0,W
-GER,Bayer Leverkusen,RB Leipzig,0,L
+GER,Bayer Leverkusen,RB Leipzig,0,D
 GER,Bayer Leverkusen,Darmstadt,0,W
 GER,Bayer Leverkusen,Heidenheim,0,W
 GER,Bayer Leverkusen,FC Koln,0,W
 GER,Bayer Leverkusen,Freiburg,0,W
 GER,Bayer Leverkusen,Union Berlin,0,W
 GER,Bayer Leverkusen,Dortmund,0,L
-GER,Bayer Leverkusen,Eintracht Frankfurt,0,D
+GER,Bayer Leverkusen,Eintracht Frankfurt,0,W
 GER,Bayer Leverkusen,Bochum,0,W
 GER,Bayern Munich,Augsburg,1,W
 GER,Bayern Munich,Bayer Leverkusen,1,W
@@ -517,7 +517,7 @@ GER,Bayern Munich,Stuttgart,0,W
 GER,Bayern Munich,Hoffenheim,0,W
 SPA,Betis,Atl. Madrid,1,L
 SPA,Betis,Rayo Vallecano,1,D
-SPA,Betis,Cadiz CF,1,D
+SPA,Betis,Cadiz CF,1,W
 SPA,Betis,Valencia,1,D
 SPA,Betis,Osasuna,1,D
 SPA,Betis,Mallorca,1,D
@@ -534,8 +534,8 @@ SPA,Betis,Celta Vigo,1,D
 SPA,Betis,Sevilla,1,D
 SPA,Betis,Almeria,1,D
 SPA,Betis,Real Sociedad,1,D
-SPA,Betis,Villarreal,0,D
-SPA,Betis,Ath Bilbao,0,D
+SPA,Betis,Villarreal,0,L
+SPA,Betis,Ath Bilbao,0,L
 SPA,Betis,Barcelona,0,L
 SPA,Betis,Granada CF,0,D
 SPA,Betis,Alaves,0,D
@@ -548,7 +548,7 @@ SPA,Betis,Mallorca,0,D
 SPA,Betis,Cadiz CF,0,D
 SPA,Betis,Atl. Madrid,0,L
 SPA,Betis,Rayo Vallecano,0,D
-SPA,Betis,Girona,0,L
+SPA,Betis,Girona,0,D
 SPA,Betis,Valencia,0,D
 SPA,Betis,Osasuna,0,D
 SPA,Betis,Las Palmas,0,D
@@ -565,7 +565,7 @@ GER,Bochum,Stuttgart,1,D
 GER,Bochum,Augsburg,1,D
 GER,Bochum,Bayern Munich,1,L
 GER,Bochum,RB Leipzig,1,L
-GER,Bochum,Freiburg,1,L
+GER,Bochum,Freiburg,1,D
 GER,Bochum,Darmstadt,1,D
 GER,Bochum,Heidenheim,1,D
 GER,Bochum,Hoffenheim,1,D
@@ -575,35 +575,35 @@ GER,Bochum,Augsburg,0,D
 GER,Bochum,Bayern Munich,0,L
 GER,Bochum,RB Leipzig,0,L
 GER,Bochum,Freiburg,0,L
-GER,Bochum,Darmstadt,0,L
-GER,Bochum,Heidenheim,0,L
-GER,Bochum,Hoffenheim,0,L
+GER,Bochum,Darmstadt,0,D
+GER,Bochum,Heidenheim,0,D
+GER,Bochum,Hoffenheim,0,D
 GER,Bochum,Bayer Leverkusen,0,L
 GER,Bochum,Dortmund,0,L
 GER,Bochum,Eintracht Frankfurt,0,L
 GER,Bochum,B. Monchengladbach,0,L
-GER,Bochum,Mainz,0,L
-GER,Bochum,FC Koln,0,L
+GER,Bochum,Mainz,0,D
+GER,Bochum,FC Koln,0,D
 GER,Bochum,Wolfsburg,0,L
-GER,Bochum,Union Berlin,0,L
-GER,Bochum,Werder Bremen,0,L
+GER,Bochum,Union Berlin,0,D
+GER,Bochum,Werder Bremen,0,D
 ITA,Bologna,AC Milan,1,L
-ITA,Bologna,Cagliari,1,W
+ITA,Bologna,Cagliari,1,D
 ITA,Bologna,Napoli,1,L
 ITA,Bologna,Empoli,1,W
 ITA,Bologna,Frosinone,1,W
-ITA,Bologna,Lazio,1,L
+ITA,Bologna,Lazio,1,W
 ITA,Bologna,Torino,1,D
 ITA,Bologna,AS Roma,1,L
 ITA,Bologna,Atalanta,1,L
 ITA,Bologna,Genoa,1,W
-ITA,Bologna,Sassuolo,1,D
+ITA,Bologna,Sassuolo,1,W
 ITA,Bologna,Lecce,1,W
 ITA,Bologna,Fiorentina,1,D
-ITA,Bologna,Verona,1,D
+ITA,Bologna,Verona,1,W
 ITA,Bologna,Inter,1,L
-ITA,Bologna,Salernitana,1,D
-ITA,Bologna,Monza,1,D
+ITA,Bologna,Salernitana,1,W
+ITA,Bologna,Monza,1,W
 ITA,Bologna,Udinese,1,D
 ITA,Bologna,Juventus,1,L
 ITA,Bologna,Juventus,0,L
@@ -620,16 +620,16 @@ ITA,Bologna,AC Milan,0,L
 ITA,Bologna,Lazio,0,L
 ITA,Bologna,Atalanta,0,L
 ITA,Bologna,Empoli,0,D
-ITA,Bologna,Frosinone,0,L
+ITA,Bologna,Frosinone,0,D
 ITA,Bologna,AS Roma,0,L
 ITA,Bologna,Torino,0,L
 ITA,Bologna,Napoli,0,L
 ITA,Bologna,Genoa,0,L
-ENG,Bournemouth,West Ham,1,L
+ENG,Bournemouth,West Ham,1,D
 ENG,Bournemouth,Tottenham,1,L
 ENG,Bournemouth,Chelsea,1,L
 ENG,Bournemouth,Arsenal,1,L
-ENG,Bournemouth,Wolves,1,D
+ENG,Bournemouth,Wolves,1,L
 ENG,Bournemouth,Burnley,1,D
 ENG,Bournemouth,Newcastle,1,L
 ENG,Bournemouth,Aston Villa,1,L
@@ -650,9 +650,9 @@ ENG,Bournemouth,Brighton,0,L
 ENG,Bournemouth,Everton,0,L
 ENG,Bournemouth,Manchester City,0,L
 ENG,Bournemouth,Sheffield Utd,0,L
-ENG,Bournemouth,Crystal Palace,0,L
+ENG,Bournemouth,Crystal Palace,0,D
 ENG,Bournemouth,Manchester Utd,0,L
-ENG,Bournemouth,Nottingham,0,D
+ENG,Bournemouth,Nottingham,0,L
 ENG,Bournemouth,Tottenham,0,L
 ENG,Bournemouth,West Ham,0,L
 ENG,Bournemouth,Fulham,0,D
@@ -660,20 +660,20 @@ ENG,Bournemouth,Newcastle,0,L
 ENG,Bournemouth,Burnley,0,L
 ENG,Bournemouth,Luton,0,D
 ENG,Bournemouth,Aston Villa,0,L
-ENG,Bournemouth,Wolves,0,D
+ENG,Bournemouth,Wolves,0,L
 ENG,Bournemouth,Arsenal,0,L
 ENG,Bournemouth,Chelsea,0,L
 ENG,Brentford,Tottenham,1,L
-ENG,Brentford,Crystal Palace,1,D
-ENG,Brentford,Bournemouth,1,D
-ENG,Brentford,Everton,1,D
+ENG,Brentford,Crystal Palace,1,W
+ENG,Brentford,Bournemouth,1,W
+ENG,Brentford,Everton,1,W
 ENG,Brentford,Burnley,1,W
 ENG,Brentford,West Ham,1,D
 ENG,Brentford,Arsenal,1,L
 ENG,Brentford,Luton,1,W
-ENG,Brentford,Aston Villa,1,D
-ENG,Brentford,Wolves,1,D
-ENG,Brentford,Nottingham,1,D
+ENG,Brentford,Aston Villa,1,W
+ENG,Brentford,Wolves,1,W
+ENG,Brentford,Nottingham,1,W
 ENG,Brentford,Manchester City,1,L
 ENG,Brentford,Liverpool,1,L
 ENG,Brentford,Chelsea,1,L
@@ -682,7 +682,7 @@ ENG,Brentford,Brighton,1,L
 ENG,Brentford,Sheffield Utd,1,W
 ENG,Brentford,Fulham,1,W
 ENG,Brentford,Newcastle,1,L
-ENG,Brentford,Fulham,0,D
+ENG,Brentford,Fulham,0,W
 ENG,Brentford,Newcastle,0,L
 ENG,Brentford,Nottingham,0,D
 ENG,Brentford,Manchester Utd,0,L
@@ -710,17 +710,17 @@ FRA,Brest,Clermont,1,D
 FRA,Brest,Strasbourg,1,D
 FRA,Brest,Lorient,1,D
 FRA,Brest,Montpellier,1,D
-FRA,Brest,Nice,1,D
+FRA,Brest,Nice,1,L
 FRA,Brest,Marseille,1,L
 FRA,Brest,Le Havre,1,D
-FRA,Brest,Lille,1,D
+FRA,Brest,Lille,1,L
 FRA,Brest,Metz,1,D
 FRA,Brest,Monaco,1,L
 FRA,Brest,Nantes,1,D
 FRA,Brest,Reims,1,D
 FRA,Brest,Le Havre,0,D
 FRA,Brest,Marseille,0,L
-FRA,Brest,Reims,0,D
+FRA,Brest,Reims,0,L
 FRA,Brest,Nice,0,L
 FRA,Brest,Lille,0,L
 FRA,Brest,Monaco,0,L
@@ -736,15 +736,15 @@ FRA,Brest,Lyon,0,L
 FRA,Brest,Rennes,0,L
 FRA,Brest,Toulouse,0,L
 ENG,Brighton,Luton,1,W
-ENG,Brighton,West Ham,1,D
-ENG,Brighton,Newcastle,1,L
+ENG,Brighton,West Ham,1,W
+ENG,Brighton,Newcastle,1,W
 ENG,Brighton,Bournemouth,1,W
-ENG,Brighton,Liverpool,1,L
+ENG,Brighton,Liverpool,1,D
 ENG,Brighton,Fulham,1,W
 ENG,Brighton,Sheffield Utd,1,W
 ENG,Brighton,Brentford,1,W
 ENG,Brighton,Burnley,1,W
-ENG,Brighton,Tottenham,1,D
+ENG,Brighton,Tottenham,1,W
 ENG,Brighton,Wolves,1,W
 ENG,Brighton,Crystal Palace,1,W
 ENG,Brighton,Everton,1,W
@@ -752,11 +752,11 @@ ENG,Brighton,Nottingham,1,W
 ENG,Brighton,Arsenal,1,L
 ENG,Brighton,Manchester City,1,L
 ENG,Brighton,Aston Villa,1,W
-ENG,Brighton,Chelsea,1,L
-ENG,Brighton,Manchester Utd,1,L
+ENG,Brighton,Chelsea,1,D
+ENG,Brighton,Manchester Utd,1,D
 ENG,Brighton,Wolves,0,W
 ENG,Brighton,Manchester Utd,0,L
-ENG,Brighton,Aston Villa,0,W
+ENG,Brighton,Aston Villa,0,D
 ENG,Brighton,Manchester City,0,L
 ENG,Brighton,Everton,0,W
 ENG,Brighton,Nottingham,0,W
@@ -765,30 +765,30 @@ ENG,Brighton,Arsenal,0,L
 ENG,Brighton,Crystal Palace,0,W
 ENG,Brighton,West Ham,0,W
 ENG,Brighton,Luton,0,W
-ENG,Brighton,Tottenham,0,L
+ENG,Brighton,Tottenham,0,D
 ENG,Brighton,Sheffield Utd,0,W
 ENG,Brighton,Fulham,0,W
 ENG,Brighton,Liverpool,0,L
 ENG,Brighton,Brentford,0,W
 ENG,Brighton,Burnley,0,W
 ENG,Brighton,Bournemouth,0,W
-ENG,Brighton,Newcastle,0,L
+ENG,Brighton,Newcastle,0,D
 ENG,Burnley,Manchester City,1,L
 ENG,Burnley,Aston Villa,1,L
 ENG,Burnley,Tottenham,1,L
 ENG,Burnley,Manchester Utd,1,L
 ENG,Burnley,Chelsea,1,L
 ENG,Burnley,Crystal Palace,1,W
-ENG,Burnley,West Ham,1,D
+ENG,Burnley,West Ham,1,W
 ENG,Burnley,Sheffield Utd,1,W
-ENG,Burnley,Everton,1,D
+ENG,Burnley,Everton,1,W
 ENG,Burnley,Liverpool,1,L
 ENG,Burnley,Luton,1,W
 ENG,Burnley,Fulham,1,W
 ENG,Burnley,Arsenal,1,L
 ENG,Burnley,Bournemouth,1,W
 ENG,Burnley,Brentford,1,W
-ENG,Burnley,Wolves,1,D
+ENG,Burnley,Wolves,1,W
 ENG,Burnley,Brighton,1,L
 ENG,Burnley,Newcastle,1,L
 ENG,Burnley,Nottingham,1,W
@@ -798,22 +798,22 @@ ENG,Burnley,Luton,0,W
 ENG,Burnley,Brentford,0,D
 ENG,Burnley,Bournemouth,0,D
 ENG,Burnley,Arsenal,0,L
-ENG,Burnley,Wolves,0,D
+ENG,Burnley,Wolves,0,L
 ENG,Burnley,Brighton,0,L
-ENG,Burnley,Fulham,0,D
+ENG,Burnley,Fulham,0,L
 ENG,Burnley,Aston Villa,0,L
 ENG,Burnley,Manchester City,0,L
 ENG,Burnley,Liverpool,0,L
 ENG,Burnley,Crystal Palace,0,L
 ENG,Burnley,West Ham,0,L
 ENG,Burnley,Chelsea,0,L
-ENG,Burnley,Everton,0,D
-ENG,Burnley,Sheffield Utd,0,W
+ENG,Burnley,Everton,0,L
+ENG,Burnley,Sheffield Utd,0,D
 ENG,Burnley,Manchester Utd,0,L
 ENG,Burnley,Tottenham,0,L
 SPA,Cadiz CF,Alaves,1,D
 SPA,Cadiz CF,Almeria,1,D
-SPA,Cadiz CF,Villarreal,1,D
+SPA,Cadiz CF,Villarreal,1,L
 SPA,Cadiz CF,Rayo Vallecano,1,D
 SPA,Cadiz CF,Girona,1,D
 SPA,Cadiz CF,Sevilla,1,D
@@ -848,7 +848,7 @@ SPA,Cadiz CF,Real Sociedad,0,L
 SPA,Cadiz CF,Girona,0,L
 SPA,Cadiz CF,Real Madrid,0,L
 SPA,Cadiz CF,Sevilla,0,L
-SPA,Cadiz CF,Almeria,0,L
+SPA,Cadiz CF,Almeria,0,D
 ITA,Cagliari,Inter,1,L
 ITA,Cagliari,Udinese,1,L
 ITA,Cagliari,AC Milan,1,L
@@ -860,7 +860,7 @@ ITA,Cagliari,Sassuolo,1,D
 ITA,Cagliari,Empoli,1,D
 ITA,Cagliari,Bologna,1,D
 ITA,Cagliari,Torino,1,D
-ITA,Cagliari,Lazio,1,D
+ITA,Cagliari,Lazio,1,L
 ITA,Cagliari,Napoli,1,L
 ITA,Cagliari,Salernitana,1,D
 ITA,Cagliari,Verona,1,D
@@ -890,14 +890,14 @@ ITA,Cagliari,Sassuolo,0,L
 SPA,Celta Vigo,Osasuna,1,D
 SPA,Celta Vigo,Real Madrid,1,L
 SPA,Celta Vigo,Mallorca,1,D
-SPA,Celta Vigo,Alaves,1,W
+SPA,Celta Vigo,Alaves,1,D
 SPA,Celta Vigo,Getafe,1,D
 SPA,Celta Vigo,Atl. Madrid,1,L
 SPA,Celta Vigo,Sevilla,1,D
 SPA,Celta Vigo,Cadiz CF,1,D
 SPA,Celta Vigo,Granada CF,1,D
 SPA,Celta Vigo,Betis,1,D
-SPA,Celta Vigo,Real Sociedad,1,D
+SPA,Celta Vigo,Real Sociedad,1,L
 SPA,Celta Vigo,Girona,1,D
 SPA,Celta Vigo,Barcelona,1,L
 SPA,Celta Vigo,Almeria,1,D
@@ -909,7 +909,7 @@ SPA,Celta Vigo,Valencia,1,D
 SPA,Celta Vigo,Real Sociedad,0,L
 SPA,Celta Vigo,Almeria,0,D
 SPA,Celta Vigo,Barcelona,0,L
-SPA,Celta Vigo,Las Palmas,0,D
+SPA,Celta Vigo,Las Palmas,0,L
 SPA,Celta Vigo,Girona,0,L
 SPA,Celta Vigo,Ath Bilbao,0,L
 SPA,Celta Vigo,Valencia,0,L
@@ -921,7 +921,7 @@ SPA,Celta Vigo,Getafe,0,D
 SPA,Celta Vigo,Cadiz CF,0,D
 SPA,Celta Vigo,Real Madrid,0,L
 SPA,Celta Vigo,Sevilla,0,L
-SPA,Celta Vigo,Betis,0,D
+SPA,Celta Vigo,Betis,0,L
 SPA,Celta Vigo,Alaves,0,D
 SPA,Celta Vigo,Atl. Madrid,0,L
 SPA,Celta Vigo,Granada CF,0,D
@@ -929,7 +929,7 @@ ENG,Chelsea,Liverpool,1,L
 ENG,Chelsea,Luton,1,W
 ENG,Chelsea,Nottingham,1,W
 ENG,Chelsea,Aston Villa,1,W
-ENG,Chelsea,Arsenal,1,L
+ENG,Chelsea,Arsenal,1,D
 ENG,Chelsea,Brentford,1,W
 ENG,Chelsea,Manchester City,1,L
 ENG,Chelsea,Brighton,1,W
@@ -939,7 +939,7 @@ ENG,Chelsea,Fulham,1,W
 ENG,Chelsea,Wolves,1,W
 ENG,Chelsea,Newcastle,1,W
 ENG,Chelsea,Burnley,1,W
-ENG,Chelsea,Manchester Utd,1,L
+ENG,Chelsea,Manchester Utd,1,W
 ENG,Chelsea,Everton,1,W
 ENG,Chelsea,Tottenham,1,W
 ENG,Chelsea,West Ham,1,W
@@ -948,13 +948,13 @@ ENG,Chelsea,West Ham,0,W
 ENG,Chelsea,Bournemouth,0,W
 ENG,Chelsea,Fulham,0,W
 ENG,Chelsea,Burnley,0,W
-ENG,Chelsea,Tottenham,0,D
+ENG,Chelsea,Tottenham,0,W
 ENG,Chelsea,Newcastle,0,W
-ENG,Chelsea,Manchester Utd,0,L
+ENG,Chelsea,Manchester Utd,0,D
 ENG,Chelsea,Everton,0,W
 ENG,Chelsea,Wolves,0,W
 ENG,Chelsea,Luton,0,W
-ENG,Chelsea,Liverpool,0,L
+ENG,Chelsea,Liverpool,0,D
 ENG,Chelsea,Crystal Palace,0,W
 ENG,Chelsea,Manchester City,0,L
 ENG,Chelsea,Brentford,0,W
@@ -981,12 +981,12 @@ FRA,Clermont,Montpellier,1,D
 FRA,Clermont,Reims,1,D
 FRA,Clermont,Lyon,1,L
 FRA,Clermont,Reims,0,L
-FRA,Clermont,Toulouse,0,D
+FRA,Clermont,Toulouse,0,L
 FRA,Clermont,Le Havre,0,D
 FRA,Clermont,Lyon,0,L
 FRA,Clermont,Strasbourg,0,L
 FRA,Clermont,Montpellier,0,L
-FRA,Clermont,Brest,0,L
+FRA,Clermont,Brest,0,D
 FRA,Clermont,Marseille,0,L
 FRA,Clermont,Nantes,0,L
 FRA,Clermont,Lille,0,L
@@ -998,7 +998,7 @@ FRA,Clermont,Lens,0,L
 FRA,Clermont,Monaco,0,L
 FRA,Clermont,Lorient,0,L
 ENG,Crystal Palace,Arsenal,1,L
-ENG,Crystal Palace,Wolves,1,D
+ENG,Crystal Palace,Wolves,1,L
 ENG,Crystal Palace,Fulham,1,D
 ENG,Crystal Palace,Nottingham,1,D
 ENG,Crystal Palace,Tottenham,1,L
@@ -1016,7 +1016,7 @@ ENG,Crystal Palace,West Ham,1,L
 ENG,Crystal Palace,Newcastle,1,L
 ENG,Crystal Palace,Manchester Utd,1,L
 ENG,Crystal Palace,Aston Villa,1,L
-ENG,Crystal Palace,Sheffield Utd,0,W
+ENG,Crystal Palace,Sheffield Utd,0,D
 ENG,Crystal Palace,Brentford,0,D
 ENG,Crystal Palace,Aston Villa,0,L
 ENG,Crystal Palace,Manchester Utd,0,L
@@ -1033,8 +1033,8 @@ ENG,Crystal Palace,Tottenham,0,L
 ENG,Crystal Palace,Nottingham,0,D
 ENG,Crystal Palace,Bournemouth,0,D
 ENG,Crystal Palace,Liverpool,0,L
-ENG,Crystal Palace,Fulham,0,D
-ENG,Crystal Palace,Wolves,0,D
+ENG,Crystal Palace,Fulham,0,L
+ENG,Crystal Palace,Wolves,0,L
 GER,Darmstadt,Union Berlin,1,D
 GER,Darmstadt,B. Monchengladbach,1,D
 GER,Darmstadt,Werder Bremen,1,D
@@ -1047,7 +1047,7 @@ GER,Darmstadt,Dortmund,1,L
 GER,Darmstadt,Eintracht Frankfurt,1,L
 GER,Darmstadt,Bayer Leverkusen,1,L
 GER,Darmstadt,Stuttgart,1,D
-GER,Darmstadt,Augsburg,1,D
+GER,Darmstadt,Augsburg,1,W
 GER,Darmstadt,Bayern Munich,1,L
 GER,Darmstadt,Freiburg,1,L
 GER,Darmstadt,Heidenheim,1,D
@@ -1059,8 +1059,8 @@ GER,Darmstadt,Augsburg,0,D
 GER,Darmstadt,Bayern Munich,0,L
 GER,Darmstadt,Freiburg,0,L
 GER,Darmstadt,Heidenheim,0,L
-GER,Darmstadt,Hoffenheim,0,L
-GER,Darmstadt,Union Berlin,0,L
+GER,Darmstadt,Hoffenheim,0,D
+GER,Darmstadt,Union Berlin,0,D
 GER,Darmstadt,B. Monchengladbach,0,L
 GER,Darmstadt,Werder Bremen,0,D
 GER,Darmstadt,RB Leipzig,0,L
@@ -1074,9 +1074,9 @@ GER,Dortmund,Heidenheim,1,W
 GER,Dortmund,Wolfsburg,1,W
 GER,Dortmund,Union Berlin,1,W
 GER,Dortmund,Werder Bremen,1,W
-GER,Dortmund,Bayern Munich,1,L
+GER,Dortmund,Bayern Munich,1,D
 GER,Dortmund,B. Monchengladbach,1,W
-GER,Dortmund,RB Leipzig,1,D
+GER,Dortmund,RB Leipzig,1,W
 GER,Dortmund,Mainz,1,W
 GER,Dortmund,Bochum,1,W
 GER,Dortmund,Freiburg,1,W
@@ -1099,13 +1099,13 @@ GER,Dortmund,Heidenheim,0,W
 GER,Dortmund,Wolfsburg,0,W
 GER,Dortmund,Union Berlin,0,W
 GER,Dortmund,Werder Bremen,0,W
-GER,Dortmund,Bayern Munich,0,L
+GER,Dortmund,Bayern Munich,0,D
 GER,Dortmund,B. Monchengladbach,0,W
 GER,Dortmund,RB Leipzig,0,D
 GER,Dortmund,Mainz,0,W
 GER,Eintracht Frankfurt,Darmstadt,1,W
 GER,Eintracht Frankfurt,FC Koln,1,W
-GER,Eintracht Frankfurt,Freiburg,1,D
+GER,Eintracht Frankfurt,Freiburg,1,W
 GER,Eintracht Frankfurt,Heidenheim,1,W
 GER,Eintracht Frankfurt,Dortmund,1,L
 GER,Eintracht Frankfurt,Stuttgart,1,W
@@ -1122,26 +1122,26 @@ GER,Eintracht Frankfurt,Bayer Leverkusen,1,D
 GER,Eintracht Frankfurt,RB Leipzig,1,L
 GER,Eintracht Frankfurt,Mainz,0,W
 GER,Eintracht Frankfurt,Bochum,0,W
-GER,Eintracht Frankfurt,Wolfsburg,0,D
-GER,Eintracht Frankfurt,Hoffenheim,0,D
+GER,Eintracht Frankfurt,Wolfsburg,0,W
+GER,Eintracht Frankfurt,Hoffenheim,0,W
 GER,Eintracht Frankfurt,Union Berlin,0,D
-GER,Eintracht Frankfurt,Werder Bremen,0,D
+GER,Eintracht Frankfurt,Werder Bremen,0,W
 GER,Eintracht Frankfurt,Augsburg,0,W
 GER,Eintracht Frankfurt,Bayer Leverkusen,0,L
 GER,Eintracht Frankfurt,RB Leipzig,0,L
-GER,Eintracht Frankfurt,Darmstadt,0,W
-GER,Eintracht Frankfurt,FC Koln,0,D
-GER,Eintracht Frankfurt,Freiburg,0,D
+GER,Eintracht Frankfurt,Darmstadt,0,D
+GER,Eintracht Frankfurt,FC Koln,0,W
+GER,Eintracht Frankfurt,Freiburg,0,W
 GER,Eintracht Frankfurt,Heidenheim,0,W
 GER,Eintracht Frankfurt,Dortmund,0,L
-GER,Eintracht Frankfurt,Stuttgart,0,L
+GER,Eintracht Frankfurt,Stuttgart,0,D
 GER,Eintracht Frankfurt,Bayern Munich,0,L
 GER,Eintracht Frankfurt,B. Monchengladbach,0,L
 ITA,Empoli,Verona,1,D
 ITA,Empoli,Juventus,1,L
 ITA,Empoli,Inter,1,L
 ITA,Empoli,Salernitana,1,D
-ITA,Empoli,Udinese,1,L
+ITA,Empoli,Udinese,1,D
 ITA,Empoli,Atalanta,1,L
 ITA,Empoli,Sassuolo,1,D
 ITA,Empoli,Lecce,1,D
@@ -1152,7 +1152,7 @@ ITA,Empoli,Genoa,1,D
 ITA,Empoli,Fiorentina,1,L
 ITA,Empoli,Cagliari,1,D
 ITA,Empoli,Bologna,1,D
-ITA,Empoli,Torino,1,L
+ITA,Empoli,Torino,1,D
 ITA,Empoli,Napoli,1,L
 ITA,Empoli,Frosinone,1,L
 ITA,Empoli,AS Roma,1,L
@@ -1164,8 +1164,8 @@ ITA,Empoli,Frosinone,0,L
 ITA,Empoli,Napoli,0,L
 ITA,Empoli,Genoa,0,L
 ITA,Empoli,Torino,0,L
-ITA,Empoli,Cagliari,0,L
-ITA,Empoli,Verona,0,L
+ITA,Empoli,Cagliari,0,D
+ITA,Empoli,Verona,0,D
 ITA,Empoli,Juventus,0,L
 ITA,Empoli,Salernitana,0,L
 ITA,Empoli,Sassuolo,0,L
@@ -1178,14 +1178,14 @@ ITA,Empoli,Udinese,0,L
 ENG,Everton,Fulham,1,D
 ENG,Everton,Wolves,1,D
 ENG,Everton,Arsenal,1,L
-ENG,Everton,Luton,1,W
-ENG,Everton,Bournemouth,1,D
+ENG,Everton,Luton,1,D
+ENG,Everton,Bournemouth,1,W
 ENG,Everton,Brighton,1,L
 ENG,Everton,Manchester Utd,1,L
 ENG,Everton,Newcastle,1,L
 ENG,Everton,Chelsea,1,L
 ENG,Everton,Manchester City,1,L
-ENG,Everton,Aston Villa,1,D
+ENG,Everton,Aston Villa,1,L
 ENG,Everton,Tottenham,1,L
 ENG,Everton,Crystal Palace,1,D
 ENG,Everton,West Ham,1,D
@@ -1217,7 +1217,7 @@ GER,FC Koln,Wolfsburg,1,D
 GER,FC Koln,Hoffenheim,1,D
 GER,FC Koln,Stuttgart,1,D
 GER,FC Koln,B. Monchengladbach,1,D
-GER,FC Koln,Augsburg,1,D
+GER,FC Koln,Augsburg,1,W
 GER,FC Koln,Bayern Munich,1,L
 GER,FC Koln,Mainz,1,D
 GER,FC Koln,Heidenheim,1,D
@@ -1237,7 +1237,7 @@ GER,FC Koln,Bayer Leverkusen,0,L
 GER,FC Koln,RB Leipzig,0,L
 GER,FC Koln,Bochum,0,D
 GER,FC Koln,Darmstadt,0,D
-GER,FC Koln,Freiburg,0,L
+GER,FC Koln,Freiburg,0,D
 GER,FC Koln,Union Berlin,0,D
 GER,FC Koln,Wolfsburg,0,L
 GER,FC Koln,Hoffenheim,0,D
@@ -1246,7 +1246,7 @@ GER,FC Koln,B. Monchengladbach,0,L
 GER,FC Koln,Augsburg,0,D
 GER,FC Koln,Bayern Munich,0,L
 GER,FC Koln,Mainz,0,L
-GER,FC Koln,Heidenheim,0,L
+GER,FC Koln,Heidenheim,0,D
 ITA,Fiorentina,Lecce,1,W
 ITA,Fiorentina,Atalanta,1,D
 ITA,Fiorentina,Cagliari,1,W
@@ -1260,7 +1260,7 @@ ITA,Fiorentina,Udinese,1,W
 ITA,Fiorentina,Inter,1,L
 ITA,Fiorentina,Frosinone,1,W
 ITA,Fiorentina,Lazio,1,W
-ITA,Fiorentina,AS Roma,1,D
+ITA,Fiorentina,AS Roma,1,W
 ITA,Fiorentina,AC Milan,1,L
 ITA,Fiorentina,Genoa,1,W
 ITA,Fiorentina,Sassuolo,1,W
@@ -1268,39 +1268,39 @@ ITA,Fiorentina,Monza,1,W
 ITA,Fiorentina,Napoli,1,L
 ITA,Fiorentina,Genoa,0,W
 ITA,Fiorentina,Inter,0,L
-ITA,Fiorentina,Udinese,0,W
+ITA,Fiorentina,Udinese,0,D
 ITA,Fiorentina,Frosinone,0,W
 ITA,Fiorentina,Napoli,0,L
 ITA,Fiorentina,Lazio,0,L
 ITA,Fiorentina,AC Milan,0,L
 ITA,Fiorentina,AS Roma,0,L
 ITA,Fiorentina,Monza,0,W
-ITA,Fiorentina,Sassuolo,0,D
+ITA,Fiorentina,Sassuolo,0,W
 ITA,Fiorentina,Lecce,0,W
-ITA,Fiorentina,Bologna,0,D
+ITA,Fiorentina,Bologna,0,W
 ITA,Fiorentina,Empoli,0,W
 ITA,Fiorentina,Torino,0,D
 ITA,Fiorentina,Juventus,0,L
-ITA,Fiorentina,Salernitana,0,D
-ITA,Fiorentina,Verona,0,D
+ITA,Fiorentina,Salernitana,0,W
+ITA,Fiorentina,Verona,0,W
 ITA,Fiorentina,Cagliari,0,W
 ITA,Fiorentina,Atalanta,0,L
-GER,Freiburg,Werder Bremen,1,D
+GER,Freiburg,Werder Bremen,1,W
 GER,Freiburg,Dortmund,1,L
 GER,Freiburg,Augsburg,1,W
 GER,Freiburg,Bochum,1,W
-GER,Freiburg,B. Monchengladbach,1,D
+GER,Freiburg,B. Monchengladbach,1,W
 GER,Freiburg,Darmstadt,1,W
 GER,Freiburg,FC Koln,1,W
-GER,Freiburg,Union Berlin,1,D
-GER,Freiburg,Hoffenheim,1,D
-GER,Freiburg,Stuttgart,1,D
+GER,Freiburg,Union Berlin,1,W
+GER,Freiburg,Hoffenheim,1,W
+GER,Freiburg,Stuttgart,1,W
 GER,Freiburg,Eintracht Frankfurt,1,D
 GER,Freiburg,Bayern Munich,1,L
 GER,Freiburg,Bayer Leverkusen,1,L
 GER,Freiburg,RB Leipzig,1,L
-GER,Freiburg,Mainz,1,D
-GER,Freiburg,Wolfsburg,1,D
+GER,Freiburg,Mainz,1,W
+GER,Freiburg,Wolfsburg,1,W
 GER,Freiburg,Heidenheim,1,W
 GER,Freiburg,Hoffenheim,0,D
 GER,Freiburg,Stuttgart,0,D
@@ -1323,9 +1323,9 @@ ITA,Frosinone,Napoli,1,L
 ITA,Frosinone,Atalanta,1,L
 ITA,Frosinone,Sassuolo,1,D
 ITA,Frosinone,Fiorentina,1,L
-ITA,Frosinone,Verona,1,D
+ITA,Frosinone,Verona,1,W
 ITA,Frosinone,Empoli,1,W
-ITA,Frosinone,Genoa,1,D
+ITA,Frosinone,Genoa,1,W
 ITA,Frosinone,Torino,1,D
 ITA,Frosinone,Juventus,1,L
 ITA,Frosinone,Monza,1,D
@@ -1337,7 +1337,7 @@ ITA,Frosinone,Lazio,1,D
 ITA,Frosinone,Bologna,1,D
 ITA,Frosinone,Salernitana,1,D
 ITA,Frosinone,Inter,1,L
-ITA,Frosinone,Udinese,1,D
+ITA,Frosinone,Udinese,1,L
 ITA,Frosinone,Udinese,0,L
 ITA,Frosinone,Salernitana,0,D
 ITA,Frosinone,AS Roma,0,L
@@ -1360,23 +1360,23 @@ ITA,Frosinone,Monza,0,D
 ENG,Fulham,Brentford,1,D
 ENG,Fulham,Luton,1,W
 ENG,Fulham,Chelsea,1,L
-ENG,Fulham,Sheffield Utd,1,W
+ENG,Fulham,Sheffield Utd,1,D
 ENG,Fulham,Manchester Utd,1,L
 ENG,Fulham,Wolves,1,D
-ENG,Fulham,Nottingham,1,D
+ENG,Fulham,Nottingham,1,W
 ENG,Fulham,West Ham,1,D
 ENG,Fulham,Burnley,1,D
 ENG,Fulham,Arsenal,1,L
 ENG,Fulham,Everton,1,D
-ENG,Fulham,Bournemouth,1,D
+ENG,Fulham,Bournemouth,1,W
 ENG,Fulham,Aston Villa,1,D
 ENG,Fulham,Brighton,1,L
 ENG,Fulham,Tottenham,1,L
 ENG,Fulham,Newcastle,1,L
 ENG,Fulham,Liverpool,1,L
-ENG,Fulham,Crystal Palace,1,D
+ENG,Fulham,Crystal Palace,1,W
 ENG,Fulham,Manchester City,1,L
-ENG,Fulham,Everton,0,D
+ENG,Fulham,Everton,0,L
 ENG,Fulham,Arsenal,0,L
 ENG,Fulham,Manchester City,0,L
 ENG,Fulham,Crystal Palace,0,L
@@ -1393,7 +1393,7 @@ ENG,Fulham,Wolves,0,L
 ENG,Fulham,Sheffield Utd,0,D
 ENG,Fulham,Nottingham,0,D
 ENG,Fulham,West Ham,0,L
-ENG,Fulham,Brentford,0,D
+ENG,Fulham,Brentford,0,L
 ENG,Fulham,Luton,0,D
 ITA,Genoa,Fiorentina,1,L
 ITA,Genoa,Napoli,1,L
@@ -1404,9 +1404,9 @@ ITA,Genoa,Verona,1,D
 ITA,Genoa,Empoli,1,D
 ITA,Genoa,Juventus,1,L
 ITA,Genoa,Inter,1,L
-ITA,Genoa,Torino,1,D
+ITA,Genoa,Torino,1,L
 ITA,Genoa,Lecce,1,D
-ITA,Genoa,Atalanta,1,D
+ITA,Genoa,Atalanta,1,L
 ITA,Genoa,Udinese,1,D
 ITA,Genoa,Monza,1,D
 ITA,Genoa,Frosinone,1,D
@@ -1414,14 +1414,14 @@ ITA,Genoa,Lazio,1,D
 ITA,Genoa,Cagliari,1,D
 ITA,Genoa,Sassuolo,1,D
 ITA,Genoa,Bologna,1,D
-ITA,Genoa,Lazio,0,D
-ITA,Genoa,Torino,0,D
+ITA,Genoa,Lazio,0,L
+ITA,Genoa,Torino,0,L
 ITA,Genoa,Lecce,0,D
-ITA,Genoa,Udinese,0,D
+ITA,Genoa,Udinese,0,L
 ITA,Genoa,Atalanta,0,L
 ITA,Genoa,Cagliari,0,D
 ITA,Genoa,Frosinone,0,L
-ITA,Genoa,Monza,0,L
+ITA,Genoa,Monza,0,D
 ITA,Genoa,Sassuolo,0,L
 ITA,Genoa,Bologna,0,L
 ITA,Genoa,Salernitana,0,D
@@ -1456,7 +1456,7 @@ SPA,Getafe,Girona,0,D
 SPA,Getafe,Real Madrid,0,L
 SPA,Getafe,Real Sociedad,0,L
 SPA,Getafe,Ath Bilbao,0,L
-SPA,Getafe,Celta Vigo,0,L
+SPA,Getafe,Celta Vigo,0,D
 SPA,Getafe,Mallorca,0,D
 SPA,Getafe,Granada CF,0,D
 SPA,Getafe,Las Palmas,0,D
@@ -1472,20 +1472,20 @@ SPA,Getafe,Almeria,0,D
 SPA,Getafe,Cadiz CF,0,D
 SPA,Getafe,Alaves,0,D
 SPA,Girona,Getafe,1,D
-SPA,Girona,Las Palmas,1,D
-SPA,Girona,Mallorca,1,D
+SPA,Girona,Las Palmas,1,W
+SPA,Girona,Mallorca,1,W
 SPA,Girona,Real Madrid,1,L
 SPA,Girona,Almeria,1,W
-SPA,Girona,Celta Vigo,1,D
-SPA,Girona,Ath Bilbao,1,D
-SPA,Girona,Valencia,1,D
+SPA,Girona,Celta Vigo,1,W
+SPA,Girona,Ath Bilbao,1,W
+SPA,Girona,Valencia,1,W
 SPA,Girona,Alaves,1,W
 SPA,Girona,Atl. Madrid,1,L
 SPA,Girona,Sevilla,1,D
 SPA,Girona,Real Sociedad,1,L
-SPA,Girona,Rayo Vallecano,1,D
-SPA,Girona,Osasuna,1,D
-SPA,Girona,Betis,1,D
+SPA,Girona,Rayo Vallecano,1,W
+SPA,Girona,Osasuna,1,W
+SPA,Girona,Betis,1,W
 SPA,Girona,Cadiz CF,1,W
 SPA,Girona,Barcelona,1,L
 SPA,Girona,Villarreal,1,L
@@ -1499,16 +1499,16 @@ SPA,Girona,Osasuna,0,D
 SPA,Girona,Rayo Vallecano,0,D
 SPA,Girona,Barcelona,0,L
 SPA,Girona,Betis,0,L
-SPA,Girona,Almeria,0,L
-SPA,Girona,Celta Vigo,0,L
+SPA,Girona,Almeria,0,D
+SPA,Girona,Celta Vigo,0,D
 SPA,Girona,Real Madrid,0,L
 SPA,Girona,Ath Bilbao,0,L
-SPA,Girona,Mallorca,0,L
+SPA,Girona,Mallorca,0,D
 SPA,Girona,Getafe,0,D
 SPA,Girona,Atl. Madrid,0,L
 SPA,Girona,Las Palmas,0,L
 SPA,Girona,Alaves,0,D
-SPA,Girona,Valencia,0,L
+SPA,Girona,Valencia,0,D
 SPA,Granada CF,Rayo Vallecano,1,D
 SPA,Granada CF,Mallorca,1,D
 SPA,Granada CF,Girona,1,D
@@ -1527,12 +1527,12 @@ SPA,Granada CF,Valencia,1,D
 SPA,Granada CF,Alaves,1,D
 SPA,Granada CF,Osasuna,1,D
 SPA,Granada CF,Real Madrid,1,L
-SPA,Granada CF,Celta Vigo,1,D
+SPA,Granada CF,Celta Vigo,1,L
 SPA,Granada CF,Atl. Madrid,0,L
 SPA,Granada CF,Real Sociedad,0,L
 SPA,Granada CF,Las Palmas,0,L
-SPA,Granada CF,Almeria,0,L
-SPA,Granada CF,Osasuna,0,L
+SPA,Granada CF,Almeria,0,D
+SPA,Granada CF,Osasuna,0,D
 SPA,Granada CF,Valencia,0,L
 SPA,Granada CF,Alaves,0,D
 SPA,Granada CF,Real Madrid,0,L
@@ -1564,7 +1564,7 @@ GER,Heidenheim,Bayern Munich,1,L
 GER,Heidenheim,RB Leipzig,1,L
 GER,Heidenheim,Mainz,1,D
 GER,Heidenheim,FC Koln,1,W
-GER,Heidenheim,Wolfsburg,0,D
+GER,Heidenheim,Wolfsburg,0,L
 GER,Heidenheim,Dortmund,0,L
 GER,Heidenheim,Bayer Leverkusen,0,L
 GER,Heidenheim,Eintracht Frankfurt,0,L
@@ -1572,10 +1572,10 @@ GER,Heidenheim,B. Monchengladbach,0,L
 GER,Heidenheim,Bayern Munich,0,L
 GER,Heidenheim,RB Leipzig,0,L
 GER,Heidenheim,Mainz,0,L
-GER,Heidenheim,FC Koln,0,L
-GER,Heidenheim,Hoffenheim,0,L
+GER,Heidenheim,FC Koln,0,D
+GER,Heidenheim,Hoffenheim,0,D
 GER,Heidenheim,Werder Bremen,0,D
-GER,Heidenheim,Union Berlin,0,L
+GER,Heidenheim,Union Berlin,0,D
 GER,Heidenheim,Augsburg,0,D
 GER,Heidenheim,Stuttgart,0,L
 GER,Heidenheim,Bochum,0,D
@@ -1587,24 +1587,24 @@ GER,Hoffenheim,Dortmund,1,L
 GER,Hoffenheim,Eintracht Frankfurt,1,L
 GER,Hoffenheim,Bayer Leverkusen,1,L
 GER,Hoffenheim,Mainz,1,D
-GER,Hoffenheim,Bochum,1,D
+GER,Hoffenheim,Bochum,1,W
 GER,Hoffenheim,Darmstadt,1,D
 GER,Hoffenheim,Heidenheim,1,D
-GER,Hoffenheim,FC Koln,1,D
+GER,Hoffenheim,FC Koln,1,W
 GER,Hoffenheim,Union Berlin,1,D
 GER,Hoffenheim,Werder Bremen,1,D
 GER,Hoffenheim,Stuttgart,1,D
-GER,Hoffenheim,Augsburg,1,D
+GER,Hoffenheim,Augsburg,1,W
 GER,Hoffenheim,B. Monchengladbach,1,D
 GER,Hoffenheim,RB Leipzig,1,L
 GER,Hoffenheim,Bayern Munich,1,L
 GER,Hoffenheim,Heidenheim,0,L
 GER,Hoffenheim,FC Koln,0,D
-GER,Hoffenheim,Union Berlin,0,L
+GER,Hoffenheim,Union Berlin,0,D
 GER,Hoffenheim,Werder Bremen,0,D
-GER,Hoffenheim,Stuttgart,0,L
+GER,Hoffenheim,Stuttgart,0,D
 GER,Hoffenheim,Augsburg,0,D
-GER,Hoffenheim,B. Monchengladbach,0,L
+GER,Hoffenheim,B. Monchengladbach,0,D
 GER,Hoffenheim,RB Leipzig,0,L
 GER,Hoffenheim,Bayern Munich,0,L
 GER,Hoffenheim,Freiburg,0,L
@@ -1612,12 +1612,12 @@ GER,Hoffenheim,Wolfsburg,0,L
 GER,Hoffenheim,Dortmund,0,L
 GER,Hoffenheim,Eintracht Frankfurt,0,L
 GER,Hoffenheim,Bayer Leverkusen,0,L
-GER,Hoffenheim,Mainz,0,L
+GER,Hoffenheim,Mainz,0,D
 GER,Hoffenheim,Bochum,0,D
 GER,Hoffenheim,Darmstadt,0,D
 ITA,Inter,Monza,1,W
 ITA,Inter,Fiorentina,1,W
-ITA,Inter,AC Milan,1,L
+ITA,Inter,AC Milan,1,W
 ITA,Inter,Sassuolo,1,W
 ITA,Inter,Bologna,1,W
 ITA,Inter,AS Roma,1,W
@@ -1629,7 +1629,7 @@ ITA,Inter,Juventus,1,W
 ITA,Inter,Salernitana,1,W
 ITA,Inter,Atalanta,1,W
 ITA,Inter,Genoa,1,W
-ITA,Inter,Napoli,1,L
+ITA,Inter,Napoli,1,D
 ITA,Inter,Empoli,1,W
 ITA,Inter,Cagliari,1,W
 ITA,Inter,Torino,1,W
@@ -1639,8 +1639,8 @@ ITA,Inter,Empoli,0,W
 ITA,Inter,Salernitana,0,W
 ITA,Inter,Torino,0,W
 ITA,Inter,Atalanta,0,W
-ITA,Inter,Juventus,0,D
-ITA,Inter,Napoli,0,L
+ITA,Inter,Juventus,0,W
+ITA,Inter,Napoli,0,D
 ITA,Inter,Lazio,0,W
 ITA,Inter,Genoa,0,W
 ITA,Inter,Monza,0,W
@@ -1649,7 +1649,7 @@ ITA,Inter,AS Roma,0,W
 ITA,Inter,Lecce,0,W
 ITA,Inter,Bologna,0,W
 ITA,Inter,Udinese,0,W
-ITA,Inter,AC Milan,0,L
+ITA,Inter,AC Milan,0,D
 ITA,Inter,Sassuolo,0,W
 ITA,Inter,Frosinone,0,W
 ITA,Inter,Verona,0,W
@@ -1659,8 +1659,8 @@ ITA,Juventus,Lecce,1,W
 ITA,Juventus,Torino,1,W
 ITA,Juventus,Verona,1,W
 ITA,Juventus,Cagliari,1,W
-ITA,Juventus,Inter,1,L
-ITA,Juventus,Napoli,1,L
+ITA,Juventus,Inter,1,W
+ITA,Juventus,Napoli,1,D
 ITA,Juventus,AS Roma,1,W
 ITA,Juventus,Sassuolo,1,W
 ITA,Juventus,Empoli,1,W
@@ -1669,14 +1669,14 @@ ITA,Juventus,Frosinone,1,W
 ITA,Juventus,Atalanta,1,W
 ITA,Juventus,Genoa,1,W
 ITA,Juventus,Fiorentina,1,W
-ITA,Juventus,AC Milan,1,L
+ITA,Juventus,AC Milan,1,W
 ITA,Juventus,Salernitana,1,W
 ITA,Juventus,Monza,1,W
 ITA,Juventus,Udinese,0,W
 ITA,Juventus,Empoli,0,W
 ITA,Juventus,Sassuolo,0,W
 ITA,Juventus,Atalanta,0,W
-ITA,Juventus,AC Milan,0,L
+ITA,Juventus,AC Milan,0,D
 ITA,Juventus,Fiorentina,0,W
 ITA,Juventus,Monza,0,W
 ITA,Juventus,Genoa,0,W
@@ -1704,14 +1704,14 @@ SPA,Las Palmas,Villarreal,1,L
 SPA,Las Palmas,Real Madrid,1,L
 SPA,Las Palmas,Valencia,1,L
 SPA,Las Palmas,Osasuna,1,D
-SPA,Las Palmas,Ath Bilbao,1,D
+SPA,Las Palmas,Ath Bilbao,1,L
 SPA,Las Palmas,Almeria,1,D
-SPA,Las Palmas,Sevilla,1,D
+SPA,Las Palmas,Sevilla,1,L
 SPA,Las Palmas,Girona,1,D
 SPA,Las Palmas,Betis,1,D
 SPA,Las Palmas,Alaves,1,D
-SPA,Las Palmas,Valencia,0,D
-SPA,Las Palmas,Girona,0,D
+SPA,Las Palmas,Valencia,0,L
+SPA,Las Palmas,Girona,0,L
 SPA,Las Palmas,Sevilla,0,L
 SPA,Las Palmas,Real Madrid,0,L
 SPA,Las Palmas,Villarreal,0,L
@@ -1721,9 +1721,9 @@ SPA,Las Palmas,Betis,0,L
 SPA,Las Palmas,Alaves,0,D
 SPA,Las Palmas,Ath Bilbao,0,L
 SPA,Las Palmas,Rayo Vallecano,0,L
-SPA,Las Palmas,Granada CF,0,D
+SPA,Las Palmas,Granada CF,0,L
 SPA,Las Palmas,Atl. Madrid,0,L
-SPA,Las Palmas,Getafe,0,D
+SPA,Las Palmas,Getafe,0,L
 SPA,Las Palmas,Barcelona,0,L
 SPA,Las Palmas,Celta Vigo,0,L
 SPA,Las Palmas,Real Sociedad,0,L
@@ -1731,10 +1731,10 @@ SPA,Las Palmas,Mallorca,0,L
 SPA,Las Palmas,Cadiz CF,0,D
 ITA,Lazio,Genoa,1,W
 ITA,Lazio,Monza,1,W
-ITA,Lazio,Torino,1,D
-ITA,Lazio,Atalanta,1,D
+ITA,Lazio,Torino,1,W
+ITA,Lazio,Atalanta,1,W
 ITA,Lazio,Fiorentina,1,W
-ITA,Lazio,AS Roma,1,D
+ITA,Lazio,AS Roma,1,W
 ITA,Lazio,Cagliari,1,W
 ITA,Lazio,Inter,1,L
 ITA,Lazio,Frosinone,1,W
@@ -1743,7 +1743,7 @@ ITA,Lazio,Napoli,1,L
 ITA,Lazio,Bologna,1,W
 ITA,Lazio,AC Milan,1,L
 ITA,Lazio,Udinese,1,W
-ITA,Lazio,Juventus,1,L
+ITA,Lazio,Juventus,1,D
 ITA,Lazio,Salernitana,1,W
 ITA,Lazio,Verona,1,W
 ITA,Lazio,Empoli,1,W
@@ -1753,19 +1753,19 @@ ITA,Lazio,Napoli,0,L
 ITA,Lazio,Juventus,0,L
 ITA,Lazio,AC Milan,0,L
 ITA,Lazio,Sassuolo,0,L
-ITA,Lazio,Bologna,0,D
-ITA,Lazio,Salernitana,0,D
-ITA,Lazio,Verona,0,D
+ITA,Lazio,Bologna,0,W
+ITA,Lazio,Salernitana,0,W
+ITA,Lazio,Verona,0,W
 ITA,Lazio,Empoli,0,W
-ITA,Lazio,Udinese,0,D
+ITA,Lazio,Udinese,0,W
 ITA,Lazio,Atalanta,0,L
 ITA,Lazio,Cagliari,0,W
-ITA,Lazio,Torino,0,L
+ITA,Lazio,Torino,0,W
 ITA,Lazio,Fiorentina,0,L
-ITA,Lazio,Frosinone,0,D
+ITA,Lazio,Frosinone,0,W
 ITA,Lazio,AS Roma,0,L
-ITA,Lazio,Genoa,0,D
-ITA,Lazio,Monza,0,D
+ITA,Lazio,Genoa,0,W
+ITA,Lazio,Monza,0,W
 ITA,Lazio,Inter,0,L
 FRA,Le Havre,Brest,1,D
 FRA,Le Havre,Lorient,1,D
@@ -1783,7 +1783,7 @@ FRA,Le Havre,Montpellier,1,D
 FRA,Le Havre,Nantes,1,D
 FRA,Le Havre,Metz,1,D
 FRA,Le Havre,Strasbourg,1,D
-FRA,Le Havre,Marseille,1,D
+FRA,Le Havre,Marseille,1,L
 FRA,Le Havre,Montpellier,0,D
 FRA,Le Havre,Rennes,0,L
 FRA,Le Havre,Lyon,0,L
@@ -1792,7 +1792,7 @@ FRA,Le Havre,Metz,0,L
 FRA,Le Havre,Toulouse,0,D
 FRA,Le Havre,Nantes,0,D
 FRA,Le Havre,Strasbourg,0,D
-FRA,Le Havre,Reims,0,D
+FRA,Le Havre,Reims,0,L
 FRA,Le Havre,Lorient,0,D
 FRA,Le Havre,Monaco,0,L
 FRA,Le Havre,Lille,0,L
@@ -1812,14 +1812,14 @@ ITA,Lecce,Bologna,1,D
 ITA,Lecce,Frosinone,1,D
 ITA,Lecce,Cagliari,1,D
 ITA,Lecce,Juventus,1,L
-ITA,Lecce,Fiorentina,1,D
+ITA,Lecce,Fiorentina,1,L
 ITA,Lecce,Inter,1,L
 ITA,Lecce,Verona,1,D
-ITA,Lecce,AS Roma,1,D
+ITA,Lecce,AS Roma,1,L
 ITA,Lecce,Empoli,1,D
 ITA,Lecce,Monza,1,D
 ITA,Lecce,Udinese,1,D
-ITA,Lecce,Atalanta,1,D
+ITA,Lecce,Atalanta,1,L
 ITA,Lecce,Fiorentina,0,L
 ITA,Lecce,Monza,0,D
 ITA,Lecce,Juventus,0,L
@@ -1831,9 +1831,9 @@ ITA,Lecce,Inter,0,L
 ITA,Lecce,Atalanta,0,L
 ITA,Lecce,Lazio,0,L
 ITA,Lecce,Genoa,0,D
-ITA,Lecce,Bologna,0,L
+ITA,Lecce,Bologna,0,D
 ITA,Lecce,Torino,0,L
-ITA,Lecce,Frosinone,0,L
+ITA,Lecce,Frosinone,0,D
 ITA,Lecce,Salernitana,0,D
 ITA,Lecce,AC Milan,0,L
 ITA,Lecce,Sassuolo,0,L
@@ -1868,29 +1868,29 @@ FRA,Lens,Nice,0,W
 FRA,Lens,Toulouse,0,W
 FRA,Lens,Nantes,0,W
 FRA,Lens,Reims,0,W
-FRA,Lens,Lyon,0,L
+FRA,Lens,Lyon,0,D
 FRA,Lens,Lille,0,D
 FRA,Lens,Metz,0,W
-FRA,Lens,Marseille,0,L
+FRA,Lens,Marseille,0,D
 FRA,Lens,Rennes,0,L
 FRA,Lille,Nantes,1,W
 FRA,Lille,Montpellier,1,W
 FRA,Lille,Reims,1,W
 FRA,Lille,Brest,1,W
-FRA,Lille,Monaco,1,D
+FRA,Lille,Monaco,1,W
 FRA,Lille,Toulouse,1,W
 FRA,Lille,Metz,1,W
 FRA,Lille,PSG,1,L
 FRA,Lille,Lorient,1,W
 FRA,Lille,Clermont,1,W
 FRA,Lille,Le Havre,1,W
-FRA,Lille,Rennes,1,D
+FRA,Lille,Rennes,1,W
 FRA,Lille,Lens,1,W
 FRA,Lille,Marseille,1,W
 FRA,Lille,Strasbourg,1,W
 FRA,Lille,Lyon,1,W
 FRA,Lille,Nice,1,W
-FRA,Lille,Nice,0,W
+FRA,Lille,Nice,0,D
 FRA,Lille,Lorient,0,W
 FRA,Lille,Rennes,0,L
 FRA,Lille,Le Havre,0,W
@@ -1915,32 +1915,32 @@ ENG,Liverpool,Nottingham,1,W
 ENG,Liverpool,Brentford,1,W
 ENG,Liverpool,Fulham,1,W
 ENG,Liverpool,Manchester Utd,1,D
-ENG,Liverpool,Arsenal,1,L
+ENG,Liverpool,Arsenal,1,D
 ENG,Liverpool,Newcastle,1,W
 ENG,Liverpool,Chelsea,1,D
 ENG,Liverpool,Burnley,1,W
 ENG,Liverpool,Luton,1,W
-ENG,Liverpool,Manchester City,1,L
+ENG,Liverpool,Manchester City,1,D
 ENG,Liverpool,Brighton,1,W
 ENG,Liverpool,Sheffield Utd,1,W
 ENG,Liverpool,Crystal Palace,1,W
 ENG,Liverpool,Tottenham,1,W
 ENG,Liverpool,Wolves,1,W
-ENG,Liverpool,Chelsea,0,L
-ENG,Liverpool,Newcastle,0,W
+ENG,Liverpool,Chelsea,0,D
+ENG,Liverpool,Newcastle,0,D
 ENG,Liverpool,Wolves,0,W
 ENG,Liverpool,Tottenham,0,W
 ENG,Liverpool,Brighton,0,D
 ENG,Liverpool,Luton,0,W
-ENG,Liverpool,Manchester City,0,L
+ENG,Liverpool,Manchester City,0,D
 ENG,Liverpool,Sheffield Utd,0,W
 ENG,Liverpool,Crystal Palace,0,W
 ENG,Liverpool,Burnley,0,W
 ENG,Liverpool,Bournemouth,0,W
-ENG,Liverpool,Arsenal,0,L
+ENG,Liverpool,Arsenal,0,D
 ENG,Liverpool,Brentford,0,W
 ENG,Liverpool,Nottingham,0,W
-ENG,Liverpool,Manchester Utd,0,L
+ENG,Liverpool,Manchester Utd,0,D
 ENG,Liverpool,Fulham,0,W
 ENG,Liverpool,Everton,0,W
 ENG,Liverpool,West Ham,0,W
@@ -1972,7 +1972,7 @@ FRA,Lorient,Toulouse,0,D
 FRA,Lorient,Brest,0,D
 FRA,Lorient,Lille,0,L
 FRA,Lorient,Metz,0,L
-FRA,Lorient,Strasbourg,0,L
+FRA,Lorient,Strasbourg,0,D
 FRA,Lorient,Rennes,0,L
 FRA,Lorient,Monaco,0,L
 FRA,Lorient,Montpellier,0,L
@@ -1980,29 +1980,29 @@ FRA,Lorient,Nice,0,L
 FRA,Lorient,Lens,0,L
 FRA,Lorient,Marseille,0,L
 ENG,Luton,West Ham,1,L
-ENG,Luton,Wolves,1,D
-ENG,Luton,Burnley,1,D
+ENG,Luton,Wolves,1,L
+ENG,Luton,Burnley,1,L
 ENG,Luton,Tottenham,1,L
 ENG,Luton,Liverpool,1,L
-ENG,Luton,Crystal Palace,1,D
+ENG,Luton,Crystal Palace,1,L
 ENG,Luton,Arsenal,1,L
 ENG,Luton,Manchester City,1,L
 ENG,Luton,Newcastle,1,L
 ENG,Luton,Chelsea,1,L
 ENG,Luton,Brighton,1,L
-ENG,Luton,Sheffield Utd,1,D
+ENG,Luton,Sheffield Utd,1,L
 ENG,Luton,Manchester Utd,1,L
 ENG,Luton,Aston Villa,1,L
 ENG,Luton,Nottingham,1,D
 ENG,Luton,Bournemouth,1,D
 ENG,Luton,Brentford,1,D
-ENG,Luton,Everton,1,D
+ENG,Luton,Everton,1,L
 ENG,Luton,Fulham,1,D
 ENG,Luton,Brighton,0,L
 ENG,Luton,Chelsea,0,L
 ENG,Luton,Fulham,0,L
 ENG,Luton,Everton,0,L
-ENG,Luton,Nottingham,0,D
+ENG,Luton,Nottingham,0,L
 ENG,Luton,Aston Villa,0,L
 ENG,Luton,Manchester Utd,0,L
 ENG,Luton,Brentford,0,L
@@ -2049,7 +2049,7 @@ FRA,Lyon,Lorient,0,W
 FRA,Lyon,Toulouse,0,W
 FRA,Lyon,Nantes,0,W
 FRA,Lyon,PSG,0,L
-FRA,Lyon,Lille,0,D
+FRA,Lyon,Lille,0,L
 FRA,Lyon,Clermont,0,W
 GER,Mainz,Eintracht Frankfurt,1,D
 GER,Mainz,Stuttgart,1,D
@@ -2057,7 +2057,7 @@ GER,Mainz,Bayer Leverkusen,1,L
 GER,Mainz,Bayern Munich,1,L
 GER,Mainz,RB Leipzig,1,L
 GER,Mainz,Freiburg,1,D
-GER,Mainz,Heidenheim,1,W
+GER,Mainz,Heidenheim,1,D
 GER,Mainz,Wolfsburg,1,D
 GER,Mainz,Werder Bremen,1,D
 GER,Mainz,Union Berlin,1,D
@@ -2078,14 +2078,14 @@ GER,Mainz,Hoffenheim,0,D
 GER,Mainz,FC Koln,0,D
 GER,Mainz,Dortmund,0,L
 GER,Mainz,Eintracht Frankfurt,0,L
-GER,Mainz,Stuttgart,0,L
+GER,Mainz,Stuttgart,0,D
 GER,Mainz,Bayer Leverkusen,0,L
 GER,Mainz,Bayern Munich,0,L
 GER,Mainz,RB Leipzig,0,L
 GER,Mainz,Freiburg,0,L
-GER,Mainz,Heidenheim,0,L
-GER,Mainz,Wolfsburg,0,L
-SPA,Mallorca,Villarreal,1,L
+GER,Mainz,Heidenheim,0,D
+GER,Mainz,Wolfsburg,0,D
+SPA,Mallorca,Villarreal,1,D
 SPA,Mallorca,Ath Bilbao,1,D
 SPA,Mallorca,Barcelona,1,L
 SPA,Mallorca,Valencia,1,D
@@ -2118,12 +2118,12 @@ SPA,Mallorca,Villarreal,0,L
 SPA,Mallorca,Ath Bilbao,0,L
 SPA,Mallorca,Alaves,0,D
 SPA,Mallorca,Barcelona,0,L
-SPA,Mallorca,Valencia,0,D
+SPA,Mallorca,Valencia,0,L
 SPA,Mallorca,Sevilla,0,L
 SPA,Mallorca,Cadiz CF,0,D
 SPA,Mallorca,Osasuna,0,D
 SPA,Mallorca,Getafe,0,D
-ENG,Manchester City,Newcastle,1,L
+ENG,Manchester City,Newcastle,1,W
 ENG,Manchester City,Fulham,1,W
 ENG,Manchester City,Nottingham,1,W
 ENG,Manchester City,Brighton,1,W
@@ -2137,7 +2137,7 @@ ENG,Manchester City,Everton,1,W
 ENG,Manchester City,Chelsea,1,W
 ENG,Manchester City,Brentford,1,W
 ENG,Manchester City,Manchester Utd,1,W
-ENG,Manchester City,Arsenal,1,D
+ENG,Manchester City,Arsenal,1,W
 ENG,Manchester City,Aston Villa,1,W
 ENG,Manchester City,Luton,1,W
 ENG,Manchester City,Wolves,1,W
@@ -2147,8 +2147,8 @@ ENG,Manchester City,Sheffield Utd,0,W
 ENG,Manchester City,West Ham,0,W
 ENG,Manchester City,Wolves,0,W
 ENG,Manchester City,Arsenal,0,D
-ENG,Manchester City,Manchester Utd,0,D
-ENG,Manchester City,Chelsea,0,D
+ENG,Manchester City,Manchester Utd,0,W
+ENG,Manchester City,Chelsea,0,W
 ENG,Manchester City,Aston Villa,0,W
 ENG,Manchester City,Luton,0,W
 ENG,Manchester City,Everton,0,W
@@ -2161,33 +2161,33 @@ ENG,Manchester City,Brighton,0,W
 ENG,Manchester City,Nottingham,0,W
 ENG,Manchester City,Fulham,0,W
 ENG,Manchester City,Tottenham,0,W
-ENG,Manchester Utd,Wolves,1,D
+ENG,Manchester Utd,Wolves,1,W
 ENG,Manchester Utd,Nottingham,1,W
 ENG,Manchester Utd,Brighton,1,W
 ENG,Manchester Utd,Crystal Palace,1,W
 ENG,Manchester Utd,Brentford,1,W
-ENG,Manchester Utd,Manchester City,1,L
+ENG,Manchester Utd,Manchester City,1,D
 ENG,Manchester Utd,Luton,1,W
-ENG,Manchester Utd,Chelsea,1,L
+ENG,Manchester Utd,Chelsea,1,W
 ENG,Manchester Utd,Bournemouth,1,W
 ENG,Manchester Utd,Aston Villa,1,W
 ENG,Manchester Utd,Tottenham,1,W
 ENG,Manchester Utd,West Ham,1,W
 ENG,Manchester Utd,Fulham,1,W
 ENG,Manchester Utd,Everton,1,W
-ENG,Manchester Utd,Liverpool,1,L
+ENG,Manchester Utd,Liverpool,1,W
 ENG,Manchester Utd,Sheffield Utd,1,W
 ENG,Manchester Utd,Burnley,1,W
-ENG,Manchester Utd,Arsenal,1,L
+ENG,Manchester Utd,Arsenal,1,D
 ENG,Manchester Utd,Newcastle,1,W
 ENG,Manchester Utd,Tottenham,0,W
-ENG,Manchester Utd,Arsenal,0,L
+ENG,Manchester Utd,Arsenal,0,D
 ENG,Manchester Utd,Burnley,0,W
 ENG,Manchester Utd,Sheffield Utd,0,W
 ENG,Manchester Utd,Fulham,0,W
 ENG,Manchester Utd,Everton,0,W
 ENG,Manchester Utd,Newcastle,0,W
-ENG,Manchester Utd,Liverpool,0,L
+ENG,Manchester Utd,Liverpool,0,D
 ENG,Manchester Utd,West Ham,0,W
 ENG,Manchester Utd,Nottingham,0,W
 ENG,Manchester Utd,Wolves,0,W
@@ -2195,16 +2195,16 @@ ENG,Manchester Utd,Aston Villa,0,W
 ENG,Manchester Utd,Luton,0,W
 ENG,Manchester Utd,Manchester City,0,L
 ENG,Manchester Utd,Brentford,0,W
-ENG,Manchester Utd,Chelsea,0,L
+ENG,Manchester Utd,Chelsea,0,D
 ENG,Manchester Utd,Bournemouth,0,W
 ENG,Manchester Utd,Crystal Palace,0,W
 ENG,Manchester Utd,Brighton,0,W
-FRA,Marseille,Reims,1,D
+FRA,Marseille,Reims,1,W
 FRA,Marseille,Brest,1,W
 FRA,Marseille,Toulouse,1,W
 FRA,Marseille,Le Havre,1,W
 FRA,Marseille,Lille,1,W
-FRA,Marseille,Rennes,1,D
+FRA,Marseille,Rennes,1,W
 FRA,Marseille,Lyon,1,W
 FRA,Marseille,Clermont,1,W
 FRA,Marseille,Strasbourg,1,W
@@ -2220,7 +2220,7 @@ FRA,Marseille,Metz,0,W
 FRA,Marseille,Nantes,0,W
 FRA,Marseille,PSG,0,L
 FRA,Marseille,Monaco,0,L
-FRA,Marseille,Nice,0,D
+FRA,Marseille,Nice,0,L
 FRA,Marseille,Lens,0,L
 FRA,Marseille,Strasbourg,0,W
 FRA,Marseille,Lorient,0,W
@@ -2229,7 +2229,7 @@ FRA,Marseille,Lyon,0,D
 FRA,Marseille,Brest,0,W
 FRA,Marseille,Clermont,0,W
 FRA,Marseille,Rennes,0,L
-FRA,Marseille,Lille,0,D
+FRA,Marseille,Lille,0,L
 FRA,Marseille,Toulouse,0,W
 FRA,Marseille,Reims,0,W
 FRA,Marseille,Le Havre,0,W
@@ -2239,15 +2239,15 @@ FRA,Metz,Strasbourg,1,D
 FRA,Metz,Nice,1,D
 FRA,Metz,Le Havre,1,D
 FRA,Metz,Nantes,1,D
-FRA,Metz,Brest,1,W
+FRA,Metz,Brest,1,D
 FRA,Metz,Montpellier,1,D
 FRA,Metz,Toulouse,1,D
-FRA,Metz,Lorient,1,D
-FRA,Metz,Lyon,1,D
+FRA,Metz,Lorient,1,W
+FRA,Metz,Lyon,1,L
 FRA,Metz,Clermont,1,W
-FRA,Metz,Monaco,1,D
-FRA,Metz,Lens,1,D
-FRA,Metz,Lille,1,D
+FRA,Metz,Monaco,1,L
+FRA,Metz,Lens,1,L
+FRA,Metz,Lille,1,L
 FRA,Metz,Rennes,1,L
 FRA,Metz,PSG,1,L
 FRA,Metz,Rennes,0,L
@@ -2268,7 +2268,7 @@ FRA,Metz,Brest,0,D
 FRA,Metz,Le Havre,0,D
 FRA,Metz,Strasbourg,0,D
 FRA,Monaco,Strasbourg,1,W
-FRA,Monaco,Lens,1,D
+FRA,Monaco,Lens,1,W
 FRA,Monaco,Nice,1,W
 FRA,Monaco,Marseille,1,W
 FRA,Monaco,Metz,1,W
@@ -2295,32 +2295,32 @@ FRA,Monaco,Rennes,0,L
 FRA,Monaco,Toulouse,0,W
 FRA,Monaco,Marseille,0,L
 FRA,Monaco,Nice,0,W
-FRA,Monaco,Lens,0,L
+FRA,Monaco,Lens,0,D
 FRA,Monaco,Strasbourg,0,W
 FRA,Monaco,Metz,0,W
 FRA,Monaco,Brest,0,W
-FRA,Monaco,Lyon,0,D
+FRA,Monaco,Lyon,0,W
 FRA,Monaco,Montpellier,0,W
 FRA,Montpellier,Le Havre,1,D
 FRA,Montpellier,Reims,1,D
 FRA,Montpellier,Rennes,1,L
-FRA,Montpellier,Toulouse,1,W
-FRA,Montpellier,Nice,1,D
+FRA,Montpellier,Toulouse,1,D
+FRA,Montpellier,Nice,1,L
 FRA,Montpellier,Brest,1,W
 FRA,Montpellier,Clermont,1,W
-FRA,Montpellier,Lens,1,D
+FRA,Montpellier,Lens,1,L
 FRA,Montpellier,Marseille,1,L
 FRA,Montpellier,Lille,1,L
 FRA,Montpellier,Lyon,1,L
-FRA,Montpellier,Metz,1,W
-FRA,Montpellier,Strasbourg,1,W
+FRA,Montpellier,Metz,1,D
+FRA,Montpellier,Strasbourg,1,D
 FRA,Montpellier,PSG,1,L
-FRA,Montpellier,Lorient,1,W
-FRA,Montpellier,Nantes,1,W
+FRA,Montpellier,Lorient,1,D
+FRA,Montpellier,Nantes,1,D
 FRA,Montpellier,Monaco,1,L
 FRA,Montpellier,Lyon,0,L
 FRA,Montpellier,Lille,0,L
-FRA,Montpellier,Strasbourg,0,D
+FRA,Montpellier,Strasbourg,0,L
 FRA,Montpellier,Lorient,0,D
 FRA,Montpellier,Nantes,0,D
 FRA,Montpellier,PSG,0,L
@@ -2335,8 +2335,8 @@ FRA,Montpellier,Clermont,0,D
 FRA,Montpellier,Reims,0,D
 FRA,Montpellier,Toulouse,0,D
 FRA,Montpellier,Lens,0,L
-ITA,Monza,Empoli,1,D
-ITA,Monza,Lecce,1,D
+ITA,Monza,Empoli,1,W
+ITA,Monza,Lecce,1,W
 ITA,Monza,Bologna,1,D
 ITA,Monza,Salernitana,1,D
 ITA,Monza,Udinese,1,D
@@ -2346,7 +2346,7 @@ ITA,Monza,Genoa,1,D
 ITA,Monza,Fiorentina,1,L
 ITA,Monza,Inter,1,L
 ITA,Monza,Sassuolo,1,D
-ITA,Monza,Verona,1,D
+ITA,Monza,Verona,1,W
 ITA,Monza,AC Milan,1,L
 ITA,Monza,AS Roma,1,L
 ITA,Monza,Cagliari,1,D
@@ -2364,9 +2364,9 @@ ITA,Monza,Cagliari,0,D
 ITA,Monza,AC Milan,0,L
 ITA,Monza,Napoli,0,L
 ITA,Monza,Frosinone,0,L
-ITA,Monza,Empoli,0,L
+ITA,Monza,Empoli,0,D
 ITA,Monza,Udinese,0,L
-ITA,Monza,Salernitana,0,L
+ITA,Monza,Salernitana,0,D
 ITA,Monza,Genoa,0,D
 ITA,Monza,Torino,0,L
 ITA,Monza,Bologna,0,L
@@ -2382,14 +2382,14 @@ FRA,Nantes,Reims,1,D
 FRA,Nantes,Le Havre,1,D
 FRA,Nantes,Nice,1,D
 FRA,Nantes,Brest,1,D
-FRA,Nantes,Clermont,1,W
+FRA,Nantes,Clermont,1,D
 FRA,Nantes,Lens,1,D
 FRA,Nantes,PSG,1,L
 FRA,Nantes,Metz,1,D
 FRA,Nantes,Strasbourg,1,D
-FRA,Nantes,Lyon,1,D
+FRA,Nantes,Lyon,1,L
 FRA,Nantes,Rennes,1,L
-FRA,Nantes,Lille,1,D
+FRA,Nantes,Lille,1,L
 FRA,Nantes,Lille,0,L
 FRA,Nantes,Clermont,0,D
 FRA,Nantes,Rennes,0,L
@@ -2445,14 +2445,14 @@ ITA,Napoli,Monza,0,W
 ITA,Napoli,Empoli,0,W
 ITA,Napoli,Udinese,0,W
 ITA,Napoli,Fiorentina,0,W
-ENG,Newcastle,Aston Villa,1,D
+ENG,Newcastle,Aston Villa,1,W
 ENG,Newcastle,Liverpool,1,L
 ENG,Newcastle,Brentford,1,W
 ENG,Newcastle,Burnley,1,W
 ENG,Newcastle,Crystal Palace,1,W
-ENG,Newcastle,Arsenal,1,L
-ENG,Newcastle,Chelsea,1,L
-ENG,Newcastle,Manchester Utd,1,L
+ENG,Newcastle,Arsenal,1,D
+ENG,Newcastle,Chelsea,1,D
+ENG,Newcastle,Manchester Utd,1,D
 ENG,Newcastle,Fulham,1,W
 ENG,Newcastle,Nottingham,1,W
 ENG,Newcastle,Manchester City,1,L
@@ -2483,11 +2483,11 @@ ENG,Newcastle,Crystal Palace,0,W
 ENG,Newcastle,Burnley,0,W
 ENG,Newcastle,Manchester Utd,0,L
 ENG,Newcastle,Brentford,0,W
-FRA,Nice,Lille,1,L
-FRA,Nice,Lyon,1,L
+FRA,Nice,Lille,1,D
+FRA,Nice,Lyon,1,D
 FRA,Nice,Strasbourg,1,W
 FRA,Nice,Brest,1,W
-FRA,Nice,Marseille,1,D
+FRA,Nice,Marseille,1,W
 FRA,Nice,Rennes,1,L
 FRA,Nice,Toulouse,1,W
 FRA,Nice,Reims,1,W
@@ -2503,15 +2503,15 @@ FRA,Nice,Le Havre,1,W
 FRA,Nice,Lorient,0,W
 FRA,Nice,PSG,0,L
 FRA,Nice,Monaco,0,L
-FRA,Nice,Metz,0,W
+FRA,Nice,Metz,0,D
 FRA,Nice,Clermont,0,W
 FRA,Nice,Montpellier,0,W
 FRA,Nice,Nantes,0,D
-FRA,Nice,Le Havre,0,W
+FRA,Nice,Le Havre,0,D
 FRA,Nice,Rennes,0,L
-FRA,Nice,Brest,0,W
+FRA,Nice,Brest,0,D
 FRA,Nice,Lyon,0,L
-FRA,Nice,Toulouse,0,W
+FRA,Nice,Toulouse,0,D
 FRA,Nice,Lens,0,L
 FRA,Nice,Reims,0,D
 FRA,Nice,Marseille,0,L
@@ -2520,7 +2520,7 @@ FRA,Nice,Lille,0,L
 ENG,Nottingham,Sheffield Utd,1,D
 ENG,Nottingham,Burnley,1,D
 ENG,Nottingham,Brentford,1,D
-ENG,Nottingham,Luton,1,W
+ENG,Nottingham,Luton,1,D
 ENG,Nottingham,Aston Villa,1,D
 ENG,Nottingham,Brighton,1,L
 ENG,Nottingham,Everton,1,D
@@ -2548,7 +2548,7 @@ ENG,Nottingham,Wolves,0,D
 ENG,Nottingham,Newcastle,0,L
 ENG,Nottingham,Brentford,0,D
 ENG,Nottingham,Bournemouth,0,D
-ENG,Nottingham,Aston Villa,0,D
+ENG,Nottingham,Aston Villa,0,L
 ENG,Nottingham,Brighton,0,L
 ENG,Nottingham,Luton,0,D
 ENG,Nottingham,Tottenham,0,L
@@ -2562,9 +2562,9 @@ SPA,Osasuna,Atl. Madrid,1,L
 SPA,Osasuna,Granada CF,1,D
 SPA,Osasuna,Girona,1,D
 SPA,Osasuna,Las Palmas,1,D
-SPA,Osasuna,Real Sociedad,1,L
+SPA,Osasuna,Real Sociedad,1,D
 SPA,Osasuna,Rayo Vallecano,1,D
-SPA,Osasuna,Almeria,1,D
+SPA,Osasuna,Almeria,1,W
 SPA,Osasuna,Getafe,1,D
 SPA,Osasuna,Celta Vigo,1,D
 SPA,Osasuna,Cadiz CF,1,D
@@ -2579,7 +2579,7 @@ SPA,Osasuna,Valencia,0,D
 SPA,Osasuna,Getafe,0,D
 SPA,Osasuna,Alaves,0,D
 SPA,Osasuna,Real Madrid,0,L
-SPA,Osasuna,Betis,0,D
+SPA,Osasuna,Betis,0,L
 SPA,Osasuna,Villarreal,0,L
 SPA,Osasuna,Cadiz CF,0,D
 SPA,Osasuna,Mallorca,0,D
@@ -2587,7 +2587,7 @@ SPA,Osasuna,Sevilla,0,D
 SPA,Osasuna,Barcelona,0,L
 SPA,Osasuna,Real Sociedad,0,L
 SPA,Osasuna,Las Palmas,0,D
-SPA,Osasuna,Girona,0,L
+SPA,Osasuna,Girona,0,D
 SPA,Osasuna,Almeria,0,D
 SPA,Osasuna,Rayo Vallecano,0,D
 SPA,Osasuna,Granada CF,0,D
@@ -2642,9 +2642,9 @@ GER,RB Leipzig,B. Monchengladbach,1,W
 GER,RB Leipzig,Darmstadt,1,W
 GER,RB Leipzig,Mainz,1,W
 GER,RB Leipzig,Wolfsburg,1,W
-GER,RB Leipzig,Dortmund,1,L
+GER,RB Leipzig,Dortmund,1,D
 GER,RB Leipzig,Werder Bremen,1,W
-GER,RB Leipzig,Bayer Leverkusen,0,D
+GER,RB Leipzig,Bayer Leverkusen,0,W
 GER,RB Leipzig,Union Berlin,0,W
 GER,RB Leipzig,B. Monchengladbach,0,W
 GER,RB Leipzig,Darmstadt,0,W
@@ -2682,7 +2682,7 @@ SPA,Rayo Vallecano,Granada CF,1,D
 SPA,Rayo Vallecano,Ath Bilbao,1,D
 SPA,Rayo Vallecano,Almeria,0,D
 SPA,Rayo Vallecano,Granada CF,0,D
-SPA,Rayo Vallecano,Betis,0,D
+SPA,Rayo Vallecano,Betis,0,L
 SPA,Rayo Vallecano,Cadiz CF,0,D
 SPA,Rayo Vallecano,Sevilla,0,L
 SPA,Rayo Vallecano,Las Palmas,0,D
@@ -2692,7 +2692,7 @@ SPA,Rayo Vallecano,Osasuna,0,L
 SPA,Rayo Vallecano,Getafe,0,D
 SPA,Rayo Vallecano,Real Sociedad,0,L
 SPA,Rayo Vallecano,Atl. Madrid,0,L
-SPA,Rayo Vallecano,Mallorca,0,D
+SPA,Rayo Vallecano,Mallorca,0,L
 SPA,Rayo Vallecano,Girona,0,L
 SPA,Rayo Vallecano,Alaves,0,D
 SPA,Rayo Vallecano,Celta Vigo,0,D
@@ -2737,7 +2737,7 @@ SPA,Real Madrid,Mallorca,0,W
 SPA,Real Madrid,Real Sociedad,0,W
 SPA,Real Madrid,Granada CF,0,W
 SPA,Real Madrid,Villarreal,0,W
-SPA,Real Sociedad,Girona,1,D
+SPA,Real Sociedad,Girona,1,W
 SPA,Real Sociedad,Celta Vigo,1,W
 SPA,Real Sociedad,Granada CF,1,W
 SPA,Real Sociedad,Getafe,1,W
@@ -2749,13 +2749,13 @@ SPA,Real Sociedad,Betis,1,W
 SPA,Real Sociedad,Alaves,1,W
 SPA,Real Sociedad,Rayo Vallecano,1,W
 SPA,Real Sociedad,Osasuna,1,W
-SPA,Real Sociedad,Villarreal,1,D
+SPA,Real Sociedad,Villarreal,1,W
 SPA,Real Sociedad,Cadiz CF,1,W
 SPA,Real Sociedad,Almeria,1,W
 SPA,Real Sociedad,Real Madrid,1,L
 SPA,Real Sociedad,Las Palmas,1,W
 SPA,Real Sociedad,Valencia,1,W
-SPA,Real Sociedad,Atl. Madrid,1,L
+SPA,Real Sociedad,Atl. Madrid,1,W
 SPA,Real Sociedad,Las Palmas,0,W
 SPA,Real Sociedad,Real Madrid,0,L
 SPA,Real Sociedad,Valencia,0,W
@@ -2765,29 +2765,29 @@ SPA,Real Sociedad,Almeria,0,W
 SPA,Real Sociedad,Osasuna,0,W
 SPA,Real Sociedad,Villarreal,0,D
 SPA,Real Sociedad,Cadiz CF,0,W
-SPA,Real Sociedad,Ath Bilbao,0,D
+SPA,Real Sociedad,Ath Bilbao,0,W
 SPA,Real Sociedad,Celta Vigo,0,W
 SPA,Real Sociedad,Girona,0,W
 SPA,Real Sociedad,Mallorca,0,W
-SPA,Real Sociedad,Sevilla,0,D
+SPA,Real Sociedad,Sevilla,0,W
 SPA,Real Sociedad,Granada CF,0,W
 SPA,Real Sociedad,Alaves,0,W
 SPA,Real Sociedad,Getafe,0,W
 SPA,Real Sociedad,Barcelona,0,L
 SPA,Real Sociedad,Betis,0,D
 FRA,Reims,Clermont,1,W
-FRA,Reims,Brest,1,D
-FRA,Reims,Lyon,1,D
+FRA,Reims,Brest,1,W
+FRA,Reims,Lyon,1,L
 FRA,Reims,Monaco,1,L
-FRA,Reims,Lorient,1,W
+FRA,Reims,Lorient,1,D
 FRA,Reims,PSG,1,L
-FRA,Reims,Strasbourg,1,W
-FRA,Reims,Le Havre,1,W
-FRA,Reims,Nantes,1,W
-FRA,Reims,Toulouse,1,W
-FRA,Reims,Lens,1,D
-FRA,Reims,Lille,1,D
-FRA,Reims,Metz,1,W
+FRA,Reims,Strasbourg,1,D
+FRA,Reims,Le Havre,1,D
+FRA,Reims,Nantes,1,D
+FRA,Reims,Toulouse,1,D
+FRA,Reims,Lens,1,L
+FRA,Reims,Lille,1,L
+FRA,Reims,Metz,1,D
 FRA,Reims,Nice,1,D
 FRA,Reims,Montpellier,1,W
 FRA,Reims,Marseille,1,L
@@ -2831,15 +2831,15 @@ FRA,Rennes,Brest,0,W
 FRA,Rennes,Montpellier,0,W
 FRA,Rennes,Lorient,0,W
 FRA,Rennes,Nice,0,W
-FRA,Rennes,Marseille,0,D
+FRA,Rennes,Marseille,0,W
 FRA,Rennes,Toulouse,0,W
 FRA,Rennes,Clermont,0,W
 FRA,Rennes,Lyon,0,W
 FRA,Rennes,Le Havre,0,W
 FRA,Rennes,PSG,0,L
-FRA,Rennes,Lille,0,W
+FRA,Rennes,Lille,0,D
 FRA,Rennes,Strasbourg,0,W
-FRA,Rennes,Monaco,0,D
+FRA,Rennes,Monaco,0,W
 FRA,Rennes,Nantes,0,W
 FRA,Rennes,Metz,0,W
 FRA,Rennes,Reims,0,W
@@ -2859,7 +2859,7 @@ ITA,Salernitana,Empoli,1,D
 ITA,Salernitana,Monza,1,D
 ITA,Salernitana,Lecce,1,D
 ITA,Salernitana,Sassuolo,1,D
-ITA,Salernitana,Fiorentina,1,D
+ITA,Salernitana,Fiorentina,1,L
 ITA,Salernitana,Atalanta,1,L
 ITA,Salernitana,Verona,1,D
 ITA,Salernitana,AS Roma,0,L
@@ -2870,32 +2870,32 @@ ITA,Salernitana,Genoa,0,D
 ITA,Salernitana,Sassuolo,0,L
 ITA,Salernitana,Fiorentina,0,L
 ITA,Salernitana,Atalanta,0,L
-ITA,Salernitana,Verona,0,L
+ITA,Salernitana,Verona,0,D
 ITA,Salernitana,Napoli,0,L
 ITA,Salernitana,Torino,0,L
 ITA,Salernitana,Inter,0,L
 ITA,Salernitana,Udinese,0,L
-ITA,Salernitana,Cagliari,0,L
-ITA,Salernitana,Bologna,0,L
+ITA,Salernitana,Cagliari,0,D
+ITA,Salernitana,Bologna,0,D
 ITA,Salernitana,Lazio,0,L
 ITA,Salernitana,Frosinone,0,L
 ITA,Salernitana,Juventus,0,L
 ITA,Salernitana,AC Milan,0,L
 ITA,Sassuolo,Atalanta,1,L
-ITA,Sassuolo,Verona,1,D
+ITA,Sassuolo,Verona,1,W
 ITA,Sassuolo,Juventus,1,L
-ITA,Sassuolo,Monza,1,D
+ITA,Sassuolo,Monza,1,W
 ITA,Sassuolo,Lazio,1,D
-ITA,Sassuolo,Bologna,1,D
-ITA,Sassuolo,Salernitana,1,D
+ITA,Sassuolo,Bologna,1,W
+ITA,Sassuolo,Salernitana,1,W
 ITA,Sassuolo,AS Roma,1,D
 ITA,Sassuolo,Genoa,1,W
 ITA,Sassuolo,Fiorentina,1,D
-ITA,Sassuolo,Torino,1,D
+ITA,Sassuolo,Torino,1,W
 ITA,Sassuolo,Empoli,1,W
 ITA,Sassuolo,Napoli,1,L
 ITA,Sassuolo,Frosinone,1,W
-ITA,Sassuolo,Udinese,1,D
+ITA,Sassuolo,Udinese,1,W
 ITA,Sassuolo,AC Milan,1,L
 ITA,Sassuolo,Lecce,1,W
 ITA,Sassuolo,Inter,1,L
@@ -2910,8 +2910,8 @@ ITA,Sassuolo,Cagliari,0,D
 ITA,Sassuolo,Udinese,0,L
 ITA,Sassuolo,AC Milan,0,L
 ITA,Sassuolo,Juventus,0,L
-ITA,Sassuolo,Monza,0,L
-ITA,Sassuolo,Bologna,0,L
+ITA,Sassuolo,Monza,0,D
+ITA,Sassuolo,Bologna,0,D
 ITA,Sassuolo,Atalanta,0,L
 ITA,Sassuolo,Verona,0,D
 ITA,Sassuolo,AS Roma,0,L
@@ -2920,7 +2920,7 @@ ITA,Sassuolo,Fiorentina,0,L
 ITA,Sassuolo,Genoa,0,D
 ITA,Sassuolo,Lazio,0,L
 SPA,Sevilla,Valencia,1,D
-SPA,Sevilla,Girona,1,D
+SPA,Sevilla,Girona,1,W
 SPA,Sevilla,Las Palmas,1,W
 SPA,Sevilla,Almeria,1,W
 SPA,Sevilla,Rayo Vallecano,1,W
@@ -2928,17 +2928,17 @@ SPA,Sevilla,Real Madrid,1,L
 SPA,Sevilla,Betis,1,W
 SPA,Sevilla,Villarreal,1,D
 SPA,Sevilla,Getafe,1,W
-SPA,Sevilla,Ath Bilbao,1,D
+SPA,Sevilla,Ath Bilbao,1,W
 SPA,Sevilla,Alaves,1,W
 SPA,Sevilla,Osasuna,1,W
 SPA,Sevilla,Atl. Madrid,1,L
-SPA,Sevilla,Real Sociedad,1,D
+SPA,Sevilla,Real Sociedad,1,L
 SPA,Sevilla,Celta Vigo,1,W
 SPA,Sevilla,Mallorca,1,W
 SPA,Sevilla,Granada CF,1,W
 SPA,Sevilla,Cadiz CF,1,W
 SPA,Sevilla,Barcelona,1,L
-SPA,Sevilla,Alaves,0,W
+SPA,Sevilla,Alaves,0,D
 SPA,Sevilla,Osasuna,0,D
 SPA,Sevilla,Barcelona,0,L
 SPA,Sevilla,Cadiz CF,0,D
@@ -2956,30 +2956,30 @@ SPA,Sevilla,Getafe,0,D
 SPA,Sevilla,Las Palmas,0,D
 SPA,Sevilla,Betis,0,D
 SPA,Sevilla,Villarreal,0,L
-SPA,Sevilla,Ath Bilbao,0,D
+SPA,Sevilla,Ath Bilbao,0,L
 ENG,Sheffield Utd,Crystal Palace,1,D
 ENG,Sheffield Utd,Manchester City,1,L
-ENG,Sheffield Utd,Everton,1,D
+ENG,Sheffield Utd,Everton,1,L
 ENG,Sheffield Utd,Newcastle,1,L
 ENG,Sheffield Utd,Manchester Utd,1,L
-ENG,Sheffield Utd,Wolves,1,D
+ENG,Sheffield Utd,Wolves,1,L
 ENG,Sheffield Utd,Bournemouth,1,D
 ENG,Sheffield Utd,Liverpool,1,L
-ENG,Sheffield Utd,Brentford,1,D
-ENG,Sheffield Utd,Luton,1,W
+ENG,Sheffield Utd,Brentford,1,L
+ENG,Sheffield Utd,Luton,1,D
 ENG,Sheffield Utd,West Ham,1,D
-ENG,Sheffield Utd,Aston Villa,1,D
+ENG,Sheffield Utd,Aston Villa,1,L
 ENG,Sheffield Utd,Brighton,1,L
 ENG,Sheffield Utd,Arsenal,1,L
-ENG,Sheffield Utd,Fulham,1,D
+ENG,Sheffield Utd,Fulham,1,L
 ENG,Sheffield Utd,Chelsea,1,L
-ENG,Sheffield Utd,Burnley,1,D
+ENG,Sheffield Utd,Burnley,1,L
 ENG,Sheffield Utd,Nottingham,1,D
 ENG,Sheffield Utd,Tottenham,1,L
-ENG,Sheffield Utd,Nottingham,0,D
+ENG,Sheffield Utd,Nottingham,0,L
 ENG,Sheffield Utd,Tottenham,0,L
 ENG,Sheffield Utd,West Ham,0,L
-ENG,Sheffield Utd,Fulham,0,D
+ENG,Sheffield Utd,Fulham,0,L
 ENG,Sheffield Utd,Arsenal,0,L
 ENG,Sheffield Utd,Brighton,0,L
 ENG,Sheffield Utd,Burnley,0,L
@@ -3032,16 +3032,16 @@ FRA,Strasbourg,Lyon,0,L
 GER,Stuttgart,Bochum,1,W
 GER,Stuttgart,Freiburg,1,D
 GER,Stuttgart,Darmstadt,1,W
-GER,Stuttgart,Wolfsburg,1,D
-GER,Stuttgart,Hoffenheim,1,D
+GER,Stuttgart,Wolfsburg,1,W
+GER,Stuttgart,Hoffenheim,1,W
 GER,Stuttgart,Dortmund,1,L
 GER,Stuttgart,Werder Bremen,1,W
 GER,Stuttgart,Bayer Leverkusen,1,L
 GER,Stuttgart,Augsburg,1,W
 GER,Stuttgart,RB Leipzig,1,L
-GER,Stuttgart,Mainz,1,D
+GER,Stuttgart,Mainz,1,W
 GER,Stuttgart,FC Koln,1,W
-GER,Stuttgart,Union Berlin,1,D
+GER,Stuttgart,Union Berlin,1,W
 GER,Stuttgart,Heidenheim,1,W
 GER,Stuttgart,Eintracht Frankfurt,1,D
 GER,Stuttgart,Bayern Munich,1,L
@@ -3055,18 +3055,18 @@ GER,Stuttgart,Eintracht Frankfurt,0,L
 GER,Stuttgart,Bayern Munich,0,L
 GER,Stuttgart,B. Monchengladbach,0,L
 GER,Stuttgart,Bochum,0,D
-GER,Stuttgart,Freiburg,0,L
+GER,Stuttgart,Freiburg,0,D
 GER,Stuttgart,Darmstadt,0,D
-GER,Stuttgart,Wolfsburg,0,L
+GER,Stuttgart,Wolfsburg,0,D
 GER,Stuttgart,Hoffenheim,0,D
 GER,Stuttgart,Dortmund,0,L
-GER,Stuttgart,Werder Bremen,0,L
+GER,Stuttgart,Werder Bremen,0,D
 GER,Stuttgart,Bayer Leverkusen,0,L
 GER,Stuttgart,Augsburg,0,D
 ITA,Torino,Cagliari,1,W
 ITA,Torino,Genoa,1,W
 ITA,Torino,AS Roma,1,D
-ITA,Torino,Verona,1,D
+ITA,Torino,Verona,1,W
 ITA,Torino,Inter,1,L
 ITA,Torino,Sassuolo,1,W
 ITA,Torino,Atalanta,1,D
@@ -3075,10 +3075,10 @@ ITA,Torino,Udinese,1,W
 ITA,Torino,Napoli,1,L
 ITA,Torino,Salernitana,1,W
 ITA,Torino,Lecce,1,W
-ITA,Torino,Lazio,1,D
+ITA,Torino,Lazio,1,W
 ITA,Torino,Fiorentina,1,D
 ITA,Torino,Monza,1,W
-ITA,Torino,Juventus,1,D
+ITA,Torino,Juventus,1,L
 ITA,Torino,Frosinone,1,W
 ITA,Torino,Bologna,1,W
 ITA,Torino,AC Milan,1,L
@@ -3092,20 +3092,20 @@ ITA,Torino,Bologna,0,D
 ITA,Torino,Frosinone,0,D
 ITA,Torino,Fiorentina,0,L
 ITA,Torino,Genoa,0,D
-ITA,Torino,Cagliari,0,D
+ITA,Torino,Cagliari,0,W
 ITA,Torino,Sassuolo,0,D
 ITA,Torino,AS Roma,0,L
 ITA,Torino,Napoli,0,L
 ITA,Torino,Udinese,0,L
-ITA,Torino,Empoli,0,D
+ITA,Torino,Empoli,0,W
 ITA,Torino,Inter,0,L
 ITA,Torino,Verona,0,D
 ITA,Torino,Atalanta,0,L
 ENG,Tottenham,Manchester Utd,1,L
 ENG,Tottenham,Sheffield Utd,1,W
-ENG,Tottenham,Liverpool,1,L
+ENG,Tottenham,Liverpool,1,D
 ENG,Tottenham,Fulham,1,W
-ENG,Tottenham,Chelsea,1,L
+ENG,Tottenham,Chelsea,1,D
 ENG,Tottenham,Aston Villa,1,W
 ENG,Tottenham,West Ham,1,W
 ENG,Tottenham,Newcastle,1,W
@@ -3129,18 +3129,18 @@ ENG,Tottenham,Crystal Palace,0,W
 ENG,Tottenham,Wolves,0,W
 ENG,Tottenham,Manchester City,0,L
 ENG,Tottenham,Nottingham,0,W
-ENG,Tottenham,Brighton,0,L
+ENG,Tottenham,Brighton,0,D
 ENG,Tottenham,Manchester Utd,0,L
 ENG,Tottenham,Everton,0,W
 ENG,Tottenham,Aston Villa,0,W
 ENG,Tottenham,Fulham,0,W
 ENG,Tottenham,West Ham,0,W
-ENG,Tottenham,Newcastle,0,L
+ENG,Tottenham,Newcastle,0,D
 ENG,Tottenham,Chelsea,0,L
 ENG,Tottenham,Liverpool,0,L
 ENG,Tottenham,Sheffield Utd,0,W
 FRA,Toulouse,PSG,1,L
-FRA,Toulouse,Clermont,1,W
+FRA,Toulouse,Clermont,1,D
 FRA,Toulouse,Metz,1,D
 FRA,Toulouse,Reims,1,D
 FRA,Toulouse,Le Havre,1,D
@@ -3150,12 +3150,12 @@ FRA,Toulouse,Monaco,1,L
 FRA,Toulouse,Lens,1,L
 FRA,Toulouse,Nantes,1,D
 FRA,Toulouse,Lille,1,L
-FRA,Toulouse,Nice,1,D
+FRA,Toulouse,Nice,1,L
 FRA,Toulouse,Lyon,1,L
 FRA,Toulouse,Strasbourg,1,D
 FRA,Toulouse,Marseille,1,L
 FRA,Toulouse,Montpellier,1,D
-FRA,Toulouse,Brest,1,W
+FRA,Toulouse,Brest,1,D
 FRA,Toulouse,Nantes,0,D
 FRA,Toulouse,Strasbourg,0,D
 FRA,Toulouse,Marseille,0,L
@@ -3174,20 +3174,20 @@ FRA,Toulouse,Rennes,0,L
 FRA,Toulouse,Lorient,0,D
 FRA,Toulouse,PSG,0,L
 ITA,Udinese,Juventus,1,L
-ITA,Udinese,Frosinone,1,W
+ITA,Udinese,Frosinone,1,D
 ITA,Udinese,Fiorentina,1,L
 ITA,Udinese,Genoa,1,W
 ITA,Udinese,Lecce,1,W
-ITA,Udinese,Atalanta,1,D
+ITA,Udinese,Atalanta,1,W
 ITA,Udinese,Verona,1,W
 ITA,Udinese,Sassuolo,1,W
 ITA,Udinese,Bologna,1,W
-ITA,Udinese,Lazio,1,D
+ITA,Udinese,Lazio,1,W
 ITA,Udinese,AC Milan,1,L
 ITA,Udinese,Monza,1,W
 ITA,Udinese,Cagliari,1,W
 ITA,Udinese,Salernitana,1,W
-ITA,Udinese,Torino,1,D
+ITA,Udinese,Torino,1,W
 ITA,Udinese,Inter,1,L
 ITA,Udinese,AS Roma,1,L
 ITA,Udinese,Napoli,1,L
@@ -3195,8 +3195,8 @@ ITA,Udinese,Empoli,1,W
 ITA,Udinese,Salernitana,0,W
 ITA,Udinese,Cagliari,0,W
 ITA,Udinese,Napoli,0,L
-ITA,Udinese,Empoli,0,W
-ITA,Udinese,Monza,0,D
+ITA,Udinese,Empoli,0,D
+ITA,Udinese,Monza,0,W
 ITA,Udinese,AC Milan,0,L
 ITA,Udinese,AS Roma,0,L
 ITA,Udinese,Inter,0,L
@@ -3204,7 +3204,7 @@ ITA,Udinese,Torino,0,L
 ITA,Udinese,Fiorentina,0,L
 ITA,Udinese,Atalanta,0,L
 ITA,Udinese,Juventus,0,L
-ITA,Udinese,Genoa,0,L
+ITA,Udinese,Genoa,0,D
 ITA,Udinese,Lazio,0,L
 ITA,Udinese,Sassuolo,0,L
 ITA,Udinese,Verona,0,D
@@ -3217,18 +3217,18 @@ GER,Union Berlin,Hoffenheim,1,D
 GER,Union Berlin,Stuttgart,1,D
 GER,Union Berlin,Eintracht Frankfurt,1,D
 GER,Union Berlin,Augsburg,1,W
-GER,Union Berlin,B. Monchengladbach,1,D
+GER,Union Berlin,B. Monchengladbach,1,W
 GER,Union Berlin,FC Koln,1,W
 GER,Union Berlin,Darmstadt,1,W
-GER,Union Berlin,Wolfsburg,1,D
+GER,Union Berlin,Wolfsburg,1,W
 GER,Union Berlin,Heidenheim,1,W
 GER,Union Berlin,Dortmund,1,L
 GER,Union Berlin,Werder Bremen,1,W
-GER,Union Berlin,Bayer Leverkusen,1,L
+GER,Union Berlin,Bayer Leverkusen,1,D
 GER,Union Berlin,Bayern Munich,1,L
 GER,Union Berlin,Bochum,1,W
 GER,Union Berlin,Freiburg,1,D
-GER,Union Berlin,Darmstadt,0,W
+GER,Union Berlin,Darmstadt,0,D
 GER,Union Berlin,Wolfsburg,0,D
 GER,Union Berlin,Heidenheim,0,D
 GER,Union Berlin,Dortmund,0,L
@@ -3246,22 +3246,22 @@ GER,Union Berlin,Augsburg,0,D
 GER,Union Berlin,B. Monchengladbach,0,D
 GER,Union Berlin,FC Koln,0,D
 SPA,Valencia,Las Palmas,1,W
-SPA,Valencia,Osasuna,1,D
+SPA,Valencia,Osasuna,1,W
 SPA,Valencia,Atl. Madrid,1,L
 SPA,Valencia,Real Sociedad,1,L
-SPA,Valencia,Cadiz CF,1,W
-SPA,Valencia,Granada CF,1,W
+SPA,Valencia,Cadiz CF,1,D
+SPA,Valencia,Granada CF,1,D
 SPA,Valencia,Celta Vigo,1,D
 SPA,Valencia,Barcelona,1,L
-SPA,Valencia,Villarreal,1,D
+SPA,Valencia,Villarreal,1,L
 SPA,Valencia,Ath Bilbao,1,D
 SPA,Valencia,Almeria,1,W
 SPA,Valencia,Sevilla,1,D
 SPA,Valencia,Real Madrid,1,L
-SPA,Valencia,Getafe,1,W
+SPA,Valencia,Getafe,1,D
 SPA,Valencia,Mallorca,1,D
 SPA,Valencia,Betis,1,D
-SPA,Valencia,Alaves,1,W
+SPA,Valencia,Alaves,1,D
 SPA,Valencia,Rayo Vallecano,1,D
 SPA,Valencia,Girona,1,D
 SPA,Valencia,Sevilla,0,D
@@ -3269,7 +3269,7 @@ SPA,Valencia,Alaves,0,D
 SPA,Valencia,Almeria,0,D
 SPA,Valencia,Betis,0,D
 SPA,Valencia,Mallorca,0,D
-SPA,Valencia,Ath Bilbao,0,D
+SPA,Valencia,Ath Bilbao,0,L
 SPA,Valencia,Real Madrid,0,L
 SPA,Valencia,Girona,0,L
 SPA,Valencia,Getafe,0,D
@@ -3305,7 +3305,7 @@ ITA,Verona,Inter,1,L
 ITA,Verona,Empoli,0,D
 ITA,Verona,Sassuolo,0,D
 ITA,Verona,AC Milan,0,L
-ITA,Verona,Torino,0,D
+ITA,Verona,Torino,0,L
 ITA,Verona,Frosinone,0,D
 ITA,Verona,Juventus,0,L
 ITA,Verona,Genoa,0,D
@@ -3319,9 +3319,9 @@ ITA,Verona,Bologna,0,D
 ITA,Verona,Lecce,0,D
 ITA,Verona,Cagliari,0,D
 ITA,Verona,Atalanta,0,L
-ITA,Verona,Lazio,0,D
+ITA,Verona,Lazio,0,L
 ITA,Verona,Salernitana,0,D
-SPA,Villarreal,Betis,1,D
+SPA,Villarreal,Betis,1,W
 SPA,Villarreal,Barcelona,1,L
 SPA,Villarreal,Almeria,1,W
 SPA,Villarreal,Girona,1,W
@@ -3329,7 +3329,7 @@ SPA,Villarreal,Las Palmas,1,W
 SPA,Villarreal,Alaves,1,W
 SPA,Villarreal,Ath Bilbao,1,W
 SPA,Villarreal,Osasuna,1,W
-SPA,Villarreal,Real Sociedad,1,D
+SPA,Villarreal,Real Sociedad,1,W
 SPA,Villarreal,Celta Vigo,1,W
 SPA,Villarreal,Mallorca,1,W
 SPA,Villarreal,Cadiz CF,1,W
@@ -3346,7 +3346,7 @@ SPA,Villarreal,Rayo Vallecano,0,W
 SPA,Villarreal,Getafe,0,W
 SPA,Villarreal,Granada CF,0,W
 SPA,Villarreal,Atl. Madrid,0,L
-SPA,Villarreal,Sevilla,0,D
+SPA,Villarreal,Sevilla,0,W
 SPA,Villarreal,Real Madrid,0,L
 SPA,Villarreal,Valencia,0,W
 SPA,Villarreal,Las Palmas,0,W
@@ -3354,7 +3354,7 @@ SPA,Villarreal,Barcelona,0,L
 SPA,Villarreal,Alaves,0,W
 SPA,Villarreal,Real Sociedad,0,L
 SPA,Villarreal,Betis,0,W
-SPA,Villarreal,Ath Bilbao,0,D
+SPA,Villarreal,Ath Bilbao,0,W
 SPA,Villarreal,Almeria,0,W
 SPA,Villarreal,Celta Vigo,0,W
 SPA,Villarreal,Girona,0,W
@@ -3372,10 +3372,10 @@ GER,Werder Bremen,Freiburg,1,D
 GER,Werder Bremen,Heidenheim,1,D
 GER,Werder Bremen,Darmstadt,1,D
 GER,Werder Bremen,Dortmund,1,L
-GER,Werder Bremen,Wolfsburg,1,L
-GER,Werder Bremen,Stuttgart,1,L
+GER,Werder Bremen,Wolfsburg,1,D
+GER,Werder Bremen,Stuttgart,1,D
 GER,Werder Bremen,B. Monchengladbach,1,D
-GER,Werder Bremen,Bochum,1,D
+GER,Werder Bremen,Bochum,1,W
 GER,Werder Bremen,Freiburg,0,D
 GER,Werder Bremen,Heidenheim,0,D
 GER,Werder Bremen,Darmstadt,0,D
@@ -3386,9 +3386,9 @@ GER,Werder Bremen,B. Monchengladbach,0,L
 GER,Werder Bremen,Bochum,0,D
 GER,Werder Bremen,Bayern Munich,0,L
 GER,Werder Bremen,Mainz,0,L
-GER,Werder Bremen,FC Koln,0,L
-GER,Werder Bremen,Hoffenheim,0,L
-GER,Werder Bremen,Union Berlin,0,L
+GER,Werder Bremen,FC Koln,0,D
+GER,Werder Bremen,Hoffenheim,0,D
+GER,Werder Bremen,Union Berlin,0,D
 GER,Werder Bremen,Eintracht Frankfurt,0,L
 GER,Werder Bremen,Bayer Leverkusen,0,L
 GER,Werder Bremen,Augsburg,0,D
@@ -3396,33 +3396,33 @@ GER,Werder Bremen,RB Leipzig,0,L
 ENG,West Ham,Chelsea,1,L
 ENG,West Ham,Manchester City,1,L
 ENG,West Ham,Sheffield Utd,1,W
-ENG,West Ham,Newcastle,1,L
+ENG,West Ham,Newcastle,1,D
 ENG,West Ham,Everton,1,W
 ENG,West Ham,Nottingham,1,W
 ENG,West Ham,Crystal Palace,1,W
-ENG,West Ham,Wolves,1,D
+ENG,West Ham,Wolves,1,W
 ENG,West Ham,Manchester Utd,1,L
-ENG,West Ham,Brighton,1,D
+ENG,West Ham,Brighton,1,L
 ENG,West Ham,Bournemouth,1,W
 ENG,West Ham,Arsenal,1,L
 ENG,West Ham,Brentford,1,W
 ENG,West Ham,Burnley,1,W
-ENG,West Ham,Aston Villa,1,D
+ENG,West Ham,Aston Villa,1,W
 ENG,West Ham,Tottenham,1,D
 ENG,West Ham,Fulham,1,W
 ENG,West Ham,Liverpool,1,L
 ENG,West Ham,Luton,1,W
 ENG,West Ham,Bournemouth,0,W
-ENG,West Ham,Brighton,0,D
+ENG,West Ham,Brighton,0,L
 ENG,West Ham,Luton,0,W
 ENG,West Ham,Liverpool,0,L
-ENG,West Ham,Aston Villa,0,D
+ENG,West Ham,Aston Villa,0,L
 ENG,West Ham,Brentford,0,D
 ENG,West Ham,Burnley,0,D
 ENG,West Ham,Tottenham,0,L
 ENG,West Ham,Fulham,0,D
 ENG,West Ham,Arsenal,0,L
-ENG,West Ham,Sheffield Utd,0,W
+ENG,West Ham,Sheffield Utd,0,D
 ENG,West Ham,Manchester Utd,0,L
 ENG,West Ham,Nottingham,0,D
 ENG,West Ham,Everton,0,D
@@ -3432,12 +3432,12 @@ ENG,West Ham,Crystal Palace,0,D
 ENG,West Ham,Chelsea,0,L
 ENG,West Ham,Manchester City,0,L
 GER,Wolfsburg,Heidenheim,1,W
-GER,Wolfsburg,Union Berlin,1,D
+GER,Wolfsburg,Union Berlin,1,W
 GER,Wolfsburg,Eintracht Frankfurt,1,D
 GER,Wolfsburg,Bayer Leverkusen,1,L
 GER,Wolfsburg,Werder Bremen,1,W
 GER,Wolfsburg,RB Leipzig,1,L
-GER,Wolfsburg,Freiburg,1,D
+GER,Wolfsburg,Freiburg,1,W
 GER,Wolfsburg,Bayern Munich,1,L
 GER,Wolfsburg,FC Koln,1,W
 GER,Wolfsburg,Hoffenheim,1,W
@@ -3449,19 +3449,19 @@ GER,Wolfsburg,Bochum,1,W
 GER,Wolfsburg,Darmstadt,1,W
 GER,Wolfsburg,Mainz,1,W
 GER,Wolfsburg,FC Koln,0,W
-GER,Wolfsburg,Hoffenheim,0,D
+GER,Wolfsburg,Hoffenheim,0,W
 GER,Wolfsburg,Dortmund,0,L
 GER,Wolfsburg,Stuttgart,0,L
-GER,Wolfsburg,Augsburg,0,D
-GER,Wolfsburg,B. Monchengladbach,0,L
-GER,Wolfsburg,Bochum,0,D
-GER,Wolfsburg,Darmstadt,0,D
+GER,Wolfsburg,Augsburg,0,W
+GER,Wolfsburg,B. Monchengladbach,0,D
+GER,Wolfsburg,Bochum,0,W
+GER,Wolfsburg,Darmstadt,0,W
 GER,Wolfsburg,Mainz,0,D
-GER,Wolfsburg,Heidenheim,0,L
-GER,Wolfsburg,Union Berlin,0,L
+GER,Wolfsburg,Heidenheim,0,D
+GER,Wolfsburg,Union Berlin,0,D
 GER,Wolfsburg,Eintracht Frankfurt,0,L
 GER,Wolfsburg,Bayer Leverkusen,0,L
-GER,Wolfsburg,Werder Bremen,0,L
+GER,Wolfsburg,Werder Bremen,0,D
 GER,Wolfsburg,RB Leipzig,0,L
 GER,Wolfsburg,Freiburg,0,L
 GER,Wolfsburg,Bayern Munich,0,L
@@ -3471,34 +3471,34 @@ ENG,Wolves,Manchester City,1,L
 ENG,Wolves,Aston Villa,1,D
 ENG,Wolves,Newcastle,1,L
 ENG,Wolves,Tottenham,1,L
-ENG,Wolves,Burnley,1,D
-ENG,Wolves,Nottingham,1,D
+ENG,Wolves,Burnley,1,W
+ENG,Wolves,Nottingham,1,W
 ENG,Wolves,Chelsea,1,L
 ENG,Wolves,Everton,1,D
 ENG,Wolves,Manchester Utd,1,L
 ENG,Wolves,Brentford,1,D
 ENG,Wolves,Sheffield Utd,1,W
-ENG,Wolves,Fulham,1,D
+ENG,Wolves,Fulham,1,W
 ENG,Wolves,West Ham,1,D
 ENG,Wolves,Arsenal,1,L
-ENG,Wolves,Bournemouth,1,W
+ENG,Wolves,Bournemouth,1,D
 ENG,Wolves,Luton,1,W
-ENG,Wolves,Crystal Palace,1,D
+ENG,Wolves,Crystal Palace,1,W
 ENG,Wolves,Manchester Utd,0,L
 ENG,Wolves,Everton,0,D
 ENG,Wolves,Crystal Palace,0,D
-ENG,Wolves,Luton,0,W
+ENG,Wolves,Luton,0,D
 ENG,Wolves,Bournemouth,0,D
 ENG,Wolves,Sheffield Utd,0,D
 ENG,Wolves,Fulham,0,D
 ENG,Wolves,Arsenal,0,L
-ENG,Wolves,West Ham,0,D
+ENG,Wolves,West Ham,0,L
 ENG,Wolves,Brentford,0,D
 ENG,Wolves,Brighton,0,L
 ENG,Wolves,Chelsea,0,L
 ENG,Wolves,Tottenham,0,L
 ENG,Wolves,Newcastle,0,L
-ENG,Wolves,Aston Villa,0,D
+ENG,Wolves,Aston Villa,0,L
 ENG,Wolves,Burnley,0,D
 ENG,Wolves,Nottingham,0,D
 ENG,Wolves,Manchester City,0,L
