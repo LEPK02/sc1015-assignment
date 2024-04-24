@@ -2,7 +2,7 @@
 by Luke, Rachmiel, and Billie (FCEA Team 6)
 
 ### Setting Up the Project Locally
-1. **Clone the Repository**  
+1. Clone the Repository
    ```bash
    git clone https://github.com/LEPK02/sc1015-assignment.git
    ```
