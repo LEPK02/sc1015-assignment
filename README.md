@@ -1,6 +1,17 @@
 # Predicting Football Results Using Machine Learning
 by Luke, Rachmiel, and Billie (FCEA Team 6)
-## Workflow
+
+### Setting Up the Project Locally
+Clone the Repository
+```git clone https://github.com/LEPK02/sc1015-assignment.git```
+Navigate to the Project Directory
+```cd sc1015-assignment```
+Create the Conda Environment
+```conda env create -f environment.yml```
+Activate the Conda Environment
+```conda activate sc1015```
+
+## Workflow: Running the project
 
 ### 1. Data collection via webscraping (./webscraping)
 - [teams_data_fbref.ipynb](./webscraping/teams_data_fbref.ipynb) (inspired by [Parth Athale](https://github.com/parth1902/Scrape-FBref-data)) -> pull season data from [FBRef](https://fbref.com/en/) using **Beautiful Soup**
@@ -18,7 +29,7 @@ by Luke, Rachmiel, and Billie (FCEA Team 6)
         - Extract timestamp
     - Gather fixtures (matches to be played) for current season (2023-24)
     - Gather league table for current season (2023-24) so that we can evaluate our predictions for current season
-- [squad_values_transfermarkt.ipynb](./webscraping/squad_values_transfermarkt.ipynb) -> pull season data from [FBRef](https://fbref.com/en/) using **Beautiful Soup**
+- [squad_values_transfermarkt.ipynb](./webscraping/squad_values_transfermarkt.ipynb) -> pull season data from [Transfermarkt](https://www.transfermarkt.com/) using **Beautiful Soup**
     - Gather season data from top 5 leagues
         - Find all teams
         - Find table using HTML tags
@@ -145,9 +156,23 @@ Data related to team details and performance:
 ## Telegram Workflow Bot
 Sends notification on push/PR ([setup](https://cyaninfinite.com/getting-updates-from-github-via-telegram-bot/))
 
+## References
+- Webscraping:
+  - Fbref for team performance: https://fbref.com/en/
+  - Flashscore for team results: https://www.flashscore.com/
+  - Transfermarkt for team squad values: https://www.transfermarkt.com/
+- Data processing
+  - COVID cancels Ligue 1 2019-20: https://www.cbssports.com/soccer/news/ligue-1-season-called-off-after-french-pm-edouard-philippe-bans-all-sporting-events-until-september/
+  - Extra game for Italy 2022-23: https://www.90min.com/posts/spezia-vs-hellas-verona-everything-you-need-to-know-serie-a-relegation-play-off
+  - Missing game for Italy 2023-24: https://onefootball.com/en/news/atalanta-vs-fiorentina-might-not-be-played-until-june-39340806
+- Feature Selection:
+   - Boruta Algorithm: https://www.sciencedirect.com/science/article/pii/S1877050922007955
+- Machine Learning 
+  - Classification Algorithms: https://towardsdatascience.com/top-10-binary-classification-algorithms-a-beginners-guide-feeacbd7a3e2
+- Deep Learning
+  - LSTM for football predictions: https://www.sciencedirect.com/science/article/pii/S2352864821000602
+
 ## Contributors
-Rachmiel - Model, Webscraping, Data Processing, Presentation
-<br>
-Luke - EDA, Webscraping, Data Processing, Presentation
-<br>
-Billie - Quality Assurance
+- Rachmiel: Model, Webscraping, Data Processing, Presentation
+- Luke: EDA, Webscraping, Data Processing, Presentation
+- Billie: Quality Assurance
